@@ -36,7 +36,7 @@ With reference to (2), the following are likely areas of focus:
 The following are members of the TSC for the duration of the trial:
 
  - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic
- - Martin Tarversell, @martin-traverse, Accenture
+ - Martin Traverse, @martin-traverse, Accenture
  - Peter Thomas, @peter-thomas-db, Deutsche
  - Stephen Goldbaum, @stephengoldbaumyes, MS
  - Veronica Quinones, @vquinon, BMO
