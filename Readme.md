@@ -47,3 +47,4 @@ The following are members of the TSC for the duration of the trial:
  - Cara Delia, @cdeliaRH, Red Hat
  - Riko Eksteen, @rikoe, Adaptive
  - Jon Freedman, @jonfreedman, Point 72
+ - Elspeth Minty, @eminty69, RBC
