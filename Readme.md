@@ -49,6 +49,22 @@ The following are members of the TSC for the duration of the trial:
  - Jon Freedman, @jonfreedman, Point 72
  - Elspeth Minty, @eminty69, RBC
 
+## Ways of Working
+
+The group favours an asynchonous way of working, allowing members to participate without the need to align calendars. To support this, we will use thf following communication channels:
+
+ - We use [GitHub discussions](https://github.com/finos/technical-steering-committee/discussions) as our primary mechanism for discussing and collaboration
+ - We use the email distribution list (tsc@lists.finos.org) for announcements (e.g. announcing a meeting)
+ - We use our regular (minuted) meetings primarily for planning
+ - We have ad-hoc meetings as and when they are needed. These will not be minuted.
+
+We will hold regular minuted meetings, this will:
+
+ - Take place bi-weekly, 4pm (UTC) Thursday
+ - The agenda will be circulated in advance
+ - All TSC members are welcoem to add agenda items
+ - If we do not have any items for a given meeting, we will cancel
+
 ## Get in touch
 
 The TSC can be reached either via issues / PR / discussions on this repo or via email tsc@lists.finos.org.
