@@ -53,6 +53,7 @@ The following are members of the TSC for the duration of the trial:
 
 The group favours an asynchonous way of working, allowing members to participate without the need to align calendars. To support this, we will use thf following communication channels:
 
+ - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39)
  - We use [GitHub discussions](https://github.com/finos/technical-steering-committee/discussions) as our primary mechanism for discussing and collaboration
  - We use the email distribution list (tsc@lists.finos.org) for announcements (e.g. announcing a meeting)
  - We use our regular (minuted) meetings primarily for planning
