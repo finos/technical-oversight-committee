@@ -65,6 +65,10 @@ We will hold regular minuted meetings, this will:
  - All TSC members are welcoem to add agenda items
  - If we do not have any items for a given meeting, we will cancel
 
+## Disclaimer
+
+Comments, questions, and opinions stated within this repository are personal statements from individuals and do not represent any official or unofficial views of any member organization.
+
 ## Get in touch
 
 The TSC can be reached either via issues / PR / discussions on this repo or via email tsc@lists.finos.org.
