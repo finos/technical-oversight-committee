@@ -16,6 +16,8 @@ The FINOS TSC is currently in formation. The following gives a brief overview of
  - 20 April 2022 - FINOS Governing Board approved the formation of a TSC on a trial basis (circa 6 months)
  - 21 April 2022 - call for TSC nominations from the Governing Board, deadline 29 April
  - 4 May 2022 - TSC announced at [FINOS All Community Call](https://github.com/finos/community/issues/183)
+ 
+Since then, the group has been meeting on a regular basis, with the topics discussed, and decisions we have made, recorded in our [meeting minutes](https://github.com/finos/technical-steering-committee/tree/master/meetings)
 
 ## TSC initial focus
 
@@ -51,20 +53,13 @@ The following are members of the TSC for the duration of the trial:
 
 ## Ways of Working
 
-The group favours an asynchonous way of working, allowing members to participate without the need to align calendars. To support this, we will use thf following communication channels:
+The group favours an asynchonous way of working, allowing members to participate without the need to align calendars. To support this, we use the following communication channels:
 
  - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39)
  - We use [GitHub discussions](https://github.com/finos/technical-steering-committee/discussions) as our primary mechanism for discussing and collaboration
  - We use the email distribution list (tsc@lists.finos.org) for announcements (e.g. announcing a meeting)
  - We use our regular (minuted) meetings primarily for planning
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
-
-We will hold regular minuted meetings, this will:
-
- - Take place bi-weekly, 4pm (UTC) Thursday
- - The agenda will be circulated in advance
- - All TSC members are welcoem to add agenda items
- - If we do not have any items for a given meeting, we will cancel
 
 ## Disclaimer
 
