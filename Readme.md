@@ -48,7 +48,7 @@ The following are members of the TSC for the duration of the trial:
  - Olivier Poupeney, @opoupeney, Symphony
  - Cara Delia, @cdeliaRH, Red Hat
  - Riko Eksteen, @rikoe, Adaptive
- - Jon Freedman, @jonfreedman, Member at Large
+ - Jon Freedman, @jonfreedman, Brevan Howard
  - Elspeth Minty, @eminty69, RBC
 
 ## Ways of Working
