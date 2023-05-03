@@ -1,5 +1,5 @@
 ---
-name: "\U0001F91D Technical Steering Committee Meeting Minutes"
+name: "Technical Steering Committee Meeting Minutes"
 about: To track Technical Steering Committee meeting agenda and attendance
 title: YYYY MMM DD - Technical Steering Committee Meeting Minutes
 labels: meeting
