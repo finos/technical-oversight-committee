@@ -11,9 +11,17 @@ assignees:
 YYYYMMDD - time
 
 ### Zoom Info
-- Meeting link: 
-- Meeting number: 
-- Call-in:
+(Wednesday Meeting)
+- Meeting link: https://zoom.us/j/93181085065
+- Meeting number: 931 8108 5065
+- Password: Check the email invite
+- Call-in: Find your local number https://zoom.us/u/abk6zPS0y5
+
+(Tuesday Meeting)
+- Meeting link: https://zoom.us/j/92917330824
+- Meeting number: : 929 1733 0824
+- Password: Check the email invite
+- Call-in: Find your local number https://zoom.us/u/aeyxSJfCnu
 
 ## Meeting notices
 - FINOS **Project leads** are responsible for observing the FINOS guidelines for [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
