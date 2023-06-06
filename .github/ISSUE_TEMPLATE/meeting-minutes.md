@@ -19,7 +19,7 @@ YYYYMMDD - time
 
 (Tuesday Meeting)
 - Meeting link: https://zoom.us/j/92917330824
-- Meeting number: : 929 1733 0824
+- Meeting number: 929 1733 0824
 - Password: Check the email invite
 - Call-in: Find your local number https://zoom.us/u/aeyxSJfCnu
 
