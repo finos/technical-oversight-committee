@@ -42,7 +42,7 @@ The following are members of the TSC for the duration of the trial:
  - Peter Thomas, @peter-thomas-db, Deutsche
  - Stephen Goldbaum, @stephengoldbaumyes, MS
  - Veronica Quinones, @vquinon, BMO
- - Ephrim Stanley, @beekemarie, GS
+ - Ephrim Stanley, @epsstan, GS
  - Bill Cameron, @billc123-jam, Citi
  - Bruno Domingues, @brunodom, Intel
  - Olivier Poupeney, @opoupeney, Symphony
