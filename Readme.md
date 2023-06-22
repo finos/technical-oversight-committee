@@ -45,7 +45,7 @@ The following are members of the TSC for the duration of the trial:
  - Ephrim Stanley, @epsstan, GS
  - Bill Cameron, @billc123-jam, Citi
  - Bruno Domingues, @brunodom, Intel
- - Olivier Poupeney, @opoupeney, Symphony
+ - Olivier Poupeney, @opoupeney, Orkes
  - Cara Delia, @cdeliaRH, Red Hat
  - Riko Eksteen, @rikoe, Adaptive
  - Jon Freedman, @jonfreedman, Brevan Howard
