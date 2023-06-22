@@ -2,6 +2,8 @@
 
 All TSC meetings are minuted, with the full catalogue of provided here:
 
+- [June 20, 2023](2023-06-20.md)
+- [June 7, 2023](2023-06-07.md)
 - [May 17, 2023](2023-05-17.md)
 - [April 19, 2023](2023-04-19.md)
 - [March 15, 2023](2023-03-15.md)
