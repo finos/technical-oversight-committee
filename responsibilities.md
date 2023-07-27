@@ -1,10 +1,10 @@
-# TSC Responsibilities
+# TOC Responsibilities
 
-This page describes the TSC responsibilities, and the processes that support each. At a very high-level, the TSC supports both the [FINOS team](https://www.finos.org/team) and the [Governing Board](https://www.finos.org/governing-board) to provide technical oversight for the projects in the FINOS portfolio.
+This page describes the TOC responsibilities, and the processes that support each. At a very high-level, the TOC supports both the [FINOS team](https://www.finos.org/team) and the [Governing Board](https://www.finos.org/governing-board) to provide technical oversight for the projects in the FINOS portfolio.
 
-The key responsibilities of the TSC are tabulated below:
+The key responsibilities of the TOC are tabulated below:
 
-| **TSC Responsibilities**                                                   | **Outcome**                                                                                                           |**Frequency** |
+| **TOC Responsibilities**                                                   | **Outcome**                                                                                                           |**Frequency** |
 |----------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------- | ------------ |
 | **Landscape Ownership**                                                    |                                                                                                                       |              |
 | Solicit and recommend cross-project synergies                              | Review project landscape and recommend                                                                                | Quarterly    |
@@ -22,31 +22,31 @@ The key responsibilities of the TSC are tabulated below:
 | **FINOS Strategy**                                                         |                                                                                                                       |              |
 | Work with the Governing Board to identify use-cases / areas of interest    | Engage with Executive Sponsors to identify use cases and promote implementation of strategically-significant projects | Quarterly    |
 | Provide strategic input based on existing landscape components             | Identify potential strategic direction, based on existing project collateral                                          | Quarterly    |
-| Report to the board                                                        | Engage in annual strategy planning; provide a quarterly report of TSC activities and decisions                        | Quarterly    |
+| Report to the board                                                        | Engage in annual strategy planning; provide a quarterly report of TOC activities and decisions                        | Quarterly    |
 
 ## Processes
 
-TSC activities are managed in GitHub via the [Project Backlog](https://github.com/orgs/finos/projects/39), which is maintained in collaboration between the FINOS team and the TSC chair.
+TOC activities are managed in GitHub via the [Project Backlog](https://github.com/orgs/finos/projects/39), which is maintained in collaboration between the FINOS team and the TOC chair.
 
 The processes needed to support the above responsibilities are still under development. The following section describes those where a process has been defined and is active.
 
 ### Project Contributions
 
- - Project contributions are submitted via the [FINOS community project](https://github.com/finos/community) as issues. The FINOS team perform initial validation, indicating that they are ready for TSC input via the `ready-for-tsc` label
- - A TSC member is assigned to evaluate the contribution using our [contribution principles](https://github.com/finos/technical-steering-committee/blob/master/contribution-principles.md)
- - If the evaluation is straightforward, the TSC member will indicate the outcome, providing a simple narrative, directly on the issue itself
- - For contributions where further debate is needed (on the TSC members discretion), the matter will be raised with the wider TSC
+ - Project contributions are submitted via the [FINOS community project](https://github.com/finos/community) as issues. The FINOS team perform initial validation, indicating that they are ready for TOC input via the `ready-for-TOC` label
+ - A TOC member is assigned to evaluate the contribution using our [contribution principles](https://github.com/finos/technical-steering-committee/blob/master/contribution-principles.md)
+ - If the evaluation is straightforward, the TOC member will indicate the outcome, providing a simple narrative, directly on the issue itself
+ - For contributions where further debate is needed (on the TOC members discretion), the matter will be raised with the wider TOC
 
 ### Project Activations
 
- - Project activations are submitted via the [FINOS community project](https://github.com/finos/community) as issues. The FINOS team perform initial validation, indicating that they are ready for TSC input via the `ready-for-tsc` label
- - A TSC member is assigned to evaluate the activation
- - The TSC member provides input on the following topics
+ - Project activations are submitted via the [FINOS community project](https://github.com/finos/community) as issues. The FINOS team perform initial validation, indicating that they are ready for TOC input via the `ready-for-TOC` label
+ - A TOC member is assigned to evaluate the activation
+ - The TOC member provides input on the following topics
    - Usefulness - is it clear what business problem this project is addressing? What are the use cases that it helps solve? What are its main benefits?
    - Community - how is the project being used and consumed? There may be different ways for firms/individuals to consume and contribute to a project, more or less relevant to assess its maturity.
    - Progress - is the project following the publicly shared roadmap?
- - If the evaluation is straightforward, the TSC member will indicate the outcome, providing a simple narrative, directly on the issue itself
- - For activations where further debate is needed (on the TSC members discretion), the matter will be raised with the wider TSC
+ - If the evaluation is straightforward, the TOC member will indicate the outcome, providing a simple narrative, directly on the issue itself
+ - For activations where further debate is needed (on the TOC members discretion), the matter will be raised with the wider TOC
 
 ### Board reporting
 
