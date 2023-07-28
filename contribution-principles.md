@@ -1,6 +1,6 @@
-The Technical Steering Committee (TSC) is responsible for providing advice and guidance to the Governing Board and FINOS team as part of the [project contribution process](https://community.finos.org/docs/governance/software-projects/contribution/). The FINOS team is predominantly responsible for ensuring the technical aspects of contribution are covered (e.g. legal, compliance, licencing, IP), whereas the TSC is responsible for determining whether a potential contribution is a good 'fit' for FINOS.
+The Technical Oversight Committee (TOC) is responsible for providing advice and guidance to the Governing Board and FINOS team as part of the [project contribution process](https://community.finos.org/docs/governance/software-projects/contribution/). The FINOS team is predominantly responsible for ensuring the technical aspects of contribution are covered (e.g. legal, compliance, licencing, IP), whereas the TOC is responsible for determining whether a potential contribution is a good 'fit' for FINOS.
 
-While deteriming fit is always going to be somewhat subjective, the TSC has agreed on the following principles, which should be used to guide discussions and inform decisions. In applying these principles, the TSC members should be considered industry experts, they speak for the FINOS community as a whole. 
+While deteriming fit is always going to be somewhat subjective, the TOC has agreed on the following principles, which should be used to guide discussions and inform decisions. In applying these principles, the TOC members should be considered industry experts, they speak for the FINOS community as a whole. 
 
 The principles are as follows:
 

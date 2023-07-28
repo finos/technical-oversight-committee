@@ -1,6 +1,6 @@
 # Meeting Minutes
 
-All TSC meetings are minuted, with the full catalogue provided here:
+All TOC meetings are minuted, with the full catalogue provided here:
 
 - [July 5, 2023](2023-07-05.md)
 - [June 20, 2023](2023-06-20.md)
