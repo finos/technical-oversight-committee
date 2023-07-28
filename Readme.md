@@ -20,6 +20,8 @@ The following are the current TOC members:
  - Jon Freedman, @jonfreedman, Brevan Howard
  - Elspeth Minty, @eminty69, RBC
 
+The voting process is [described on this page](voting.md).
+
 ## Responsibilities
 
 The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](responsibilities.md).
