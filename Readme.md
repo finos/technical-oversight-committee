@@ -29,7 +29,7 @@ The responsibilities of this group, together with the processes we have put in p
 The group favours an asynchonous way of working, allowing members to participate without the need to align calendars. To support this, we use the following communication channels:
 
  - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39)
- - We use [GitHub discussions](https://github.com/finos/technical-steering-committee/discussions) as our primary mechanism for discussing and collaboration
+ - We use [GitHub discussions](https://github.com/finos/technical-oversight-committee/discussions) as our primary mechanism for discussing and collaboration
  - We use the email distribution list (tsc@lists.finos.org) for announcements (e.g. announcing a meeting)
  - We use our regular (minuted) meetings primarily for planning
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
@@ -40,4 +40,4 @@ Comments, questions, and opinions stated within this repository are personal sta
 
 ## Get in touch
 
-The TOC can be reached either via issues / PR / discussions on this repo or via email tsc@lists.finos.org.
+The TOC can be reached either via issues / PR / discussions on this repo or via email toc@lists.finos.org.
