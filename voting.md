@@ -10,7 +10,7 @@ Candidates are expected to be:
 
 - Engaged, and active - committing time to both formal meetings and various other activities. They should actively engage with FINOS Projects.
 - Knowledgeable and professional
-- ~Able to leverage their organisation~ Active advocates for FINOS
+- Active advocates for FINOS
 - Neutral - first-and-foremost representing the needs of the members
 - Be present - at a minimum they are expected to prioritise and attend the TOC meetings.
 - Serve a 2 year term on the TOC
@@ -24,7 +24,7 @@ The Governing Board vote is conducted via the voting contacts, with one vote per
 
 The TOC elects a Chair (serving a 2 year term), who will have a seat on the Governing Board. It is their responsibility to act as a liaison between the TOC and GB, and manage the TOC activities effectively. 
 
-There is a minimum participation threshold for TOC members, with the expectation that they attend at least 50% of the ~monthly~ scheduled TOC meetings, over a rolling quarter. If a member fails to meet this threshold, it triggers a discussion with the Chair, who will use their discretion to determine whether that member should release their seat, by making a recommendation to the GB.
+There is a minimum participation threshold for TOC members, with the expectation that they attend at least 50% of the scheduled TOC meetings, over a rolling quarter. If a member fails to meet this threshold, it triggers a discussion with the Chair, who will use their discretion to determine whether that member should release their seat, by making a recommendation to the GB.
 
 TOC elections happen at most twice per calendar year. At the beginning Q1 and Q3 if there are any vacant TOC seats, a vote is held. Note, the composition of 6 seats filled via Governing Board vote and 6 via leadership vote is maintained through his voting process, with the exact seat numbers being determined based on vacancies.
 
