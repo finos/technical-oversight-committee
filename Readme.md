@@ -7,7 +7,6 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 The following are the current TOC members:
 
  - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic
- - Peter Thomas, @peter-thomas-db, Deutsche
  - Stephen Goldbaum, @stephengoldbaumyes, MS
  - Ephrim Stanley, @epsstan, GS
  - Bill Cameron, @billc123-jam, Citi
