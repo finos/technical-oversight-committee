@@ -2,6 +2,8 @@
 
 All TOC meetings are minuted, with the full catalogue provided here:
 
+- [Sept 12, 2023](2023-09-12.md)
+- [Aug 17, 2023](2023-08-17.md)
 - [July 5, 2023](2023-07-05.md)
 - [June 20, 2023](2023-06-20.md)
 - [June 7, 2023](2023-06-07.md)
