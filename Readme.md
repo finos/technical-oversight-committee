@@ -29,7 +29,7 @@ The group favours an asynchonous way of working, allowing members to participate
 
  - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39)
  - We use [GitHub discussions](https://github.com/finos/technical-oversight-committee/discussions) as our primary mechanism for discussing and collaboration
- - We use the email distribution list (tsc@lists.finos.org) for announcements (e.g. announcing a meeting)
+ - We use the email distribution list (toc@lists.finos.org) for announcements (e.g. announcing a meeting)
  - We use our regular (minuted) meetings primarily for planning
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
