@@ -16,7 +16,9 @@ The following are the current TOC members:
  - Riko Eksteen, @rikoe, Adaptive (until July 19th 2024)
  - Jon Freedman, @jonfreedman, Brevan Howard (until July 19th 2024)
  - Elspeth Minty, @eminty69, RBC (until July 19th 2024)
-
+ - Damian Reeves, @DamianReeves, Capital One (until October 30th 2025)
+ - Peter Smulovics, @psmulovics, Morgan Stanley (until October 30th 2025)
+ 
 The voting process is [described on this page](voting.md).
 
 ## Responsibilities
