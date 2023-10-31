@@ -6,16 +6,16 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 
 The following are the current TOC members:
 
- - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic
- - Stephen Goldbaum, @stephengoldbaumyes, MS
- - Ephrim Stanley, @epsstan, GS
- - Bill Cameron, @billc123-jam, Citi
- - Bruno Domingues, @brunodom, Intel
- - Olivier Poupeney, @opoupeney, Orkes
- - Cara Delia, @cdeliaRH, Red Hat
- - Riko Eksteen, @rikoe, Adaptive
- - Jon Freedman, @jonfreedman, Brevan Howard
- - Elspeth Minty, @eminty69, RBC
+ - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic (until July 19th 2024)
+ - Stephen Goldbaum, @stephengoldbaumyes, MS (until July 19th 2024)
+ - Ephrim Stanley, @epsstan, GS (until July 19th 2024)
+ - Bill Cameron, @billc123-jam, Citi (until July 19th 2024)
+ - Bruno Domingues, @brunodom, Intel (until July 19th 2024)
+ - Olivier Poupeney, @opoupeney, Orkes (until July 19th 2024)
+ - Cara Delia, @cdeliaRH, Red Hat (until July 19th 2024)
+ - Riko Eksteen, @rikoe, Adaptive (until July 19th 2024)
+ - Jon Freedman, @jonfreedman, Brevan Howard (until July 19th 2024)
+ - Elspeth Minty, @eminty69, RBC (until July 19th 2024)
 
 The voting process is [described on this page](voting.md).
 
