@@ -4,9 +4,9 @@ This page describes the TOC responsibilities, and the processes that support eac
 
 The key responsibilities of the TOC are tabulated below:
 
-| **TOC Responsibilities**                                                   | **Outcome**                                                                                                           |**Frequency** |
-|----------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------- | ------------ |
-| **Landscape Ownership**                                                    |                                                                                                                       |              |
+| **TOC Responsibilities** | **Outcome** | **Frequency** | **Process** |
+| - | - | - | - | 
+| **Landscape Ownership** |
 | Solicit and recommend cross-project synergies                              | Review project landscape and recommend                                                                                | Quarterly    |
 | Establish technical and security standards, conventions and best practice  |                                                                                                                       | Twice a year |
 | Provide impartial and knowledge-based input into technical disputes        | Provide technical recommendations and next steps for dispute resolution and community messaging/engagement            | As needed    |
@@ -14,15 +14,15 @@ The key responsibilities of the TOC are tabulated below:
 | Review of project alignment with FINOS strategy                            | Recommend new or existing project alignment with strategic goals, as set by the Board                                 | Quarterly    |
 | Evolve the overall landscape                                               | Examine the FINOS project landscape and highlight gaps or potential for additions or removals                         | Twice a year |
 | Assist FINOS in maintaining life-cycle criteria                            | Review existing criteria and recommend potential changes or assert continuation as is.                                | Annually     |
-| Assist FINOS in managing life-cycle transitions                            | Evaluate and respond to submitted proposals on monthly basis                                                          | As needed      |
-| **Landscape growth**                                                       |                                                                                                                       |              |
-| Review and approve contributions                                           | Review new contribution proposals and provide timely recommendations and feedback                                     | As needed      |
-| Assist FINOS in promote new contributions                                  | Engage with community to communicate value of projects and document potential use cases                               | As needed      |
-| Assist FINOS in nurturing new project contributions                        | Identify opportunities to associate existing open source projects with the FSI community; recommend new projects      | As needed      |
-| **FINOS Strategy**                                                         |                                                                                                                       |              |
+| Assist FINOS in managing life-cycle transitions                            | Evaluate and respond to submitted proposals on monthly basis                                                          | As needed    | [link](#project-activations) |
+| **Landscape growth** |
+| Review and approve contributions                                           | Review new contribution proposals and provide timely recommendations and feedback                                     | As needed    | [link](#project-contributions) |
+| Assist FINOS in promote new contributions                                  | Engage with community to communicate value of projects and document potential use cases                               | As needed    |
+| Assist FINOS in nurturing new project contributions                        | Identify opportunities to associate existing open source projects with the FSI community; recommend new projects      | As needed    |
+| **FINOS Strategy** |
 | Work with the Governing Board to identify use-cases / areas of interest    | Engage with Executive Sponsors to identify use cases and promote implementation of strategically-significant projects | Quarterly    |
 | Provide strategic input based on existing landscape components             | Identify potential strategic direction, based on existing project collateral                                          | Quarterly    |
-| Report to the board                                                        | Engage in annual strategy planning; provide a quarterly report of TOC activities and decisions                        | Quarterly    |
+| Report to the board                                                        | Engage in annual strategy planning; provide a quarterly report of TOC activities and decisions                        | Quarterly    | [link](#board-reporting) |
 
 ## Processes
 
