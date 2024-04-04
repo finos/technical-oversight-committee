@@ -12,7 +12,7 @@ The following are the current TOC members:
  - Bill Cameron, @billc123-jam, Citi (until July 19th 2024)
  - Bruno Domingues, @brunodom, Intel (until July 19th 2024)
  - Olivier Poupeney, @opoupeney, Orkes (until July 19th 2024)
- - Cara Delia, @cdeliaRH, Red Hat (until July 19th 2024)
+ - Cara Delia, @caradelia, Red Hat (until July 19th 2024)
  - Riko Eksteen, @rikoe, Adaptive (until July 19th 2024)
  - Jon Freedman, @jonfreedman, Brevan Howard (until July 19th 2024)
  - Elspeth Minty, @eminty69, Royal Bank of Canada (until July 19th 2024)
