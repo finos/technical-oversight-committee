@@ -35,6 +35,11 @@ The group favours an asynchonous way of working, allowing members to participate
  - We use our regular (minuted) meetings primarily for planning
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
+## Meeting minutes
+All meetings minutes are available as GitHub issues - https://github.com/finos/technical-oversight-committee/issues?q=is:issue+label:meeting+ ; those open, refer to meeting minutes that haven't been completed or reviewed yet.
+
+Historical meetings from 2022/2023 are available on https://github.com/finos/technical-oversight-committee/tree/main/meetings-2022-2023
+
 ## Disclaimer
 
 Comments, questions, and opinions stated within this repository are personal statements from individuals and do not represent any official or unofficial views of any member organization.
