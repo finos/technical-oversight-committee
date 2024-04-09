@@ -4,25 +4,19 @@ This page describes the TOC responsibilities, and the processes that support eac
 
 The key responsibilities of the TOC are tabulated below:
 
-| **TOC Responsibilities** | **Outcome** | **Frequency** | **Process** |
-| - | - | - | - | 
-| **Landscape Ownership** |
-| Solicit and recommend cross-project synergies                              | Review project landscape and recommend                                                                                | Quarterly    |
-| Establish technical and security standards, conventions and best practice  |                                                                                                                       | Twice a year |
-| Provide impartial and knowledge-based input into technical disputes        | Provide technical recommendations and next steps for dispute resolution and community messaging/engagement            | As needed    |
-| Review of project health                                                   | Review project activity and recommend actions as necessary                                                            | Quarterly    |
-| Review of project alignment with FINOS strategy                            | Recommend new or existing project alignment with strategic goals, as set by the Board                                 | Quarterly    |
-| Evolve the overall landscape                                               | Examine the FINOS project landscape and highlight gaps or potential for additions or removals                         | Twice a year |
-| Assist FINOS in maintaining life-cycle criteria                            | Review existing criteria and recommend potential changes or assert continuation as is.                                | Annually     |
-| Assist FINOS in managing life-cycle transitions                            | Evaluate and respond to submitted proposals on monthly basis                                                          | As needed    | [link](#project-activations) |
-| **Landscape growth** |
-| Review and approve contributions                                           | Review new contribution proposals and provide timely recommendations and feedback                                     | As needed    | [link](#project-contributions) |
-| Assist FINOS in promote new contributions                                  | Engage with community to communicate value of projects and document potential use cases                               | As needed    |
-| Assist FINOS in nurturing new project contributions                        | Identify opportunities to associate existing open source projects with the FSI community; recommend new projects      | As needed    |
-| **FINOS Strategy** |
-| Work with the Governing Board to identify use-cases / areas of interest    | Engage with Executive Sponsors to identify use cases and promote implementation of strategically-significant projects | Quarterly    |
-| Provide strategic input based on existing landscape components             | Identify potential strategic direction, based on existing project collateral                                          | Quarterly    |
-| Report to the board                                                        | Engage in annual strategy planning; provide a quarterly report of TOC activities and decisions                        | Quarterly    | [link](#board-reporting) |
+## Reactive, Supported by TOC
+- **Supports designing and collecting use cases for hackathons and tech sprints** 
+- **Support the creation (and recruitment) of a mentorship program** 
+- **Project Contributions** - assessing whether contributions are a good fit for FINOS.
+- **Project Activations** - determining when projects are ready to be 'promoted'.
+
+## Proactive
+- **Lead recruitment of FINOS Ambassadors** - engage with Grizz, understand how the Ambassador program works, find potential candidates and facilitate the connection with the FINOS team
+- **Recruit 5 project demos for OSFFs** - Eteri is the point of contact from the FINOS team
+- **Participates in OSFF promotional activities**
+- **TOC sponsor is actively engaged in the success of the strategic initiative** - All FINOS Strategic initiatives have a TOC sponsor assigned; this person is expected to join meetings, provide technical steering and report back to the TOC; these reports will be delivered to the FINOS Board on a quarterly cadence
+- **Engage with all projects incubating for over 1 year to nurture activation or archiviation**
+- **Produce a quarterly report on overall FINOS project landscape / health**
 
 ## Processes
 
