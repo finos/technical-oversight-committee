@@ -45,3 +45,18 @@ The processes needed to support the above responsibilities are still under devel
 ### Board reporting
 
  - It is the responsibility of the Chair to provide regular and timely reports for the Governing Board
+
+### Project reporting
+
+In order to measure project health, the following metrics should be collected:
+- Number of code changes (commits) and proposals (Pull Requests) in the last quarter made by humans (no bots); if the sum of changes and proposals is lower than 5 (to be confirmed), then the project can be considered `inactive`.
+- Average response time from the project team to issues, pull requests; if the average response time (in the last quarter) is higher than 5 days (to be confirmed), then the project can be considered `unresponsive`.
+- CII Best Practices badge; if the project didn't apply for a badge yet, or the score is lower than 70%, then the project can be considered `not aligned with best practices`.
+- Documentation; if the project doesn't have a documentation website and the README.md length is lower than 400 words, then the project can be considered `not properly documented`.
+- SBOM report publicly; if the project has an SBOM available in SPDX format, which demonstrates that no CVEs and license violations are found, then the project can be considered `fully compliant`.
+
+#### Qualitative checks (optional)
+- Response time on mailing list inquiries
+- Documentation quality
+- Release process in place
+- Roadmap and milestones in place
