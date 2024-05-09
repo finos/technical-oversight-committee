@@ -46,14 +46,18 @@ The processes needed to support the above responsibilities are still under devel
 
  - It is the responsibility of the Chair to provide regular and timely reports for the Governing Board
 
-### Project reporting
+### Reporting on FINOS Initiatives
+
+> [!NOTE]  
+> Depending on the type of initiative (Software Project, Standard, Special Interest Group) and maturity (Incubating or Active), metrics and criteria may vary; we will start focusing on Software Projects; the initial focus on reporting will be around **Incubating Software Projects**.
 
 In order to measure project health, the following metrics should be collected:
-- Number of code changes (commits) and proposals (Pull Requests) in the last quarter made by humans (no bots); if the sum of changes and proposals is lower than 5 (to be confirmed), then the project can be considered `inactive`.
-- Average response time from the project team to issues, pull requests; if the average response time (in the last quarter) is higher than 5 days (to be confirmed), then the project can be considered `unresponsive`.
-- CII Best Practices badge; if the project didn't apply for a badge yet, or the score is lower than 70%, then the project can be considered `not aligned with best practices`.
-- Documentation; if the project doesn't have a documentation website and the README.md length is lower than 400 words, then the project can be considered `not properly documented`.
-- SBOM report publicly; if the project has an SBOM available in SPDX format, which demonstrates that no CVEs and license violations are found, then the project can be considered `fully compliant`.
+- **Number of code changes** (commits) and proposals (Pull Requests) in the last quarter made by humans (no bots); if the sum of changes and proposals is lower than 5 (to be confirmed), then the project can be considered `inactive`.
+- **Average response time to inquiries** (issues, Pull Requests, emails, ...); if the average response time (in the last quarter) is higher than 5 days (to be confirmed), then the project can be considered `unresponsive`.
+- **CII Best Practices badge**; if the project didn't apply for a badge yet, or the score is lower than 70%, then the project can be considered `not aligned with best practices`.
+- **OpenSSF Scorecard** result; it's still unclear if/how to interpret the result, but the outcome will be similar to the `CII Best Practices badge` ; would also help to link to the visualizer, e.g. https://securityscorecards.dev/viewer/?uri=github.com/finos/fdc3-dotnet
+- **Documentation**; if the project doesn't have a documentation website and the README.md length is lower than 400 words, then the project can be considered `not properly documented`.
+- **SBOM report**; if the project has an SBOM available in SPDX or CycloneDX format, which demonstrates that no CVEs and license violations are found, then the project can be considered `fully compliant`.
 
 #### Qualitative checks (optional)
 - Response time on mailing list inquiries
