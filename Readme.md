@@ -35,6 +35,11 @@ The group favours an asynchonous way of working, allowing members to participate
  - We use our regular (minuted) meetings primarily for planning
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
+## Meetings
+The TOC meets bi-weekly, alternating
+- Tuesdays, 11.30am EST - [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824) (Passcode: 825324)
+- Wednesdays, 12pm EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065) (Passcode: 331179)
+
 ## Meeting minutes
 All meetings minutes are available as GitHub issues - https://github.com/finos/technical-oversight-committee/issues?q=is:issue+label:meeting+ ; those open, refer to meeting minutes that haven't been completed or reviewed yet.
 
