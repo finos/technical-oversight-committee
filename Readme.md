@@ -6,18 +6,18 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 
 The following are the current TOC members:
 
- - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic (until July 19th 2024)
- - Stephen Goldbaum, @stephengoldbaumyes, Morgan Stanley (until July 19th 2024)
- - Ephrim Stanley, @epsstan, Goldman Sachs (until July 19th 2024)
- - Bill Cameron, @billc123-jam, Citi (until July 19th 2024)
- - Bruno Domingues, @brunodom, Intel (until July 19th 2024)
- - Olivier Poupeney, @opoupeney, Orkes (until July 19th 2024)
- - Cara Delia, @caradelia, Red Hat (until July 19th 2024)
- - Riko Eksteen, @rikoe, Adaptive (until July 19th 2024)
- - Jon Freedman, @jonfreedman, Brevan Howard (until July 19th 2024)
- - Elspeth Minty, @eminty69, Royal Bank of Canada (until July 19th 2024)
- - Damian Reeves, @DamianReeves, Capital One (until October 30th 2025)
- - Peter Smulovics, @psmulovics, Morgan Stanley (until October 30th 2025)
+ - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic (TOC vote, until September 6th 2024)
+ - Bruno Domingues, @brunodom, Intel (TOC vote, until September 6th 2024)
+ - Olivier Poupeney, @opoupeney, Orkes (TOC vote, until September 6th 2024)
+ - Cara Delia, @caradelia, Red Hat (TOC vote, until September 6th 2024)
+ - Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until September 6th 2024)
+ - Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
+ - Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025)
+ - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2025)
+ - Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2025)
+ - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2025)
+ - Paula Paul, @PaulaPaul, NearForm (Board vote, until June 14th 2025)
+ - Vincent Caldeira, @caldeirav, Red Hat (Board vote, until June 14th 2025)
  
 The voting process is [described on this page](voting.md).
 
