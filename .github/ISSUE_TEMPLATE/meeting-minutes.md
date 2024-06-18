@@ -12,15 +12,13 @@ YYYYMMDD - time
 
 ### Zoom Info
 (Wednesday Meeting)
-- Meeting link: https://zoom.us/j/93181085065
-- Meeting number: 931 8108 5065
-- Password: Check the email invite
+- Meeting link: [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09)
+- Meeting id: 931 8108 5065
 - Call-in: Find your local number https://zoom.us/u/abk6zPS0y5
 
 (Tuesday Meeting)
-- Meeting link: https://zoom.us/j/92917330824
-- Meeting number: 929 1733 0824
-- Password: Check the email invite
+- Meeting link: [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09)
+- Meeting id: 929 1733 0824
 - Call-in: Find your local number https://zoom.us/u/aeyxSJfCnu
 
 ## Meeting notices
