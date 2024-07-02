@@ -16,7 +16,7 @@ The following are the current TOC members:
  - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
  - Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026)
  - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
- - Paula Paul, @PaulaPaul, NearForm (Board vote, until June 14th 2026)
+ - Paula Paul, @PaulaPaul, Individual Contributor (Board vote, until June 14th 2026)
  - Vincent Caldeira, @caldeirav, Red Hat (Board vote, until June 14th 2026)
  
 The voting process is [described on this page](voting.md).
