@@ -7,16 +7,15 @@ assignees:
 
 ---
 
- ## Date
-YYYYMMDD - time
-
-### Zoom Info
+## Zoom Info
 (Wednesday Meeting)
+- Time: 12pm EST
 - Meeting link: [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09)
 - Meeting id: 931 8108 5065
 - Call-in: Find your local number https://zoom.us/u/abk6zPS0y5
 
 (Tuesday Meeting)
+- Time: 11.30am EST
 - Meeting link: [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09)
 - Meeting id: 929 1733 0824
 - Call-in: Find your local number https://zoom.us/u/aeyxSJfCnu
