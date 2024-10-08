@@ -2,7 +2,7 @@
 
 ## Approach
 
-The TOC is committed to fostering communication and collaboration between FINOS projects. We operate transparently through open discussion, maintaining alignment with FINOS's technical and strategic goals, and ensuring the long-term sustainability of projects.
+The TOC is the technical arm of the FINOS Governing Board, committed to fostering the growth of FINOS projects. We operate transparently through open discussion, maintaining alignment with FINOS's technical and strategic goals while ensuring the long-term sustainability of projects.
 
 ## Roles & Responsibilities
 
