@@ -10,7 +10,7 @@ The TOC is committed to fostering communication and collaboration between FINOS 
 
 TOC members are responsible for actively participating in meetings, discussions, and decision-making processes. Members determine the FINOS technical standards, enable cross-project collaboration, provide technical guidance, and help resolve disputes when needed.
 
-TOC members are also expected to equally share the responsibility of serving as liaisons to projects. Assignments will be divided among TOC members based on your interests to ensure that each project has a dedicated liaison.
+TOC members are also expected to equally share the responsibility of serving as liaisons to projects. Assignments will be divided among TOC members based on interest, to ensure that each project has a dedicated liaison.
 
 - Participate in TOC meetings and contribute to discussions.
 - Evaluate project applications and proposals.
