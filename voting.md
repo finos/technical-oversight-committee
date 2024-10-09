@@ -22,6 +22,8 @@ The voting process has two rounds:
 
 The Governing Board vote is conducted via the voting contacts, with one vote per member. 
 
+In case an existing TOC member submits their candidacy for a second term, the member is allowed to vote in the election during TOC voting.
+
 The TOC elects a Chair (serving a 2 year term), who will have a seat on the Governing Board. It is their responsibility to act as a liaison between the TOC and GB, and manage the TOC activities effectively. 
 
 There is a minimum participation threshold for TOC members, with the expectation that they attend at least 50% of the scheduled TOC meetings, over a rolling quarter. If a member fails to meet this threshold, it triggers a discussion with the Chair, who will use their discretion to determine whether that member should release their seat, by making a recommendation to the GB.
