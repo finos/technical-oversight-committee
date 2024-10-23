@@ -6,10 +6,10 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 
 The following are the current TOC members:
 
- - **(chair)** Colin Eberhardt, @ColinEberhardt, Scott Logic (TOC vote, until September 6th 2024)
+ - **(chair)** Cara Delia, @caradelia, Red Hat (TOC vote, until September 6th 2024)
+ - Colin Eberhardt, @ColinEberhardt, Scott Logic (TOC vote, until September 6th 2024)
  - Bruno Domingues, @brunodom, Intel (TOC vote, until September 6th 2024)
  - Olivier Poupeney, @opoupeney, Orkes (TOC vote, until September 6th 2024)
- - Cara Delia, @caradelia, Red Hat (TOC vote, until September 6th 2024)
  - Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until September 6th 2024)
  - Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
  - Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025)
