@@ -5,7 +5,6 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 ## Membership 
 
 The following are the current TOC members:
-
  - Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
  - Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025)
  - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
@@ -19,15 +18,15 @@ The following are the current TOC members:
  - Flamur Gogolli, @fgogolli AWS (TOC vote, until October 30th 2026)
  - Andrew Aitken, @awaiken Individual Contributor (TOC vote, until October 30th 2026)
  
-The voting process is [described on this page](voting.md).
+The voting process is [described on this page](elections.md).
 
 ## Responsibilities
 
-The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](responsibilities.md).
+The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations.md).
 
 ## Ways of Working
 
-The group favours an asynchonous way of working, allowing members to participate without the need to align calendars. To support this, we use the following communication channels:
+To support ongoing work, we use the following communication channels:
 
  - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39)
  - We use [GitHub discussions](https://github.com/finos/technical-oversight-committee/discussions) as our primary mechanism for discussing and collaboration
@@ -35,12 +34,12 @@ The group favours an asynchonous way of working, allowing members to participate
  - We use our regular (minuted) meetings primarily for planning
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
-## Meetings
+### Meetings
 The TOC meets bi-weekly, alternating
 - Tuesdays, 11.30am EST - [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09) (Passcode: 825324)
 - Wednesdays, 12pm EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179)
 
-## Meeting minutes
+### Meeting minutes
 All meetings minutes are available as GitHub issues - https://github.com/finos/technical-oversight-committee/issues?q=is:issue+label:meeting+ ; those open, refer to meeting minutes that haven't been completed or reviewed yet.
 
 Historical meetings from 2022/2023 are available on https://github.com/finos/technical-oversight-committee/tree/main/meetings-2022-2023

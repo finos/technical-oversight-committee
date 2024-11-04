@@ -1,4 +1,4 @@
-## TOC Voting
+## TOC Elections
 
 The TOC would have 12 seats, each having a two year term
 - 6 elected by the FINOS Governing Board
