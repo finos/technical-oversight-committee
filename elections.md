@@ -26,7 +26,11 @@ In case an existing TOC member submits their candidacy for a second term, the me
 
 The TOC elects a Chair (serving a 2 year term), who will have a seat on the Governing Board. It is their responsibility to act as a liaison between the TOC and GB, and manage the TOC activities effectively. 
 
-When a Chair finishes their term, they must nominate a replacement Chair. The rest of the TOC members must agree via a "silent confirmation" agreement (if there are no objections, the nominee assumes the role of Chair). The same process is followed for electing a co-Chair; however, in this case, the newly elected Chair nominates a co-Chair.
+When a Chair finishes their term, they must nominate a replacement Chair. The rest of the TOC members must agree via a "silent confirmation" agreement (if there are no objections, the nominee assumes the role of Chair).
+
+The same process is followed for a Vice Chair, who nominates their own replacement.
+
+In the event that the Chair seat is not occupied, the nomination will be made by FINOS Staff. If the Vice Chair seat is not occupied, the nomination will be made by the sitting Chair.
 
 In the case there is an objection to a nominee a standard nomination and voting process is held.
 
