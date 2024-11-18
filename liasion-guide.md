@@ -2,14 +2,14 @@
 
 As a TOC Liaison, your role is to facilitate direct support from the TOC to your assigned projects.
 
-## Liason Responsibilities
+## Liaison Responsibilities
 
 - **Monthly Meetings**: Meet with project leads at least once a month to gather updates and discuss any obstacles.
 - **Quarterly Reporting**: Submit a summary of project status to the TOC Chair for inclusion in the quarterly board report.
 - **Issue Escalation**: Privately escalate major issues or complaints to the TOC as needed.
 - **Project Growth Track**: Ensure that all projects understand the path to [promotion](https://community.finos.org/docs/governance/Software-Projects/project-lifecycle) or [archival](https://community.finos.org/docs/governance/software-projects/stages/archived/).
 
-### Liason Report Template
+### Liaison Report Template
 
 Please use the following template to streamline consolidation into the monthly newsletter and quarterly report for the FINOS Governing Board.
 

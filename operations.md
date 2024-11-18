@@ -14,7 +14,7 @@ TOC members are also expected to equally share the responsibility of serving as 
 
 - Participate in TOC meetings and contribute to discussions.
 - Evaluate project applications and proposals.
-- Act as a [project liason](./liason-guide.md).
+- Act as a [project liaison](./liaison-guide.md).
 - Assess and promote cross-project synergies.
 - Provide technical oversight and support for project lifecycles.
 - Collaborate with the Governing Board to align strategic goals.
@@ -43,11 +43,11 @@ The Vice Chair may act as a delegate for the Chair when necessary.
 
 The TOC Chair is responsible for ensuring the smooth operation and productivity of the Technical Oversight Committee. This includes leading meetings, driving the agenda, overseeing decision-making processes, and ensuring that all TOC responsibilities are completed on time.
 
-The Chair also serves as the primary liaison between the TOC and the Governing Board, including the presentation of a quarterly report summarizing updates from project liasons.
+The Chair also serves as the primary liaison between the TOC and the Governing Board, including the presentation of a quarterly report summarizing updates from project liaisons.
 
 - Ensure all TOC responsibilities are met, facilitating meetings and project reviews.
 - Ensure that all outcomes are documented in the TOC repository.
-- Ensure that all projects have an active TOC liason.
+- Ensure that all projects have an active TOC liaison.
 - Ensure that 5 project demos are presented at each OSFF event.
 - Serve as the primary liaison between the TOC and the Governing Board.
 - Propose and onboard a Chair replacement before transitioning out.
