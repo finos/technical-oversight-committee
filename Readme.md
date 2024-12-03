@@ -28,16 +28,17 @@ The responsibilities of this group, together with the processes we have put in p
 
 To support ongoing work, we use the following communication channels:
 
- - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39)
- - We use [GitHub discussions](https://github.com/finos/technical-oversight-committee/discussions) as our primary mechanism for discussing and collaboration
- - We use the email distribution list (toc@lists.finos.org) for announcements (e.g. announcing a meeting)
- - We use our regular (minuted) meetings primarily for planning
+ - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39).
+ - We use [GitHub discussions](https://github.com/finos/technical-oversight-committee/discussions) as our primary mechanism for discussing and collaboration.
+ - We use the email distribution list (toc@lists.finos.org) for announcements (e.g. announcing a meeting).
+ - We use our private Tuesday meetings primarily for TOC planning.
+ - We use our public Wednesday meetings primarily for FINOS project and SIG presentations as well as for other community updates.
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
 ### Meetings
-The TOC meets bi-weekly, alternating
-- Tuesdays, 11.30am EST - [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09) (Passcode: 825324)
-- Wednesdays, 12pm EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179)
+The TOC meets weekly, alternating between:
+- Tuesdays, 8:00 AM EST - [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09) (Passcode: 825324) *This is a private meeting only accessible to the FINOS team and TOC members.*
+- Wednesdays, 12:00 PM EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179) *This is a public meeting accessible to anyone from the FINOS community.*
 
 ### Meeting minutes
 All meetings minutes are available as GitHub issues - https://github.com/finos/technical-oversight-committee/issues?q=is:issue+label:meeting+ ; those open, refer to meeting minutes that haven't been completed or reviewed yet.
