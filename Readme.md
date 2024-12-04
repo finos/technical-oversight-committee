@@ -37,7 +37,7 @@ To support ongoing work, we use the following communication channels:
 
 ### Meetings
 The TOC meets weekly, alternating between:
-- Tuesdays, 8:00 AM EST - [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09) (Passcode: 825324) *This is a private meeting only accessible to the FINOS team and TOC members.*
+- Tuesdays, 8:00 AM EST  *This is a private meeting only accessible to the FINOS team and TOC members.*
 - Wednesdays, 12:00 PM EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179) *This is a public meeting accessible to anyone from the FINOS community.*
 
 ### Meeting minutes
