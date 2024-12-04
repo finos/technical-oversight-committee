@@ -16,8 +16,6 @@ assignees:
 
 (Tuesday Private Meeting)
 - Time: 8:00 AM EST
-- Meeting link: [https://zoom.us/j/92917330824](https://zoom.us/j/92917330824?pwd=WWlTRWk5bzkyZUZPZi9OZll5SVM0UT09)
-- Meeting id: 929 1733 0824
 - Call-in: Find your local number https://zoom.us/u/aeyxSJfCnu
 
 ## Meeting notices
