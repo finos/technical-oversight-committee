@@ -7,7 +7,7 @@
 | CCC & CFI | Elspeth Minty | |
 | Currency Reference Data | | |
 | FDC3 | Andrew Aitken | |
-| Financial Objects | | |
+| Financial Objects | Andrew Aitken| |
 | GitProxy | Eddie Knight | |
 | HTC Grid | Eddie Knight | |
 | Jupyter Labs Templates | Flamur Gogolli | |
