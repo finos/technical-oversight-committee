@@ -22,7 +22,7 @@
 | Spring Bot | Matt Bain | |
 | Symphony | | |
 | TimeBase | Vincent Caldeira | |
-| Trac Data Analytics Platform | | |
+| Trac Data Analytics Platform | Vincent Caldeira | |
 | TraderX | Peter Smulovics | |
 | Vuu | John Arroyo | |
 | Waltz | John Arroyo | |
