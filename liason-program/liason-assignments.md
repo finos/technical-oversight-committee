@@ -13,14 +13,14 @@
 | Jupyter Labs Templates | Flamur Gogolli | |
 | Legend | Damian Reeves | |
 | Morphir | Peter Smulovics | |
-| OpenMAMA | | |
-| Open RegTech US LCR | | |
+| OpenMAMA | Jamie Slome | |
+| Open RegTech US LCR | Jamie Slome | |
 | Perspective | Vincent Caldeira | |
 | Regular Table | Flamur Gogolli | |
 | Rune DSL | Damian Reeves | |
-| Security Reference Data | | |
+| Security Reference Data | Chris Twiner | |
 | Spring Bot | Matt Bain | |
-| Symphony | | |
+| Symphony | Chris Twiner | |
 | TimeBase | Vincent Caldeira | |
 | Trac Data Analytics Platform | Vincent Caldeira | |
 | TraderX | Peter Smulovics | |
