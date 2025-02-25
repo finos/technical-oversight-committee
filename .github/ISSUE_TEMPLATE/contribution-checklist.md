@@ -13,7 +13,6 @@ Inline with the [contribution principles](https://github.com/finos/technical-ove
 - [ ] Assigned TOC Liaison: <Name>
 - [ ] Contribution Proposal Issue: <Provide link to issue in the community repo>
 - [ ] Contribution Proposal is [aligned with the purpose of FINOS](https://github.com/finos/technical-oversight-committee/blob/main/contribution-principles.md#contributions-must-be-aligned-with-the-purpose-of-finos)?
-- [ ] If Contribution Proposal [is a standard](https://github.com/finos/technical-oversight-committee/blob/main/contribution-principles.md#a-proposed-standard-must-not-compete-with-other-finos-standards) it does not compete with any existing FINOS standard?
 - [ ] If Contribution Proposal is a [component of a commercial offering](https://github.com/finos/technical-oversight-committee/blob/main/contribution-principles.md#components-of-commercial-offering), it adds value in it's own right?
 - [ ] Contribution Proposal has [interest from member organisations](https://github.com/finos/technical-oversight-committee/blob/main/contribution-principles.md#contributions-should-generate-interest-within-the-member-organisation)? (List interested parties below)
   - Org 1
