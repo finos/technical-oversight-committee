@@ -51,4 +51,4 @@ Comments, questions, and opinions stated within this repository are personal sta
 
 ## Get in touch
 
-The TOC can be reached either via issues / PR / discussions on this repo or via email toc@lists.finos.org.
+The TOC can be reached either via issues / PR / discussions on this repo or via the public list [toc@lists.finos.org](mailto:toc@lists.finos.org). For sensitive topics, you can contact the TOC privately at the [toc-private@lists.finos.org](mailto:toc-private@lists.finos.org).
