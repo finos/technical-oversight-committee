@@ -13,7 +13,7 @@ Today we’re announcing the opening for candidacies, starting on `insert candid
 Per [candidacy rules](https://github.com/finos/technical-oversight-committee/blob/main/elections.md#toc-elections) If you’re either an active contributor of a FINOS project or an employee of a (FINOS) member organization, you can follow these simple steps to submit your candidacy:
 
 - Review [TOC responsibilities](https://github.com/finos/technical-oversight-committee/blob/main/operations.md#roles--responsibilities) and ways of working. Feel free to contact toc@lists.finos.org if you have any questions.
-- Open a [TOC Github issue](https://github.com/finos/technical-oversight-committee/issues) with the following information:
+- Open a [TOC Github issue](https://github.com/finos/technical-oversight-committee/issues/new?labels=toc-candidacy&title=%5BTOC%20Candidacy%5D%20CANDIDATE%20NAME) with the following information:
     - Title: [TOC Candidacy] <full name of the candidate>
     - Affiliation: <name of the company you work for - if not applicable, type “Independent”>
     - Qualifications for candidacy: <member OR active contributor of project x,y,z OR both>    
