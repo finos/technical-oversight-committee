@@ -21,6 +21,8 @@ Candidates are expected to be:
 
 A TOC member publicly opens candidacies by sending a notice using the email template provided [here](elections-candidacy-template.md).
 
+Similarly to [Governing Board elections](https://community.finos.org/docs/governance/board-election), the voting process is carried out by FINOS staff using the [Opavote](https://opavote.com/) tool. 
+
 If there are both Board and TOC elected seat open, the voting process will follow this order:
 
 1. The FINOS Governing Board vote is conducted based on the full pool of candidates
