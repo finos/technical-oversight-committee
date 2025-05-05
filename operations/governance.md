@@ -34,9 +34,8 @@ Chairs are appointed by the TOC to one-year terms beginning with the vacancy of 
 
 ### Terms and Selection Process
 
-Members: Appointed to two-year terms through the [elections process](./elections.md).
-
-Chair and Vice Chair: Starting with vacancy of the role, these positions are appointed by the TOC to one-year terms or until their membership on the TOC ends — whichever is first.
+- Members: Appointed to two-year terms through the [elections process](./elections.md).
+- Chair and Vice Chair: Starting with vacancy of the role, these positions are appointed by the TOC to one-year terms or until their membership on the TOC ends — whichever is first. Voting must be done asynchronously to ensure that all members are notified.
 
 ---
 
@@ -61,7 +60,7 @@ In a regular cadence, the TOC is responsible to:
 - Examine the FINOS project landscape to highlight gaps or potential for additions or removals at least annually
 - Review and update the TOC governance documentation at least annually
 
-> ![NOTE]
+> [!NOTE]
 > The Chair is accountable for ensuring that the above responsibilities are fulfilled by the group, with equitable involvement from all members.
 
 ### Member Responsibilities
