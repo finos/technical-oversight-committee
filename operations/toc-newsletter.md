@@ -1,5 +1,7 @@
 # TOC Monthly Newsletter Guide
 
+The TOC Monthly Newsletter is a communication tool designed to keep stakeholders informed about the activities and progress of the Technical Oversight Committee (TOC) and its projects. It serves as a platform for sharing updates, milestones, and challenges faced by various projects within the FINOS ecosystem.
+
 ## Audience
 
 - FINOS Employees
