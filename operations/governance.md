@@ -34,7 +34,7 @@ Chairs are appointed by the TOC to one-year terms beginning with the vacancy of 
 
 ### Terms and Selection Process
 
-- Members: Appointed to two-year terms through the [elections process](./elections.md).
+- Members: Appointed to two-year terms through the [elections process](/operations/elections/elections.md). 
 - Chair and Vice Chair: Starting with vacancy of the role, these positions are appointed by the TOC to one-year terms or until their membership on the TOC ends — whichever is first. Voting must be done asynchronously to ensure that all members are notified.
 
 ---
