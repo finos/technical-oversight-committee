@@ -22,7 +22,7 @@ The voting process is [described on this page](elections.md).
 
 ## Responsibilities
 
-The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations.md).
+The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations/governance.md#responsibilities).
 
 ## Ways of Working
 
@@ -36,9 +36,7 @@ To support ongoing work, we use the following communication channels:
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
 ### Meetings
-The TOC meets weekly, alternating between:
-- Tuesdays, 8:00 AM EST  *This is a private meeting only accessible to the FINOS team and TOC members.*
-- Wednesdays, 12:00 PM EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179) *This is a public meeting accessible to anyone from the FINOS community.*
+The TOC meets bi-weekly on Wednesdays, 12:00 PM EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179) *This is a public meeting accessible to anyone from the FINOS community.*
 
 ### Meeting minutes
 All meetings minutes are available as GitHub issues - https://github.com/finos/technical-oversight-committee/issues?q=is:issue+label:meeting+ ; those open, refer to meeting minutes that haven't been completed or reviewed yet.
