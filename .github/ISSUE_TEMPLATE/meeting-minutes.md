@@ -7,7 +7,9 @@ assignees:
 
 ---
 
-## Zoom Info
+## Meeting Info
+Wednesday's at 12pm EST
+
 Join Zoom Meeting:
 https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
 
