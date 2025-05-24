@@ -36,9 +36,12 @@ To support ongoing work, we use the following communication channels:
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
 ### Meetings
-The TOC meets weekly, alternating between:
-- Tuesdays, 8:00 AM EST  *This is a private meeting only accessible to the FINOS team and TOC members.*
-- Wednesdays, 12:00 PM EST - [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09) (Passcode: 331179) *This is a public meeting accessible to anyone from the FINOS community.*
+The TOC meets weekly on Wednesdays at 12pm EST
+
+Join Zoom Meeting:
+https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
+
+Register to the meeting and get an invite sent to your calendar [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d&invite=true).
 
 ### Meeting minutes
 All meetings minutes are available as GitHub issues - https://github.com/finos/technical-oversight-committee/issues?q=is:issue+label:meeting+ ; those open, refer to meeting minutes that haven't been completed or reviewed yet.
