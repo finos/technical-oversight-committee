@@ -7,16 +7,13 @@ assignees:
 
 ---
 
-## Zoom Info
-(Wednesday Public Meeting)
-- Time: 12pm EST
-- Meeting link: [https://zoom.us/j/93181085065](https://zoom.us/j/93181085065?pwd=cys5NHRqcWFZaG9qdlB4SlR2Zjh3UT09)
-- Meeting id: 931 8108 5065
-- Call-in: Find your local number https://zoom.us/u/abk6zPS0y5
+## Meeting Info
+Every other Wednesday at 12pm EST
 
-(Tuesday Private Meeting)
-- Time: 8:00 AM EST
-- Call-in: Find your local number https://zoom.us/u/aeyxSJfCnu
+Join Zoom Meeting:
+https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
+
+Register to the meeting and get an invite sent to your calendar [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d&invite=true).
 
 ## Meeting notices
 - FINOS **Project leads** are responsible for observing the FINOS guidelines for [running project meetings](https://community.finos.org/docs/governance/meeting-procedures/). Project maintainers can find additional resources in the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
