@@ -18,7 +18,7 @@ The following are the current TOC members:
  - Vacancy (Governing Board vote scheduled for July 2025)
  - Vacancy (TOC vote scheduled for July 2025)
  
-The voting process is [described on this page](elections.md).
+The voting process is [described on this page](operations/elections/elections.md).
 
 ## Responsibilities
 
