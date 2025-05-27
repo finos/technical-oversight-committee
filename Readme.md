@@ -22,7 +22,7 @@ The voting process is [described on this page](operations/elections/elections.md
 
 ## Responsibilities
 
-The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations.md).
+The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations/governance.md#responsibilities).
 
 ## Ways of Working
 
