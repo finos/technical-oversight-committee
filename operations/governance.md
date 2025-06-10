@@ -70,7 +70,7 @@ In a regular cadence, the TOC is responsible to:
 - Participate in all project applications and promotion requests through discussion and/or voting
   - This may be asynchronous via GitHub issues or in TOC meetings
 - Act as a liaison for a project or initiative as agreed with the larger TOC body
-  - The definition and expectations of a project liaison are outlined in the [Liaison Guide](./liaison-program/liaison-guide.md)
+  - The definition and expectations of a liaison are outlined in the [Liaison Guide](./liaison-program/liaison-guide.md)
 
 ### Vice Chair Responsibilities
 
@@ -88,7 +88,6 @@ In a regular cadence, the TOC is responsible to:
 - Facilitate meetings
 - Lead the engagement on project applications and promotion requests
 - Ensure all outcomes are documented in the TOC repository
-- Ensure all projects have an active TOC liaison
 - Ensure 5 project demos are presented at each OSFF event
 - Serve as the primary liaison between the TOC and the Governing Board
 - Propose and onboard a Chair replacement before transitioning out

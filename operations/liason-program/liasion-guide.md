@@ -1,6 +1,6 @@
 # TOC Liaison Guide
 
-As a TOC Liaison, your role is to facilitate direct support from the TOC to your assigned projects.
+As a TOC Liaison, your role is to facilitate direct support from the TOC to your assigned group(s) (projeects, initiatives, etc).
 
 ## Liaison Responsibilities
 
@@ -13,39 +13,19 @@ As a TOC Liaison, your role is to facilitate direct support from the TOC to your
 
 Please use the following template to streamline consolidation into the monthly newsletter and quarterly report for the FINOS Governing Board.
 
-```markdown
-## [Enter project name]
-
-Liaison: [Your name]
-Leads: [Project leads]
-
-### Progress
-
-- Significant milestones achieved
-- Notable contributions or updates
-
-### Challenges
-
-- Any obstacles or issues raised by the project
-- Any support requested from the TOC
-
-### Next Steps
-
-- Planned activities or upcoming milestones
-- Suggested actions to address challenges
-
-### Additional Notes
-
-- Any further observations or recommendations
-```
-
 ## How to meet with your projects
 
-- **Set aside time**: Create a recurring monthly meeting for 60 minutes, though you may not need the whole hour every time.
-- **Solicit Updates**: Ask how things are going, what the team is working on, and whether there are any obstacles. Follow up on previous discussions. Take notes for later!
-- **Share Knowledge**: If there is interest, volunteer news from across the landscape. This may be your project leads' only practical opportunity to learn about other ongoing efforts!
+- **Set aside time**: Create a recurring monthly meeting for 60 minutes, though you probably won't need the whole hour every time.
+- **Solicit Updates**: Ask how things are going, what the team is working on, and whether there are any obstacles. Follow up on previous discussions. Complete the liaison report as you go, and refer to previous reports to help seed the discussion.
+- **Share Knowledge**: If there is interest, volunteer news from across the landscape. This may be your group's only practical opportunity to learn about other ongoing efforts!
 - **Note Challenges**: Outline a plan of action as needed, and let the project know how you will be supporting them.
 
 ## You're not alone!
 
-Remember that the TOC has a wealth of experience in open source, including both project contributions and people management. Be sure to tap into your TOC colleagues however you can to best support your projects! Connecting a project with the right solution is _at least_ as effective as providing the solution yourself.
+Remember that your peers on the TOC have a wealth of experience in open source, including both project contributions and people management. 
+
+Be sure to tap into your TOC peers however you can to best support your groups! Connecting a group with the right solution is sometimes moeffective as providing the solution yourself.
+
+## Adjust if needed
+
+If you find yourself struggling to meet your obligations to a group for any reason, please connect with the TOC Chair to find a solution, including the possibility of handing off the responsibility to a peer. This is likely to be increasingly necessary after you've been a liaison for the same group over a prolonged period.
