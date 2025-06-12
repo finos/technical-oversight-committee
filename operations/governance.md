@@ -45,17 +45,17 @@ The key responsibilities of the TOC are summarized below:
 | - | - | - | - |
 | **Landscape Ownership** |
 | | Cross-project Synergies | Quarterly | TOC Vice Chair |
-| | Technical Governance & Standards | Twice a year | TOC Chair |
-| | Technical Dispute Resolution | As needed | TOC Chair |
-| | Project Health Review | Quarterly | TOC Vice Chair |
-| | Landscape Evolution | Twice a year | TOC Chair |
-| | Lifecycle Criteria | Annually | TOC Chair |
+| | Technical Governance & Standards | January & July | TOC Chair |
+| | Project Health Review | February, May, August, November | TOC Vice Chair |
+| | Landscape Evolution | March & September | TOC Chair |
+| | Lifecycle Criteria | May | TOC Chair |
 | | Lifecycle Transitions | As needed | TOC Vice Chair |
+| | Technical Dispute Resolution | As needed | TOC Chair |
 | **Landscape Growth** |
-| | Contribution Review | As needed | Assigned TOC Member* |
-| | Contribution Promotion | As needed | TOC Vice Chair |
+| | Contribution Review | As needed | TOC Chair & Volunteer TOC Member |
+| | Project Promotion | As needed | TOC Vice Chair |
 | **Governing Board & Strategic** |
-| | Strategic Initiative Liaison | Quarterly | TOC Chair |
+| | Strategic Initiative Liaison | As needed | TOC Chair |
 | | Board Reporting | Quarterly | TOC Chair |
 | | OSFF Participation | Twice a year | TOC Vice Chair |
 
@@ -215,8 +215,6 @@ The key responsibilities of the TOC are summarized below:
 - Ensure 5 project demos are presented at each OSFF event
 - Serve as the primary liaison between the TOC and the Governing Board
 - Propose and onboard a Chair replacement before transitioning out
-
----
 
 ## Decision-Making and Voting
 
