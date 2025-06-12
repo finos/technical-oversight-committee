@@ -59,6 +59,7 @@ The key responsibilities of the TOC are summarized below:
 | **Strategic Interaction** |
 | | [Board Reporting](./activities.md#board-reporting) | Quarterly | Chair |
 | | [OSFF Participation](./activities.md#osff-participation) | Twice a year | Vice Chair or Volunteer |
+| | [TOC Newsletter](./activities.md#toc-newsletter) | Monthly | Vice Chair or Volunteer |
 | | [Strategic Initiative Liaison](./activities.md#strategic-initiative-liaison) | As needed | Volunteer |
 
 ### Member Responsibilities

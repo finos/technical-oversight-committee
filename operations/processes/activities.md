@@ -127,3 +127,14 @@ The following activities are part of the TOC's collective responsibilities, as d
   - Maintain calendar of deadlines and commitments
   - Recruit TOC members for specific tasks
   - Ensure all commitments are met
+
+  ## TOC Newsletter
+
+- **Responsible Party**: TOC Vice Chair or Volunteer
+- **Outcome**: Keep stakeholders informed of TOC and project activities
+- **Process**:
+  - Follow the [TOC Newsletter](./reporting/toc-newsletter.md) guide
+  - Gather updates from TOC meetings and projects
+  - Draft newsletter content covering key updates
+  - Review with TOC Chair and volunteer TOC members before distribution
+  - Coordinate with FINOS staff to send monthly
