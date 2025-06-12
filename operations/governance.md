@@ -43,7 +43,7 @@ Chairs are appointed by the TOC to one-year terms beginning with the vacancy of 
 
 The key responsibilities of the TOC are summarized below:
 
-| **Area** | **Responsibility** | **Frequency** | **Responsible Party** |
+| | **Responsibility** | **Frequency** | **Responsible Party** |
 | - | - | - | - |
 | **Landscape Ownership** |
 | | [Technical Governance & Standards](./activities.md#technical-governance--standards) | January & July | Chair |
@@ -56,7 +56,7 @@ The key responsibilities of the TOC are summarized below:
 | **Landscape Growth** |
 | | [Contribution Review](./activities.md#contribution-review) | As needed | Chair & Volunteer |
 | | [Project Promotion](./activities.md#project-promotion) | As needed | Vice Chair |
-| **Visibility** |
+| **Strategic Interaction** |
 | | [Board Reporting](./activities.md#board-reporting) | Quarterly | Chair |
 | | [OSFF Participation](./activities.md#osff-participation) | Twice a year | Vice Chair or Volunteer |
 | | [Strategic Initiative Liaison](./activities.md#strategic-initiative-liaison) | As needed | Volunteer |
