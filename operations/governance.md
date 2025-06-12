@@ -50,7 +50,7 @@ The key responsibilities of the TOC are summarized below:
 | | [Landscape Evolution](./activities.md#landscape-evolution) | March & September | Chair |
 | | [Lifecycle Criteria](./activities.md#lifecycle-criteria) | May | Chair |
 | | [Technical Dispute Resolution](./activities.md#technical-dispute-resolution) | As needed | Chair |
-| | [Cross-project Synergies](./activities.md#cross-project-synergies) | Quarterly | Vice Chair or Volunteer |
+| | [Cross-project Synergies](./activities.md#cross-project-synergies) | Routine | Vice Chair or Volunteer |
 | | [Project Health Review](./activities.md#project-health-review) | February, May, August, November | Vice Chair or Volunteer |
 | | [Lifecycle Transitions](./activities.md#lifecycle-transitions) | As needed | Vice Chair or Volunteer |
 | **Landscape Growth** |

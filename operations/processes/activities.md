@@ -10,7 +10,7 @@ The following activities are part of the TOC's collective responsibilities, as d
 - **Responsible Party**: TOC Vice Chair or Volunteer TOC Member
 - **Outcome**: Review project landscape and recommend opportunities for collaboration
 - **Process**:
-  - Schedule and coordinate presentations from:
+  - Maintain a calendar of quarterly presentations from:
     - Incubating projects
     - Graduated projects
     - SIGs with technical outcomes
