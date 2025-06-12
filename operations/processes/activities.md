@@ -1,4 +1,4 @@
-# TOC Activities
+# TOC Activity Processes
 
 The following activities are part of the TOC's collective responsibilities, as detailed in the [governance documentation](./governance.md). Each section names a key responsible party, but a there is a passive expectation that all members of the TOC will put equitable effort into ensuring the success of these activities.
 
