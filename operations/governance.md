@@ -37,6 +37,8 @@ Chairs are appointed by the TOC to one-year terms beginning with the vacancy of 
 - Members: Appointed to two-year terms through the [elections process](/operations/elections/elections.md). 
 - Chair and Vice Chair: Starting with vacancy of the role, these positions are appointed by the TOC to one-year terms or until their membership on the TOC ends — whichever is first. Voting must be done asynchronously to ensure that all members are notified.
 
+---
+
 ## Responsibilities
 
 The key responsibilities of the TOC are summarized below:
@@ -87,6 +89,8 @@ The key responsibilities of the TOC are summarized below:
 - Ensure 5 project demos are presented at each OSFF event
 - Serve as the primary liaison between the TOC and the Governing Board
 - Propose and onboard a Chair replacement before transitioning out
+
+---
 
 ## Decision-Making and Voting
 
