@@ -44,22 +44,20 @@ The key responsibilities of the TOC are summarized below:
 | **Area** | **Responsibility** | **Frequency** | **Responsible Party** |
 | - | - | - | - |
 | **Landscape Ownership** |
-| | Cross-project Synergies | Quarterly | TOC Vice Chair |
-| | Technical Governance & Standards | January & July | TOC Chair |
-| | Project Health Review | February, May, August, November | TOC Vice Chair |
-| | Landscape Evolution | March & September | TOC Chair |
-| | Lifecycle Criteria | May | TOC Chair |
-| | Lifecycle Transitions | As needed | TOC Vice Chair |
-| | Technical Dispute Resolution | As needed | TOC Chair |
+| | Technical Governance & Standards | January & July | Chair |
+| | Landscape Evolution | March & September | Chair |
+| | Lifecycle Criteria | May | Chair |
+| | Technical Dispute Resolution | As needed | Chair |
+| | Cross-project Synergies | Quarterly | Vice Chair or Volunteer |
+| | Project Health Review | February, May, August, November | Vice Chair or Volunteer |
+| | Lifecycle Transitions | As needed | Vice Chair or Volunteer |
 | **Landscape Growth** |
-| | Contribution Review | As needed | TOC Chair & Volunteer TOC Member |
-| | Project Promotion | As needed | TOC Vice Chair |
+| | Contribution Review | As needed | Chair & Volunteer |
+| | Project Promotion | As needed | Vice Chair |
 | **Governing Board & Strategic** |
-| | Strategic Initiative Liaison | As needed | TOC Chair |
-| | Board Reporting | Quarterly | TOC Chair |
-| | OSFF Participation | Twice a year | TOC Vice Chair |
-
-\* Assigned TOC Member: For responsibilities marked with an asterisk, a specific TOC member will be assigned as the Responsible Party following the completion of the previous occurance, or as needed when positions become vacant.
+| | Board Reporting | Quarterly | Chair |
+| | OSFF Participation | Twice a year | Vice Chair or Volunteer |
+| | Strategic Initiative Liaison | As needed | Volunteer |
 
 ### Cross-project Synergies
 
@@ -73,7 +71,7 @@ The key responsibilities of the TOC are summarized below:
   - Participate in reviews and provide input
   - Track follow-up actions through GitHub Issues
 
-#### Technical Governance & Standards
+### Technical Governance & Standards
 
 - **Responsible Party**: TOC Chair
 - **Outcome**: Evolve technical governance, security standards, and best practices
@@ -83,7 +81,7 @@ The key responsibilities of the TOC are summarized below:
   - Consolidate feedback and propose changes
   - Create and merge [PRs](https://github.com/finos/community) to update the [FINOS Community Website](https://community.finos.org/)
 
-#### Technical Dispute Resolution
+### Technical Dispute Resolution
 
 - **Responsible Party**: TOC Chair
 - **Outcome**: Provide technical recommendations and next steps for dispute resolution
@@ -93,7 +91,7 @@ The key responsibilities of the TOC are summarized below:
   - Drive timely resolution and communication
   - Use [TOC Private List](https://lists.finos.org/g/toc-private) for confidential conversations
 
-#### Project Health Review
+### Project Health Review
 
 - **Responsible Party**: TOC Vice Chair
 - **Outcome**: Review project activity and recommend actions as necessary
@@ -103,7 +101,7 @@ The key responsibilities of the TOC are summarized below:
   - Consolidate findings and recommendations
   - Track follow-up actions
 
-#### Landscape Evolution
+### Landscape Evolution
 
 - **Responsible Party**: TOC Chair
 - **Outcome**: Examine the FINOS project landscape to highlight gaps or potential changes
@@ -114,7 +112,7 @@ The key responsibilities of the TOC are summarized below:
   - Propose changes to [FINOS Landscape](https://landscape.finos.org/)
   - Update landscape representation in LFX Insights through the [Project Control Center](https://lfx.linuxfoundation.org/tools/pcc/)
 
-#### Lifecycle Criteria
+### Lifecycle Criteria
 
 - **Responsible Party**: TOC Chair
 - **Outcome**: Review and evolve project lifecycle criteria
@@ -126,7 +124,7 @@ The key responsibilities of the TOC are summarized below:
   - Clear past enforcement flags
   - Notify projects of impactful changes
 
-#### Lifecycle Transitions
+### Lifecycle Transitions
 
 - **Responsible Party**: TOC Vice Chair _and_ Volunteer TOC Member
 - **Outcome**: Evaluate and respond to lifecycle transition proposals
@@ -136,7 +134,7 @@ The key responsibilities of the TOC are summarized below:
   - Follow the [Project Activations](#project-activations) process
   - Ensure timely decisions and communication
 
-#### Contribution Review
+### Contribution Review
 
 - **Responsible Party**: TOC Chair _and_ Volunteer TOC Member
 - **Outcome**: Review new contribution proposals
@@ -146,7 +144,7 @@ The key responsibilities of the TOC are summarized below:
   - Follow the [Project Contributions](#project-contributions) process
   - Respond to the contribution issue to hand off to FINOS Staff
 
-#### Project Promotion
+### Project Promotion
 
 - **Responsible Party**: TOC Vice Chair
 - **Outcome**: Engage with community to communicate project value
@@ -156,16 +154,16 @@ The key responsibilities of the TOC are summarized below:
   - Schedule TOC vote on promotion request
   - Respond to the contribution issue to hand off to FINOS Staff
 
-#### Strategic Initiative Liaison
+### Strategic Initiative Liaison
 
-- **Responsible Party**: Assigned TOC Member
+- **Responsible Party**: Volunteer TOC Member
 - **Outcome**: Support and report on FINOS strategic initiatives
 - **Process**:
   - Coordinate with Executive Sponsors
   - Present monthly progress updates to the TOC
   - Ensure relevant updates are included in board reports
 
-#### Board Reporting
+### Board Reporting
 - **Responsible Party**: TOC Chair
 - **Outcome**: Provide comprehensive updates to the Governing Board
 - **Process**:
@@ -174,14 +172,14 @@ The key responsibilities of the TOC are summarized below:
   - Follow the [Board Reporting](#board-reporting) process
   - Deliver presentations to board
 
-#### OSFF Participation
+### OSFF Participation
 
 - **Responsible Party**: TOC Vice Chair
 - **Outcome**: Ensure strong FINOS presence at OSFF events
 - **Process**:
   - Coordinate with [OSFF alias](ossf@finos.org)
   - Maintain calendar of deadlines and commitments
-  - Assign TOC members to specific tasks
+  - Recruit TOC members for specific tasks
   - Ensure all commitments are met
 
 > [!NOTE]
