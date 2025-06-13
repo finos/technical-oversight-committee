@@ -16,8 +16,8 @@ The following are the current TOC members:
 - John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
 - Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2026)
 - Andrew Aitken, @awaiken, Individual Contributor (TOC vote, until October 30th 2026)
-- Maria McParland, @maria-mcparland, JPMC (TOC vote, until July 13th 2026)
-- Ganesh Harke, @harkeganesh, Citi (Governing Board, until July 13th 2026)
+- Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027)
+- Ganesh Harke, @harkeganesh, Citi (Governing Board, until June 11th 2027)
 
 The voting process is [described on this page](operations/elections/elections.md).
 
