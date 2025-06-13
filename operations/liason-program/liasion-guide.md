@@ -1,6 +1,6 @@
 # TOC Liaison Guide
 
-As a TOC Liaison, your role is to facilitate direct support from the TOC to your assigned group(s) (projeects, initiatives, etc).
+As a TOC Liaison, your role is to facilitate direct support from the TOC to your assigned group(s) (projects, initiatives, etc).
 
 ## Liaison Responsibilities
 
