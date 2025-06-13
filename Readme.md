@@ -2,22 +2,23 @@
 
 This FINOS Technical Oversight Committee (TOC) is the technical governing body of [FINOS](https://www.finos.org/). We work in close collaboration with the [FINOS team](https://www.finos.org/team) and the [Governing Board](https://www.finos.org/governing-board) to provide technical oversight for the projects in the FINOS portfolio.
 
-## Membership 
+## Membership
 
 The following are the current TOC members:
- - Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
- - Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025) **(Vice Chair)** 
- - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
- - Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) **(Chair)** 
- - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
- - Vincent Caldeira, @caldeirav, Red Hat (Board vote, until June 14th 2026)
- - Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2026)
- - John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
- - Flamur Gogolli, @fgogolli AWS (TOC vote, until October 30th 2026)
- - Andrew Aitken, @awaiken Individual Contributor (TOC vote, until October 30th 2026)
- - Vacancy (Governing Board vote scheduled for July 2025)
- - Vacancy (TOC vote scheduled for July 2025)
- 
+
+- Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
+- Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025) **(Vice Chair)**
+- Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
+- Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) **(Chair)**
+- Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
+- Vincent Caldeira, @caldeirav, Red Hat (Board vote, until June 14th 2026)
+- Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2026)
+- John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
+- Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2026)
+- Andrew Aitken, @awaiken, Individual Contributor (TOC vote, until October 30th 2026)
+- Maria McParland, @maria-mcparland, JPMC (TOC vote, until July 13th 2026)
+- Ganesh Harke, @harkeganesh, Citi (Governing Board, until July 13th 2026)
+
 The voting process is [described on this page](operations/elections/elections.md).
 
 ## Responsibilities
