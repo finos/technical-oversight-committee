@@ -41,27 +41,26 @@ Chairs are appointed by the TOC to one-year terms beginning with the vacancy of 
 
 ## Responsibilities
 
-### Responsibilities of the Group
+The key responsibilities of the TOC are summarized below:
 
-Accountable to the Governing Board, the TOC as a group is responsible to:
-
-- Respond to project applications and promotion requests
-- Engage with incubating and graduated projects
-- Assess, promote, and facilitate cross-project synergies
-- Provide technical guidance and support for project lifecycles
-- Collaborate with the Governing Board to align strategic goals
-- Mentor newly elected TOC members
-- Capture decisions and outcomes in the TOC GitHub repository
-
-In a regular cadence, the TOC is responsible to:
-
-- For each OSFF, recruit or approve project-related presentations, project demos, and project booths
-- Review existing criteria for project evaluation and promotion at least annually
-- Examine the FINOS project landscape to highlight gaps or potential for additions or removals at least annually
-- Review and update the TOC governance documentation at least annually
-
-> [!NOTE]
-> The Chair is accountable for ensuring that the above responsibilities are fulfilled by the group, with equitable involvement from all members.
+| | **Responsibility** | **Frequency** | **Responsible Party** |
+| - | - | - | - |
+| **Landscape Ownership** |
+| | [Technical Governance & Standards](./activities.md#technical-governance--standards) | January & July | Chair |
+| | [Landscape Evolution](./activities.md#landscape-evolution) | March & September | Chair |
+| | [Lifecycle Criteria](./activities.md#lifecycle-criteria) | May | Chair |
+| | [Technical Dispute Resolution](./activities.md#technical-dispute-resolution) | As needed | Chair |
+| | [Cross-project Synergies](./activities.md#cross-project-synergies) | Routine | Vice Chair or Volunteer |
+| | [Project Health Review](./activities.md#project-health-review) | February, May, August, November | Vice Chair or Volunteer |
+| | [Lifecycle Transitions](./activities.md#lifecycle-transitions) | As needed | Vice Chair or Volunteer |
+| **Landscape Growth** |
+| | [Contribution Review](./activities.md#contribution-review) | As needed | Chair & Volunteer |
+| | [Project Promotion](./activities.md#project-promotion) | As needed | Vice Chair |
+| **Strategic Interaction** |
+| | [Board Reporting](./activities.md#board-reporting) | Quarterly | Chair |
+| | [OSFF Participation](./activities.md#osff-participation) | Twice a year | Vice Chair or Volunteer |
+| | [TOC Newsletter](./activities.md#toc-newsletter) | Monthly | Vice Chair or Volunteer |
+| | [Strategic Initiative Liaison](./activities.md#strategic-initiative-liaison) | As needed | Volunteer |
 
 ### Member Responsibilities
 
@@ -115,7 +114,11 @@ In a regular cadence, the TOC is responsible to:
 - Charters, reports, and other key documentation should be maintained and updated on the TOC GitHub repository regularly
 - In the event that a requirement from this document is not explicitly captured herein, clarifying documentation may be captured in the TOC repository, where it should be considered equally authoritative unless conflicting with this document.
 
----
+## Processes
+
+TOC activities are managed in GitHub via the [TOC Backlog](https://github.com/orgs/finos/projects/39), which is fed by the Community, the FINOS team and owned by the TOC chair. Below a list of transparently documented processes the TOC follows:
+
+Authoritative supporting material and guides can be found in the [processes](./processes) directory of this repo.
 
 ## Amendment Process
 
