@@ -1,0 +1,27 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2025-07-21'
+  last-reviewed: '2025-07-21'
+  comment: |
+    This data is being collected as part of the initial FINOS project proposal for CafeX.
+
+project:
+  name: CafeX
+  homepage: https://cafex-finos.github.io/cafex/
+  administrators:
+    - name: Hari Kishan Kurapati
+      affiliation: S&P Global
+      social: github:kharikishan
+      primary: true
+  documentation:
+    quickstart-guide: https://github.com/CafeX-Finos/cafex/tree/feature/initial-migration?tab=readme-ov-file#getting-started
+    detailed-guide: https://cafex-finos.github.io/cafex/
+  repositories:
+    - name: CafeX
+      url: https://github.com/CafeX-Finos/cafex
+      comment: |
+        This monorepo contains the codebase for all CafeX components, documentation, and website.
+        It is developed and released under an MIT license.
+        It is expected that the url will change as part of an acceptance into FINOS.
+  vulnerability-reporting:
+    reports-accepted: false
