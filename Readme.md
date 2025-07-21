@@ -19,11 +19,11 @@ The following are the current TOC members:
 - Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027)
 - Ganesh Harke, @harkeganesh, Citi (Governing Board, until June 11th 2027)
 
-The voting process is [described on this page](operations/elections/elections.md).
+The voting process is [described on this page](operations/processes/elections/elections.md).
 
 ## Responsibilities
 
-The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations.md).
+The responsibilities of this group, together with the processes we have put in place to support them, are [detailed on this page](operations/governance.md).
 
 ## Ways of Working
 
