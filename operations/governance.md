@@ -46,21 +46,21 @@ The key responsibilities of the TOC are summarized below:
 | | **Responsibility** | **Frequency** | **Responsible Party** |
 | - | - | - | - |
 | **Landscape Ownership** |
-| | [Technical Governance & Standards](./activities.md#technical-governance--standards) | January & July | Chair |
-| | [Landscape Evolution](./activities.md#landscape-evolution) | March & September | Chair |
-| | [Lifecycle Criteria](./activities.md#lifecycle-criteria) | May | Chair |
-| | [Technical Dispute Resolution](./activities.md#technical-dispute-resolution) | As needed | Chair |
-| | [Cross-project Synergies](./activities.md#cross-project-synergies) | Routine | Vice Chair or Volunteer |
-| | [Project Health Review](./activities.md#project-health-review) | February, May, August, November | Vice Chair or Volunteer |
-| | [Lifecycle Transitions](./activities.md#lifecycle-transitions) | As needed | Vice Chair or Volunteer |
+| | [Technical Governance & Standards](./processes/activities.md#technical-governance--standards) | January & July | Chair |
+| | [Landscape Evolution](./processes/activities.md#landscape-evolution) | March & September | Chair |
+| | [Lifecycle Criteria](./processes/activities.md#lifecycle-criteria) | May | Chair |
+| | [Technical Dispute Resolution](./processes/activities.md#technical-dispute-resolution) | As needed | Chair |
+| | [Cross-project Synergies](./processes/activities.md#cross-project-synergies) | Routine | Vice Chair or Volunteer |
+| | [Project Health Review](./processes/activities.md#project-health-review) | February, May, August, November | Vice Chair or Volunteer |
+| | [Lifecycle Transitions](./processes/activities.md#lifecycle-transitions) | As needed | Vice Chair or Volunteer |
 | **Landscape Growth** |
-| | [Contribution Review](./activities.md#contribution-review) | As needed | Chair & Volunteer |
-| | [Project Promotion](./activities.md#project-promotion) | As needed | Vice Chair |
+| | [Contribution Review](./processes/activities.md#contribution-review) | As needed | Chair & Volunteer |
+| | [Project Promotion](./processes/activities.md#project-promotion) | As needed | Vice Chair |
 | **Strategic Interaction** |
-| | [Board Reporting](./activities.md#board-reporting) | Quarterly | Chair |
-| | [OSFF Participation](./activities.md#osff-participation) | Twice a year | Vice Chair or Volunteer |
-| | [TOC Newsletter](./activities.md#toc-newsletter) | Monthly | Vice Chair or Volunteer |
-| | [Strategic Initiative Liaison](./activities.md#strategic-initiative-liaison) | As needed | Volunteer |
+| | [Board Reporting](./processes/activities.md#board-reporting) | Quarterly | Chair |
+| | [OSFF Participation](./processes/activities.md#osff-participation) | Twice a year | Vice Chair or Volunteer |
+| | [TOC Newsletter](./processes/activities.md#toc-newsletter) | Monthly | Vice Chair or Volunteer |
+| | [Strategic Initiative Liaison](./processes/activities.md#strategic-initiative-liaison) | As needed | Volunteer |
 
 ### Member Responsibilities
 
@@ -69,7 +69,7 @@ The key responsibilities of the TOC are summarized below:
 - Participate in all project applications and promotion requests through discussion and/or voting
   - This may be asynchronous via GitHub issues or in TOC meetings
 - Act as a liaison for a project or initiative as agreed with the larger TOC body
-  - The definition and expectations of a liaison are outlined in the [Liaison Guide](./liaison-program/liaison-guide.md)
+  - The definition and expectations of a liaison are outlined in the [Liaison Guide](./processes/liaison-program/liaison-guide.md)
 
 ### Vice Chair Responsibilities
 
