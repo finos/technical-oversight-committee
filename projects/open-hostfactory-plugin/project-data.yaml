@@ -1,0 +1,31 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2025-09-03'
+  last-reviewed: '2025-09-03'
+  comment: |
+    This data is being collected as part of the initial FINOS project proposal for open-hostfactory-plugin.
+
+project:
+  name: open-hostfactory-plugin
+  homepage: https://github.com/finos/open-hostfactory-plugin
+  administrators:
+    - name: Cyriaque Millot
+      affiliation: Morgan Stanley
+      social: github:cyriaquem
+      primary: true
+    - name: Flamur Gogolli
+      affiliation: Amazon Web Services (AWS)
+      social: github:fgogolli
+      primary: true
+  documentation:
+    quickstart-guide: https://github.com/morganstanley/symphony-hostfactory/blob/main/README.md
+    detailed-guide: https://github.com/morganstanley/symphony-hostfactory/blob/main/README.md
+  repositories:
+    - name: symphony-hostfactory
+      url: https://github.com/morganstanley/symphony-hostfactory
+      comment: |
+        This monorepo contains the codebase for all open-hostfactory-plugin components, documentation, and website.
+        It is developed and released under an Apache 2.0 license.
+        It is expected that the url will change as part of an acceptance into FINOS.
+  vulnerability-reporting:
+    reports-accepted: false
