@@ -1,4 +1,4 @@
-# Incubation
+# FINOS Incubating Projects
 
 The Incubation level continues to nurture developing projects, where they will receive FINOS infrastructure, legal, and marketing benefits to help bolster their visibility and adoption. After acceptance, they must also adhere to ongoing maintenance requirements.
 

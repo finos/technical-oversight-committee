@@ -1,4 +1,4 @@
-# Graduated
+# FINOS Graduated Projects
 
 Graduated projects represent the highest level of project maturity. To achieve Graduated status, projects must meet OSPS Baseline Level 3 requirements in addition to other requirements. In recognition of this achievement, Graduated projects receive a more extensive list of FINOS benefits to further enhance their presence and impact.
 
