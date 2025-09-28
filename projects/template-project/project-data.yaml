@@ -1,0 +1,29 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: 'yyyy-MM-dd'
+  last-reviewed: 'yyyy-MM-dd'
+  comment: |
+    <!--
+    This is a template for a project-data.yaml file.
+    Please replace the placeholder values with actual project information.
+    -->
+
+project:
+  name: <!-- Project Name --> 
+  homepage: <!-- Project Homepage URL -->
+  administrators:
+    - name: <!-- First Administrator Name -->
+      affiliation: <!-- First Administrator Affiliation -->
+      social: <!-- First Administrator GitHub Handle -->
+      primary: <!-- true if primary, false otherwise -->
+    - <!-- Add more administrators as needed -->
+  documentation:
+    quickstart-guide: <!-- Link to Quickstart Guide -->
+    detailed-guide: <!-- Link to Detailed Guide -->
+  repositories:
+    - name: <!-- Repository Name -->
+      url: <!-- Repository URL -->
+      comment: |
+        <!-- Any additional comments about this repository -->
+  vulnerability-reporting:
+    reports-accepted: false
