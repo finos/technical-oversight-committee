@@ -5,7 +5,7 @@ To ensure accurate details of new project contributions are retained, the voting
 Once a project contribution is ready for the TOC to vote, the TOC Project Liaison should:
 
 1. Fork the [TOC Repository](https://github.com/finos/technical-oversight-committee)
-2. Copy the [template project](../../../projects/template-project/) renaming with the name of the project contribution
+2. Copy the [template directory](../../../projects/template-project/) renaming with the name of the project contribution
 3. Fill in the required details in the project-data.yaml file
 4. Raise a PR, linking back to the TOC Checklist Issue. Use the template below for the PR description
 
