@@ -1,0 +1,27 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: 'yyyy-MM-dd'
+  last-reviewed: 'yyyy-MM-dd'
+  comment: |
+    This is a template for a project-data.yaml file.
+    Please replace the placeholder values with actual project information.
+
+project:
+  name: "Project Name" # Replace with actual project name
+  homepage: "Project Homepage URL" # Replace with actual homepage URL
+  administrators:
+    - name: "First Administrator Name" # Replace with actual name
+      affiliation: "First Administrator Affiliation" # Replace with actual affiliation
+      social: "First Administrator GitHub Handle" # Replace with actual GitHub handle
+      primary: false # true if primary, false otherwise
+    # Add more administrators as needed
+  documentation:
+    quickstart-guide: "Link to Quickstart Guide" # Replace with actual link
+    detailed-guide: "Link to Detailed Guide" # Replace with actual link
+  repositories:
+    - name: "Repository Name" # Replace with actual repository name
+      url: "Repository URL" # Replace with actual repository URL
+      comment: |
+        Any additional comments about this repository
+  vulnerability-reporting:
+    reports-accepted: false
