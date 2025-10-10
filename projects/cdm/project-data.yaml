@@ -1,0 +1,78 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2025-10-10'
+  last-reviewed: '2025-10-10'
+  comment: |
+    This data is being collected as part of the activation for the CDM FINOS project
+
+project:
+  name: "Common Domain Model" # Replace with actual project name
+  homepage: "https://cdm.finos.org/" # Replace with actual homepage URL
+  administrators:
+    - name: "Gabriel Callsen" # Replace with actual name
+      affiliation: "ICMA" # Replace with actual affiliation
+      social: "gabriel-ICMA" # Replace with actual GitHub handle
+      primary: false # true if primary, false otherwise
+    # Add more administrators as needed
+    - name: "Tom Healey"
+      affiliation: "ICMA"
+      social: "tomhealey-icma"
+      primary: false # true if primary, false otherwise
+    - name: "Vernon Alden-Smith"
+      affiliation: "ISDA"
+      social: "valdensmith"
+      primary: false # true if primary, false otherwise
+    - name: "Eleonora Acuna"
+      affiliation: "ISDA"
+      social: "eacunaISDA"
+      primary: false # true if primary, false otherwise
+    - name: "David Shone"
+      affiliation: "ISDA"       
+      social: "dshoneisda"
+      primary: false # true if primary, false otherwise
+    - name: "Lyteck Lynhiavu"
+      affiliation: "ISDA"
+      social: "llynhiavu"
+      primary: false # true if primary, false otherwise
+    - name: "Adrian Dale"
+      affiliation: "ISLA"
+      social: "ADaleISLA"
+      primary: false # true if primary, false otherwise
+    - name: "Chris Rayner"
+      affiliation: "ISLA"
+      social: "chrisisla"
+      primary: false # true if primary, false otherwise
+    - name: "Minesh Patel"
+      affiliation: "Regnosys"
+      social: "minesh-s-patel"
+      primary: false # true if primary, false otherwise
+    - name: "Leo Labeis"
+      affiliation: "Regnosys"
+      social: "lolabeis"
+      primary: false # true if primary, false otherwise
+    - name: "Hugo Hills"
+      affiliation: "Regnosys"
+      social: "hugohills-regnosys"
+      primary: false # true if primary, false otherwise
+    - name: "Manuel Martos"
+      affiliation: "TradeHeader"
+      social: "manel-martos"
+      primary: false # true if primary, false otherwise
+    - name: "Marc Gratacos"
+      affiliation: "TradeHeader"
+      social: "mgratacos"
+      primary: false # true if primary, false otherwise
+    - name: "Nicholas Moger"
+      affiliation: "JPMorgan Chase & Co."
+      social: "nicholas-moger"
+      primary: false # true if primary, false otherwise
+  documentation:
+    quickstart-guide: "https://cdm.finos.org/docs/training" # Replace with actual link
+    detailed-guide: "https://cdm.finos.org/docs/home" # Replace with actual link
+  repositories:
+    - name: "common-domain-model" # Replace with actual repository name
+      url: "https://github.com/finos/common-domain-model/tree/master/docs" # Replace with actual repository URL
+      comment: |
+        See README for details of what this repository contains.
+  vulnerability-reporting:
+    reports-accepted: false
