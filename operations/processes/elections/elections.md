@@ -21,7 +21,7 @@ Candidates are expected to be:
 
 A TOC member publicly opens candidacies by sending a notice using the email template provided [here](elections-candidacy-template.md).
 
-Similarly to [Governing Board elections](https://community.finos.org/docs/governance/board-election), the voting process is carried out by FINOS staff using the [Opavote](https://opavote.com/) tool.
+Similarly to [Governing Board elections](https://community.finos.org/docs/governance/board-election), the voting process is carried out using a [ranked-choice](https://opavote.com/methods/ranked-choice-voting) instant-runoff voting process by FINOS staff using the [Opavote](https://opavote.com/) tool.
 
 If there are both Board and TOC elected seat open, the voting process will follow this order:
 
@@ -50,4 +50,3 @@ There is a minimum participation threshold for TOC members, with the expectation
 ### Election frequency
 
 TOC elections happen at most twice per calendar year (e.g. Q1 and Q3). Note, the composition of 6 seats filled via Governing Board vote and 6 via TOC vote is maintained through the aforementioned voting process, with the exact number of seats being determined based on vacancies.
-
