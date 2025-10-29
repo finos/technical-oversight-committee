@@ -7,7 +7,7 @@ labels: "due diligence"
 
 If you would like to request assistance from the TOC for your project or SIG, please fill out as much detail as possible below.
 
-Please note, it is expected that your project/SIG will be able to provide a named contact or contacts who will be able to engage in a timely manner if a TOC liaison is able to engage,
+Please note, it is expected that your project/SIG will be able to provide a named contact or contacts who will be able to engage in a timely manner if a TOC liaison is able to engage.
 
 ## Project Information
 
