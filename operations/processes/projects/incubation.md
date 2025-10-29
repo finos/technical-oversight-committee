@@ -23,5 +23,5 @@ The following must remain true for _Incubating_ projects at all times. A Health 
 - Publicly visible adherence to a project roadmap
 - Pre-release integration with a FINOS-approved dependency and license scanner
 - Build and release processes do not use any private or undocumented steps
-- Presentation at a public TOC meeting at once every six months
+- Presentation at a public TOC meeting at least once every six months
 - Demonstrated adherence to **Maturity Level 2** of the [Open Source Project Security Baseline](https://baseline.openssf.org/)
