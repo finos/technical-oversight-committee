@@ -24,4 +24,4 @@ Please note, it is expected that your project/SIG will be able to provide a name
 If you already have ideas for what help you need, please tell us
 
 ## Next Steps
-Once you have submitted your request, the TOC Chair will review your request and raise it at the next TOC meeting, following which a member of the TOC will reach out to you to let you know if we're able to help and what the next steps will be.
+Once you have submitted your request, the TOC Chair will review your request and raise it at the next TOC meeting, following which a member of the TOC will reach out to you to let you know if we're able to help and what the next steps will be. As always, you are welcome to attend the public meeting to represent your request live on the call.
