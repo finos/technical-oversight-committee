@@ -6,8 +6,8 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 
 The following are the current TOC members:
 
-- Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
-- Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025) **(Vice Chair)**
+- Gabor Liptak, @gliptak, Capital One (TOC vote, until October 30th 2028)
+- Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Vice Chair)**
 - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
 - Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) **(Chair)**
 - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
@@ -56,4 +56,5 @@ Comments, questions, and opinions stated within this repository are personal sta
 ## Get in touch
 
 The TOC can be reached either via issues / PR / discussions on this repo or via the public list [toc@lists.finos.org](mailto:toc@lists.finos.org). For sensitive topics, you can contact the TOC privately at the [toc-private@lists.finos.org](mailto:toc-private@lists.finos.org).
+
 
