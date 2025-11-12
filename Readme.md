@@ -36,6 +36,11 @@ To support ongoing work, we use the following communication channels:
  - We use our public Wednesday meetings primarily for FINOS project and SIG presentations as well as for other community updates.
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
 
+### We're here to help
+The TOC is here to help all of the FINOS projects and SIGs. If you need help navigating the FINOS org, are looking for cross project collaboration opportunities or have a technical challenge that you need some outside expertise on, please reach out.
+
+You can raise a [Project Engagement](https://github.com/finos/technical-oversight-committee/issues/new?template=engage.md) issue or for sensitive topics, you can contact the TOC privately at [toc-private@lists.finos.org](mailto:toc-private@lists.finos.org).
+
 ### Meetings
 The TOC meets weekly on Wednesdays at 12pm EST
 
