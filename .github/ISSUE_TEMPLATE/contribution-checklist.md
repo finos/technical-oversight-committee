@@ -27,3 +27,5 @@ Inline with the [contribution principles](https://github.com/finos/technical-ove
 - Item 2
 
 Any TOC members with their own questions regarding the Contribution Proposal should ask in the comments below for the liaison to gather answers ahead of the vote.
+
+Once ready for the TOC to vote on the project contribution, please raise a PR following the [voting process](../../operations/processes/voting/voting.md)

@@ -10,9 +10,9 @@ The FINOS Technical Oversight Committee is opening a new round of elections. The
 
 Today we’re announcing the opening for candidacies, starting on `insert candidacy open date` and closing on `insert candidacy open date`. 
 
-Per [candidacy rules](https://github.com/finos/technical-oversight-committee/blob/main/elections.md#toc-elections) If you’re either an active contributor of a FINOS project or an employee of a (FINOS) member organization, you can follow these simple steps to submit your candidacy:
+Per [candidacy rules](https://github.com/finos/technical-oversight-committee/blob/main/operations/processes/elections/elections.md) If you’re either an active contributor of a FINOS project or an employee of a (FINOS) member organization, you can follow these simple steps to submit your candidacy:
 
-- Review [TOC responsibilities](https://github.com/finos/technical-oversight-committee/blob/main/operations.md#roles--responsibilities) and ways of working. Feel free to contact toc@lists.finos.org if you have any questions.
+- Review [TOC responsibilities](https://github.com/finos/technical-oversight-committee/blob/main/operations/governance.md) and ways of working. Feel free to contact toc@lists.finos.org if you have any questions.
 - Open a [TOC Github issue](https://github.com/finos/technical-oversight-committee/issues/new?labels=toc-candidacy&title=%5BTOC%20Candidacy%5D%20CANDIDATE%20NAME) with the following information:
     - Title: [TOC Candidacy] <full name of the candidate>
     - Affiliation: <name of the company you work for - if not applicable, type “Independent”>

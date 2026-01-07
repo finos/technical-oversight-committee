@@ -6,8 +6,8 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 
 The following are the current TOC members:
 
-- Damian Reeves, @DamianReeves, Capital One (Board vote, until October 30th 2025)
-- Peter Smulovics, @psmulovics, Morgan Stanley (TOC vote, until October 30th 2025) **(Vice Chair)**
+- Gabor Liptak, @gliptak, Capital One (TOC vote, until October 30th 2028)
+- Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Vice Chair)**
 - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
 - Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) **(Chair)**
 - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
@@ -17,7 +17,7 @@ The following are the current TOC members:
 - Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2026)
 - Andrew Aitken, @awaiken, Individual Contributor (TOC vote, until October 30th 2026)
 - Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027)
-- Ganesh Harke, @harkeganesh, Citi (Governing Board, until June 11th 2027)
+- Ganesh Harke, @harkeganesh, Citi (Board vote, until June 11th 2027)
 
 The voting process is [described on this page](operations/processes/elections/elections.md).
 
@@ -35,6 +35,11 @@ To support ongoing work, we use the following communication channels:
  - We use our private Tuesday meetings primarily for TOC planning.
  - We use our public Wednesday meetings primarily for FINOS project and SIG presentations as well as for other community updates.
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
+
+### We're here to help
+The TOC is here to help all of the FINOS projects and SIGs. If you need help navigating the FINOS org, are looking for cross project collaboration opportunities or have a technical challenge that you need some outside expertise on, please reach out.
+
+You can raise a [Project Engagement](https://github.com/finos/technical-oversight-committee/issues/new?template=engage.md) issue or for sensitive topics, you can contact the TOC privately at [toc-private@lists.finos.org](mailto:toc-private@lists.finos.org).
 
 ### Meetings
 The TOC meets weekly on Wednesdays at 12pm EST
@@ -56,3 +61,5 @@ Comments, questions, and opinions stated within this repository are personal sta
 ## Get in touch
 
 The TOC can be reached either via issues / PR / discussions on this repo or via the public list [toc@lists.finos.org](mailto:toc@lists.finos.org). For sensitive topics, you can contact the TOC privately at the [toc-private@lists.finos.org](mailto:toc-private@lists.finos.org).
+
+
