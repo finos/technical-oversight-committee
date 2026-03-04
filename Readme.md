@@ -7,16 +7,16 @@ This FINOS Technical Oversight Committee (TOC) is the technical governing body o
 The following are the current TOC members:
 
 - Gabor Liptak, @gliptak, Capital One (TOC vote, until October 30th 2028)
-- Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Vice Chair)**
+- Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Chair)**
 - Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
-- Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) **(Chair)**
+- Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) 
 - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
 - Vincent Caldeira, @caldeirav, Red Hat (Board vote, until June 14th 2026)
 - Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2026)
 - John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
 - Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2026)
 - Andrew Aitken, @awaiken, Individual Contributor (TOC vote, until October 30th 2026)
-- Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027)
+- Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027) **(Vice Chair)**
 - Ganesh Harke, @harkeganesh, Citi (Board vote, until June 11th 2027)
 
 The voting process is [described on this page](operations/processes/elections/elections.md).
@@ -61,5 +61,6 @@ Comments, questions, and opinions stated within this repository are personal sta
 ## Get in touch
 
 The TOC can be reached either via issues / PR / discussions on this repo or via the public list [toc@lists.finos.org](mailto:toc@lists.finos.org). For sensitive topics, you can contact the TOC privately at the [toc-private@lists.finos.org](mailto:toc-private@lists.finos.org).
+
 
 
