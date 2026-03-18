@@ -1,0 +1,34 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2026-02-27'
+  last-reviewed: '2026-02-27'
+  comment: |
+    This data is being collected as part of the project onboarding
+
+project:
+  name: "5-Spot Scheduler" # Replace with actual project name
+  homepage: "TBC" # Replace with actual homepage URL
+  administrators:
+    - name: "Erick Bourgeois" # Replace with actual name
+      affiliation: "RBC Capital Markets" # Replace with actual affiliation
+      social: "ebourgeois" # Replace with actual GitHub handle
+      primary: true # true if primary, false otherwise
+    # Add more administrators as needed
+    - name: "Brad Penney" # Replace with actual name
+      affiliation: "RBC Capital Markets" # Replace with actual affiliation
+      social: "bradpenney" # Replace with actual GitHub handle
+      primary: false # true if primary, false otherwise
+    - name: "Dan Guns" # Replace with actual name
+      affiliation: "RBC Capital Markets" # Replace with actual affiliation
+      social: "dgunzy" # Replace with actual GitHub handle
+      primary: false # true if primary, false otherwise
+  documentation:
+    quickstart-guide: "TBC" # Replace with actual link
+    detailed-guide: "TBC" # Replace with actual link
+  repositories:
+    - name: "TBC" # Replace with actual repository name
+      url: "TBC" # Replace with actual repository URL
+      comment: |
+      See README for details of what this repository contains.
+  vulnerability-reporting:
+    reports-accepted: false
