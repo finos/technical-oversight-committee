@@ -23,7 +23,7 @@ Project reports are to be submitted as a pull request to the `toc/project-report
 
 4. **Presentation:** The Project maintainers present a 10-15 minutes presentation during  the TOC meeting. The report PR will be merged after the presentation.
 
-5. **Post-Presentation:**: TOC will discuss any lifecycle transitions or support needs and Liaison creates a follow-up GitHub issue if needed.
+5. **Post-Presentation:** TOC will discuss any lifecycle transitions or support needs and create a follow-up GitHub issue if needed.
 
 ## Instructions for submission
 
