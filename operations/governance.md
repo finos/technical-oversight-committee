@@ -68,8 +68,7 @@ The key responsibilities of the TOC are summarized below:
   - Delegates may be sent to meetings, but the member is still responsible for giving feedback or acting on outcomes from the meetings
 - Participate in all project applications and promotion requests through discussion and/or voting
   - This may be asynchronous via GitHub issues or in TOC meetings
-- Act as a liaison for a project or initiative as agreed with the larger TOC body
-  - The definition and expectations of a liaison are outlined in the [Liaison Guide](./processes/liaison-program/liaison-guide.md)
+- Volunteer as a [liaison](./processes/activities.md#strategic-initiative-liaison) for a strategic initiative as agreed with the larger TOC body
 
 ### Vice Chair Responsibilities
 
