@@ -59,7 +59,7 @@ body:
       label: Confirmation & Commitment
       description: Please review and confirm your agreement to the TOC requirements.
       options:
-        - label: I have reviewed the TOC responsibilities and ways of working. With my candidacy, I confirm that I would be volunteering and assisting on the work items assigned to me.
+        - label: I have reviewed the [TOC responsibilities and ways of working](https://github.com/finos/technical-oversight-committee/blob/main/operations/governance.md). With my candidacy, I confirm that I would be volunteering and assisting on the work items assigned to me.
           required: true
 
   - type: markdown
