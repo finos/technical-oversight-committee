@@ -21,7 +21,7 @@ Project reports are to be submitted as a pull request to the `toc/project-report
 
 3. **Submission:** Maintainers submit a PR with the report at least **two week** before the meeting. TOC members review and comment on PR. Liaison works with the project to address questions.
 
-4. **Presentation:** The Project maintainers present a 10-15 minutes presentation during  the TOC meeting. The report PR will be merged after the presentation.
+4. **Presentation:** The Project maintainers present a 10-15 minutes presentation during  the TOC meeting. As part of the agenda, the TOC reviews the project's [LFX Insights](https://insights.lfx.linuxfoundation.org/foundation/finos) data to assess compliance with its maintenance requirements, including the applicable OSPS Baseline maturity level (Maturity Level 2 for Incubating, Maturity Level 3 for Graduated). The report PR will be merged after the presentation.
 
 5. **Post-Presentation:** TOC will discuss any lifecycle transitions or support needs and create a follow-up GitHub issue if needed.
 
@@ -39,6 +39,12 @@ file as
    * Fill in the project details
    * Remove the instructional text.
    * Open a PR against the `finos/technical-oversight-committee` repository.
+
+## Non-participation and unreachable projects
+
+A project that does not complete its semi-annual review — by not presenting, by not submitting a report, or by having no maintainer of record or none reachable — is recorded as out of compliance with the [presentation maintenance requirement](../operations/processes/projects/incubation.md) for that cycle. Per the lifecycle requirements, three consecutive out-of-compliance reviews qualify a project for archival.
+
+For a project with no maintainer of record or none reachable, FINOS staff post a notice on the project's issue board requesting confirmation that the project is maintained, with a response deadline (one month, with a reminder one week prior). If no maintainer responds by the deadline, the cycle is recorded as out of compliance and the project is not scheduled to present.
 
 ## Project Scope
 This review process applies to projects in the following lifecycle stages, or projects that are transitioning into or out of these stages:
