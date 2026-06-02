@@ -10,7 +10,7 @@ The following activities are part of the TOC's collective responsibilities, as d
 - **Responsible Party**: TOC Vice Chair or Volunteer TOC Member
 - **Outcome**: Review project landscape and recommend opportunities for collaboration
 - **Process**:
-  - Maintain a calendar of quarterly presentations from:
+  - Maintain a calendar of regular presentations from:
     - Incubating projects
     - Graduated projects
     - SIGs with technical outcomes
@@ -40,12 +40,12 @@ The following activities are part of the TOC's collective responsibilities, as d
 ## Project Health Review
 
 - **Responsible Party**: TOC Vice Chair
-- **Outcome**: Review project activity and recommend actions as necessary
+- **Outcome**: Review each project's health at its semi-annual presentation and recommend actions as necessary
 - **Process**:
-  - Prepare quarterly health reports using [FINOS LFX Insight Dashboard](https://insights.lfx.linuxfoundation.org/foundation/finos)
-  - Assign projects to TOC members for detailed review
-  - Consolidate findings and recommendations
-  - Track follow-up actions
+  - During each project's semi-annual presentation (see [project-reports](../../project-reports/README.md)), review the project's [LFX Insights](https://insights.lfx.linuxfoundation.org/foundation/finos) data to assess compliance with its maintenance requirements, including the applicable OSPS Baseline maturity level
+  - Record projects found out of compliance, and the support offered
+  - Track follow-up actions through GitHub Issues
+  - The TOC may additionally review a project's Insights data between presentations if concerns arise
 
 ## Landscape Evolution
 
