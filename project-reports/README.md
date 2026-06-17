@@ -11,19 +11,19 @@ Project reviews are used to:
 
 Project reports are to be submitted as a pull request to the `toc/project-reports` under current year folder. 
 
-## The Review Process
-1. **Assignment & Scheduling:** Check the [Schedule](./SCHEDULE.md) to see upcoming due dates.
-   * TOC Chair assigns presentation slots during Wednesday's public meetings. 
-   * Each project is assigned a TOC liaison for coordination. 
-   * TOC sends calendar invite to project maintainers using [Email Template](./toc-review-email-template.md). 
+The health check is centred on a written **report submitted as a pull request** — not a mandatory in-person presentation. Maintainers present to the TOC only when the TOC has questions or concerns that cannot be resolved on the report PR.
 
-2. **Preparation:** The Project maintainers create a report using the [Presentation template](./YYYY-HX-[PROJECT-NAME].md).
+1. **Scheduling:** Check the [Schedule](./SCHEDULE.md) to see upcoming due dates. Each project is assigned a TOC liaison for coordination, and the TOC notifies project maintainers of their due date using the [Email Template](./toc-review-email-template.md).
 
-3. **Submission:** Maintainers submit a PR with the report at least **two week** before the meeting. TOC members review and comment on PR. Liaison works with the project to address questions.
+2. **Preparation:** The project maintainers create a report using the [report template](./YYYY-HX-[PROJECT-NAME].md). Maintainers may, at their discretion, use the [AI-assisted drafting prompt](./AI-REPORT-PROMPT.md) to produce a first draft — but remain responsible for verifying every figure and amending anything inaccurate before submitting.
 
-4. **Presentation:** The Project maintainers present a 10-15 minutes presentation during the TOC meeting. As part of the agenda, the TOC reviews the project's [LFX Insights](https://insights.lfx.linuxfoundation.org/foundation/finos) data to assess compliance with its maintenance requirements, including the applicable OSPS Baseline maturity level (Maturity Level 2 for Incubating, Maturity Level 3 for Graduated). The report PR will be merged after the presentation.
+3. **Submission:** Maintainers submit the report as a PR to the current year's folder at least **two weeks** before the relevant TOC meeting. This report PR is the primary deliverable for the health check.
 
-5. **Post-Presentation:** TOC will discuss any lifecycle transitions or support needs and create a follow-up GitHub issue if needed.
+4. **Review:** TOC members review and comment on the PR, and the liaison works with the project to address questions in the PR thread. As part of the review, the TOC assesses the project's [LFX Insights](https://insights.lfx.linuxfoundation.org/foundation/finos) data to evaluate compliance with its maintenance requirements, including the applicable OSPS Baseline maturity level (Maturity Level 2 for Incubating, Maturity Level 3 for Graduated).
+
+5. **Presentation (only if needed):** If, after reviewing the report, the TOC has open questions or concerns, the project maintainers will be scheduled to present at a future TOC meeting to answer them. A clear, complete written report may remove the need to present at all. The report PR is merged once the TOC is satisfied — after the presentation, if one was required.
+
+6. **Follow-up:** TOC will discuss any lifecycle transitions or support needs and create a follow-up GitHub issue if needed.
 
 ## Instructions for submission
 
@@ -51,7 +51,7 @@ This review process applies to projects in the following lifecycle stages, or pr
 
 ## Non-participation and unreachable projects
 
-A project that does not complete its semi-annual review — by not presenting, by not submitting a report, or by having no maintainer of record or none reachable — is recorded as out of compliance with the [presentation maintenance requirement](../operations/processes/projects/incubation.md) for that cycle. Per the lifecycle requirements, three consecutive out-of-compliance reviews qualify a project for archival.
+A project that does not complete its semi-annual review — by not submitting a report, by not attending a presentation the TOC has scheduled, or by having no maintainer of record or none reachable — is recorded as out of compliance with the [maintenance requirement](../operations/processes/projects/incubation.md) for that cycle. Per the lifecycle requirements, three consecutive out-of-compliance reviews qualify a project for archival.
 
 For a project with no maintainer of record or none reachable, FINOS staff post a notice on the project's issue board requesting confirmation that the project is maintained, with a response deadline (one month, with a reminder one week prior). If no maintainer responds by the deadline, the cycle is recorded as out of compliance and the project is not scheduled to present.
 
