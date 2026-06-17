@@ -1,4 +1,4 @@
-# TOC Project Review & Presentation Reports
+# TOC Project Health-Check Reports
 
 These reviews are required for **every FINOS project** to ensure transparency, health, alignment with the FINOS mission, and governance.
 
@@ -27,8 +27,7 @@ The health check is centred on a written **report submitted as a pull request** 
 
 ## Instructions for submission
 
-1. **Copy the Template:** Start by copying the [Presentation template](./YYYY-HX-[PROJECT-NAME].md) 
-file as 
+1. **Copy the Template:** Start by copying the [report template](./YYYY-HX-[PROJECT-NAME].md).
 
 2. **Name the File:**
    Save the new file in the current year's folder using the following convention:

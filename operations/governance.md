@@ -51,7 +51,7 @@ The key responsibilities of the TOC are summarized below:
 | | [Lifecycle Criteria](./processes/activities.md#lifecycle-criteria) | May | Chair |
 | | [Technical Dispute Resolution](./processes/activities.md#technical-dispute-resolution) | As needed | Chair |
 | | [Cross-project Synergies](./processes/activities.md#cross-project-synergies) | Routine | Vice Chair or Volunteer |
-| | [Project Health Review](./processes/activities.md#project-health-review) | Semi-annual (per project presentation) | Vice Chair or Volunteer |
+| | [Project Health Review](./processes/activities.md#project-health-review) | Semi-annual (per project report) | Vice Chair or Volunteer |
 | | [Lifecycle Transitions](./processes/activities.md#lifecycle-transitions) | As needed | Vice Chair or Volunteer |
 | **Landscape Growth** |
 | | [Contribution Review](./processes/activities.md#contribution-review) | As needed | Chair & Volunteer |
