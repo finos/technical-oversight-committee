@@ -9,7 +9,7 @@ Project reviews are used to:
 
 # Submitting Project Updates
 
-Project reports are to be submitted as a pull request to the `toc/project-reports` under current year folder. 
+Project reports are to be submitted as a pull request under the `project-reports/[Year]/` folder for the current year.
 
 The health check is centred on a written **report submitted as a pull request** — not a mandatory in-person presentation. Maintainers present to the TOC only when the TOC has questions or concerns that cannot be resolved on the report PR.
 
