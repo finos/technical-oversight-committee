@@ -21,7 +21,7 @@ Candidates are expected to be:
 
 A TOC member publicly opens candidacies by sending a notice using the email template provided [here](elections-candidacy-template.md).
 
-Similarly to [Governing Board elections](https://community.finos.org/docs/governance/board-election), the voting process is carried out using a [ranked-choice](https://opavote.com/methods/ranked-choice-voting) instant-runoff voting process by FINOS staff using the [Linux Foundation Project Control Center Voting](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/collaborations/voting-feature) feature.
+Similarly to [Governing Board elections](https://community.finos.org/docs/governance/board-election), the voting process is carried out using a [ranked-choice instant-runoff](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/collaborations/voting-feature#instant-runoff) voting process by FINOS staff using the [Linux Foundation Project Control Center Voting](https://docs.linuxfoundation.org/lfx/project-control-center/v2-latest-version/collaborations/voting-feature) feature.
 
 If there are both Board and TOC elected seat open, the voting process will follow this order:
 
