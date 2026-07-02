@@ -40,12 +40,13 @@ The following activities are part of the TOC's collective responsibilities, as d
 ## Project Health Review
 
 - **Responsible Party**: TOC Vice Chair
-- **Outcome**: Review each project's health at its semi-annual presentation and recommend actions as necessary
+- **Outcome**: Review each project's health from its semi-annual report and recommend actions as necessary
 - **Process**:
-  - During each project's semi-annual presentation (see [project-reports](../../project-reports/README.md)), review the project's [LFX Insights](https://insights.lfx.linuxfoundation.org/foundation/finos) data to assess compliance with its maintenance requirements, including the applicable OSPS Baseline maturity level
+  - When reviewing each project's semi-annual health-check report PR (see [project-reports](../../project-reports/README.md)), review the project's [LFX Insights](https://insights.lfx.linuxfoundation.org/foundation/finos) data to assess compliance with its maintenance requirements, including the applicable OSPS Baseline maturity level
+  - Where the TOC has open questions or concerns, schedule the project to present at a TOC meeting to answer them
   - Record projects found out of compliance, and the support offered
   - Track follow-up actions through GitHub Issues
-  - The TOC may additionally review a project's Insights data between presentations if concerns arise
+  - The TOC may additionally review a project's Insights data between reports if concerns arise
 
 ## Landscape Evolution
 
