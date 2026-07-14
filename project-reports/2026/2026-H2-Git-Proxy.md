@@ -98,9 +98,9 @@ We're currently working on marketing GitProxy along with FINOS in hopes of getti
 
 # TOC Support Needed
 
-As GitProxy matures, we find ourselves needing more people to help us review PRs and make minor improvements that maintainers often don't have the time to do. Therefore, we'd really appreciate any support in getting GitProxy out in the world.
+As GitProxy matures, we find ourselves needing more people to help us review PRs and make minor improvements that maintainers often don't have the time to do. To deal with this, we've recently developed [automation for processing issues and PRs](https://github.com/finos/git-proxy/pull/1503) and need FINOS/TOC approval to add API keys and set spending limits on LLMs. If these workflows are useful for governing other FINOS projects, we're happy to share a setup/usage guide.
 
-We're also open to collaborating with other FINOS or LF projects that could benefit from including GitProxy as a dependency or to solve a specific problem.
+We're also actively marketing the project, and open to collaborating with other FINOS or LF projects that could benefit from including GitProxy as a dependency or to solve a specific problem.
 
 # Additional Information
 @coopernetes recently contributed [Fogwall](https://github.com/RBC/fogwall), a Java reimplementation of GitProxy that [solves some pain points](https://gist.github.com/coopernetes/d02d48efa759282ff8187da0d5dcae64) specific to his organization. We're working on [porting some of those features](https://github.com/finos/git-proxy/issues/1638) into GitProxy.
