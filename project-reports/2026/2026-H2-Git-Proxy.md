@@ -33,7 +33,7 @@ Source: [LFX Insights](https://insights.linuxfoundation.org/project/git-proxy/re
 
 ## Major milestones achieved
 
-- Released GitProxy v2 with many improvements including: support beyond GitHub, better handling of fork-based workflows, improved performance for large repositories, clearer documentation and better user experience
+- Released GitProxy v2 with many improvements including: support beyond GitHub, better handling of fork-based workflows, improved performance for large repositories, a full rewrite of git pushes, clearer documentation and better user experience, a wholesale refactor of the codebase to modern typescript
 - Deployed to Docker Hub gaining additional exposure
 - Added [architecture guide](https://git-proxy.finos.org/docs/architecture/) and [user manual](https://git-proxy.finos.org/docs/user-manual) to improve onboarding process
 
