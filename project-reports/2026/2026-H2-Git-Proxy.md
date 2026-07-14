@@ -20,7 +20,7 @@ GitProxy is an application that stands between developers and a Git remote endpo
 ## Goals for H2 2026
 - Increase contributor/contribution counts
 - Speed up PR reviews and merge speeds
-- Release GitProxy 2.1 and 2.2, including SSH support and brand-new UI
+- Release a series of minor and patch releases, including new features such as SSH support, a brand-new UI, live-feedback to the end user on scan progress and a host of other small quality-of-life improvements for Git Proxy users and developers
 
 # Current Status
 
