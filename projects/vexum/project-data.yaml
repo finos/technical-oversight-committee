@@ -1,0 +1,28 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2026-07-02'
+  last-reviewed: '2026-07-02'
+  comment: |
+    This data is being collected as part of the incubation for the Vexum project.
+
+project:
+  name: "Vexum"
+  homepage: "https://docs.core.vexa.ai/"
+  administrators:
+    - name: "Dmitry Grankin"
+      affiliation: "Vexa"
+      social: "DmitriyG228"
+      primary: true
+    - name: "Peter Smulovics"
+      affiliation: "Morgan Stanley
+      social: "psmulovics"
+  documentation:
+    quickstart-guide: "https://docs.core.vexa.ai/quickstart"
+    detailed-guide: "https://docs.core.vexa.ai/how-to/overview"
+  repositories:
+    - name: "vexum"
+      url: "https://github.com/Vexa-ai/vexa-core"
+      comment: |
+        See README for details of what this repository contains.
+  vulnerability-reporting:
+    reports-accepted: false
