@@ -6,24 +6,22 @@ header:
     This data is being collected as part of the incubation for the Vexum project.
 
 project:
-  name: "Vexum" # Replace with actual project name
-  homepage: "https://docs.core.vexa.ai/" # Replace with actual homepage URL
+  name: "Vexum"
+  homepage: "https://docs.core.vexa.ai/"
   administrators:
-    - name: "Dmitry Grankin" # Replace with actual name
-      affiliation: "Vexa" # Replace with actual affiliation
-      social: "DmitriyG228" # Replace with actual GitHub handle
-      primary: true # true if primary, false otherwise
-    - name: "Peter Smulovics" # Replace with actual name
-      affiliation: "Morgan Stanley # Replace with actual affiliation
-      social: "psmulovics" # Replace with actual GitHub handle
-      primary: false # true if primary, false otherwise
-    # Add more administrators as needed
+    - name: "Dmitry Grankin"
+      affiliation: "Vexa"
+      social: "DmitriyG228"
+      primary: true
+    - name: "Peter Smulovics"
+      affiliation: "Morgan Stanley
+      social: "psmulovics"
   documentation:
-    quickstart-guide: "https://docs.core.vexa.ai/quickstart" # Replace with actual link
-    detailed-guide: "https://docs.core.vexa.ai/how-to/overview" # Replace with actual link
+    quickstart-guide: "https://docs.core.vexa.ai/quickstart"
+    detailed-guide: "https://docs.core.vexa.ai/how-to/overview"
   repositories:
-    - name: "vexum" # Replace with actual repository name
-      url: "https://github.com/Vexa-ai/vexa-core" # Replace with actual repository URL
+    - name: "vexum"
+      url: "https://github.com/Vexa-ai/vexa-core"
       comment: |
         See README for details of what this repository contains.
   vulnerability-reporting:
