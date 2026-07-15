@@ -103,4 +103,4 @@ As GitProxy matures, we find ourselves needing more people to help us review PRs
 We're also actively marketing the project, and open to collaborating with other FINOS or LF projects that could benefit from including GitProxy as a dependency or to solve a specific problem.
 
 # Additional Information
-@coopernetes recently contributed [Fogwall](https://github.com/RBC/fogwall), a Java reimplementation of GitProxy that [solves some pain points](https://gist.github.com/coopernetes/d02d48efa759282ff8187da0d5dcae64) specific to his organization. We're working on [porting some of those features](https://github.com/finos/git-proxy/issues/1638) into GitProxy.
+@coopernetes recently created [fogwall](https://github.com/RBC/fogwall), a Java reimplementation of GitProxy that [solves some pain points](https://gist.github.com/coopernetes/d02d48efa759282ff8187da0d5dcae64) specific to his organization. We're working on [porting some of those features](https://github.com/finos/git-proxy/issues/1638) into GitProxy.
