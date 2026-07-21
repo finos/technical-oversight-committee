@@ -8,16 +8,16 @@ The following are the current TOC members:
 
 - Gabor Liptak, @gliptak, Capital One (TOC vote, until October 30th 2028)
 - Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Chair, until February 25th 2027)**
-- Chris Twiner, @chris-twiner, UBS (Board vote, until June 14th 2026)
 - Eddie Knight, @eddie-knight, Sonatype (Board vote, until June 14th 2026) 
 - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until June 14th 2026)
-- Vincent Caldeira, @caldeirav, Red Hat (Board vote, until June 14th 2026)
 - Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2026)
 - John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
 - Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2026)
 - Andrew Aitken, @awaiken, Individual Contributor (TOC vote, until October 30th 2026)
 - Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027) **(Vice Chair, until February 25th, 2027)**
 - Ganesh Harke, @harkeganesh, Citi (Board vote, until June 11th 2027)
+- Erick Bourgois, @ebourgeois, RBC (Board vote, until July 21st 2028)
+- Boris Litvin, @blitvinyarmy, AWS (Board vote, until July 21st 2028)
 
 The voting process is [described on this page](operations/processes/elections/elections.md).
 

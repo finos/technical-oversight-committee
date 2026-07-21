@@ -8,8 +8,6 @@ This file lists the maintainers of this repository.
 |----------------|------|--------------|-------|
 | @arroyo | John Arroyo | @arroyo | *please add email* |
 | @awaiken | Andrew Aitken | The Builder Bureau | *please add email* |
-| @caldeirav | Vincent Caldeira | Red Hat | *please add email* |
-| @chris-twiner | *please add name* | *please add organization* | *please add email* |
 | @eddie-knight | Eddie Knight | *please add organization* | *please add email* |
 | @eminty69 | Elspeth Minty | *please add organization* | *please add email* |
 | @fgogolli | Flamur Gogolli | Amazon Web Services (AWS) | *please add email* |
@@ -18,6 +16,8 @@ This file lists the maintainers of this repository.
 | @maria-mcparland | Maria McParland | *please add organization* | *please add email* |
 | @psmulovics | Peter Smulovics | Morgan Stanley | *please add email* |
 | @rocketstack-matt | Matthew Bain | *please add organization* | *please add email* |
+| @ebourgeois | Erick Bourgeois | *please add organization* | *please add email* |
+| @blitvinyarmy | Boris Litvin | *please add organization* | *please add email* |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
