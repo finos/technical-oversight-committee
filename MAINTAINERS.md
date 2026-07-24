@@ -17,7 +17,7 @@ This file lists the maintainers of this repository.
 | @harkeganesh | Ganesh Harke | *please add organization* | *please add email* |
 | @maria-mcparland | Maria McParland | *please add organization* | *please add email* |
 | @psmulovics | Peter Smulovics | Morgan Stanley | *please add email* |
-| @rocketstack-matt | Matthew Bain | *please add organization* | *please add email* |
+| @rocketstack-matt | Matthew Bain | Morgan Stanley | matt@rocketstack.co |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
