@@ -51,7 +51,7 @@ The key responsibilities of the TOC are summarized below:
 | | [Lifecycle Criteria](./processes/activities.md#lifecycle-criteria) | May | Chair |
 | | [Technical Dispute Resolution](./processes/activities.md#technical-dispute-resolution) | As needed | Chair |
 | | [Cross-project Synergies](./processes/activities.md#cross-project-synergies) | Routine | Vice Chair or Volunteer |
-| | [Project Health Review](./processes/activities.md#project-health-review) | February, May, August, November | Vice Chair or Volunteer |
+| | [Project Health Review](./processes/activities.md#project-health-review) | Semi-annual (per project presentation) | Vice Chair or Volunteer |
 | | [Lifecycle Transitions](./processes/activities.md#lifecycle-transitions) | As needed | Vice Chair or Volunteer |
 | **Landscape Growth** |
 | | [Contribution Review](./processes/activities.md#contribution-review) | As needed | Chair & Volunteer |
@@ -68,8 +68,7 @@ The key responsibilities of the TOC are summarized below:
   - Delegates may be sent to meetings, but the member is still responsible for giving feedback or acting on outcomes from the meetings
 - Participate in all project applications and promotion requests through discussion and/or voting
   - This may be asynchronous via GitHub issues or in TOC meetings
-- Act as a liaison for a project or initiative as agreed with the larger TOC body
-  - The definition and expectations of a liaison are outlined in the [Liaison Guide](./processes/liaison-program/liaison-guide.md)
+- Volunteer as a [liaison](./processes/activities.md#strategic-initiative-liaison) for a strategic initiative as agreed with the larger TOC body
 
 ### Vice Chair Responsibilities
 

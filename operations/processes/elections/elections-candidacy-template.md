@@ -18,7 +18,8 @@ Per [candidacy rules](https://github.com/finos/technical-oversight-committee/blo
     - Affiliation: <name of the company you work for - if not applicable, type “Independent”>
     - Qualifications for candidacy: <member OR active contributor of project x,y,z OR both>    
     - Bio
-    - What impact do you hope to have on the ecosystem during your tenure as TOC member: <describe impact> 
+    - What impact do you hope to have on the ecosystem during your tenure as TOC member: <describe impact>
+    - Are there any FINOS Strategic Initiatives you would be interested in working on?
   
 Below the full timeline of these elections:
 
