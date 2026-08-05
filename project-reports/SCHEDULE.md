@@ -20,7 +20,7 @@
 | Legend | 12th August 2026 | [date] | Pending | |
 | FDC3 | 26th August 2026 | [date] | Pending | |
 | FDC3 Sail | 26th August 2026 | [date] | Pending | |
-| Backplane - FDC3 Desktop Agent Bridging | 9th September 2026 | [date] | Pending | |
+| Backplane - FDC3 Desktop Agent Bridging | 26th August 2026 | [date] | Pending | |
 | AI Governance Framework | 9th September 2026 | [date] | Pending | |
 | FIN-OCR | 23rd September 2026 | [date] | Pending | |
 | Open Reg Tech US LCR | 23rd September 2026 | [date] | Pending | |
