@@ -14,8 +14,11 @@ project:
       social: "DmitriyG228"
       primary: true
     - name: "Peter Smulovics"
-      affiliation: "Morgan Stanley
+      affiliation: "Morgan Stanley"
       social: "psmulovics"
+    - name: "Preeti Gupta"
+      affiliation: "Citi"
+      social: ""
   documentation:
     quickstart-guide: "https://docs.core.vexa.ai/quickstart"
     detailed-guide: "https://docs.core.vexa.ai/how-to/overview"
