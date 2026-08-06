@@ -78,7 +78,8 @@ _Trailing 12 months (2025-08-05 → 2026-08-05), six active repositories:_
 - `lcr-interactive.finos.org` — a FINOS-hosted production service built on Morphir.
 - A published Capital One case study (co-published with FINOS).
 - A Snowflake-Labs fork of `morphir-elm` (motivation undocumented, but an unaffiliated-party signal).
-- ⟨TODO: current adopter organizations — Graduated requires active use by ≥5 organizations with ≥3 in financial services, and 2 publicly shareable adoption stories. List named organizations here; the TOC accepts private disclosure where public naming isn't possible.⟩
+- Morphir originated from production use at Morgan Stanley and continues to be used there; the LCR reference implementation was demonstrated to Morgan Stanley stakeholders during this period.
+- The maintainers are compiling a current adopter list against the Graduated criteria (active use by five or more organizations, at least three in financial services, with two shareable adoption stories). Several known deployments are internal and cannot be named publicly; the maintainers will share the full list with the TOC or the assigned liaison privately ahead of the review.
 
 **LFX Insights** rates the project *Healthy* overall while explicitly flagging that one organization accounts for >51% of contributions and one individual accounts for >51% of contributions.
 
