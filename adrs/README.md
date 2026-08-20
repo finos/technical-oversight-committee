@@ -61,3 +61,4 @@ What this makes easier, what it makes harder, and any follow-up it creates.
 | ADR | Title | Status |
 | --- | --- | --- |
 | [0001](./0001-adopt-architecture-decision-records.md) | Adopt Architecture Decision Records | Accepted |
+| [0002](./0002-maintainers-md-email-field-optional.md) | Make the `MAINTAINERS.md` email field optional | Accepted |
