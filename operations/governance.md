@@ -112,6 +112,7 @@ The key responsibilities of the TOC are summarized below:
 - Decisions, outcomes, and policies must be documented in the TOC GitHub repository
 - Charters, reports, and other key documentation should be maintained and updated on the TOC GitHub repository regularly
 - In the event that a requirement from this document is not explicitly captured herein, clarifying documentation may be captured in the TOC repository, where it should be considered equally authoritative unless conflicting with this document.
+- Governance or technical decisions with lasting effect — for example, a standard or template the TOC asks FINOS projects to follow — should be recorded as an [Architecture Decision Record](/adrs) (ADR), proposed and discussed as a PR following the process in [`adrs/README.md`](/adrs/README.md), subject to the voting process below.
 
 ## Processes
 
