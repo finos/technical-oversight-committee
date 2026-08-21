@@ -39,6 +39,6 @@ Formalize the ADR-style structure used in #308 as the standard way to propose an
 
 ## Consequences
 
-- Future governance proposals with real tradeoffs (like the `MAINTAINERS.md` question in #308) should be written up as an ADR PR rather than left as an issue thread.
+- Future governance proposals with real tradeoffs still start as a GitHub issue, per the existing [Decision-Making and Voting](../operations/governance.md#decision-making-and-voting) process — but once decided (like the `MAINTAINERS.md` question in #308), the outcome gets written up as an ADR rather than left to live only in an issue thread.
 - The TOC now has one place (`/adrs`) to point to when asked why a given standard or process exists.
 - Existing decisions are not retroactively converted — ADRs apply going forward, though a past decision worth preserving can be written up after the fact, as with the `MAINTAINERS.md` email decision reached in [#308](https://github.com/finos/technical-oversight-committee/issues/308).

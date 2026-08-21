@@ -16,9 +16,9 @@ Routine operational decisions (scheduling, meeting logistics, individual project
 
 ## Process
 
-1. Open a PR adding a new ADR file to this directory with `Status: Proposed`.
-2. Discussion happens on the PR, following the [Decision-Making and Voting](../operations/governance.md#decision-making-and-voting) process in the TOC governance document.
-3. Once a decision is reached, update the `Status` field (`Accepted`, `Rejected`, or `Superseded by ADR-NNNN`) and merge.
+1. Raise a GitHub issue proposing the decision. Discussion and voting happen there (or in TOC meetings), per [Decision-Making and Voting](../operations/governance.md#decision-making-and-voting) in the TOC governance document — this doesn't change.
+2. Once a decision is reached, open a PR adding the ADR file to this directory, `Status` set to the outcome (`Accepted` or `Rejected`), linking back to the issue.
+3. The PR is for recording the decision, not re-litigating it — substantive discussion belongs on the issue.
 4. ADRs are not deleted once merged, even if superseded — the record of what was decided and why should stay intact. A superseding ADR should link back to the one it replaces.
 
 ## Numbering and format
