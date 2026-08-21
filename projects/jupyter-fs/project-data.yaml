@@ -1,0 +1,28 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2026-07-29'
+  last-reviewed: '2026-07-29'
+  comment: |
+    This data is being collected as part of the incubation for the Jupyter-fs.
+
+project:
+  name: "Jupyter-fs"
+  homepage: "https://pypi.org/project/jupyter-fs/"
+  administrators:
+    - name: "Vidar Fauske"
+      affiliation: "JP Morgan Chase"
+      social: "@vidartf-jpmc"
+      primary: true
+    - name: "Tim Paine"
+      affiliation: "Point72 - Cubist"
+      social: "@timkpaine"
+  documentation:
+    quickstart-guide: "https://github.com/jpmorganchase/jupyter-fs/blob/main/README.md"
+    detailed-guide: ""
+  repositories:
+    - name: "jupyter-fs"
+      url: "https://github.com/jpmorganchase/jupyter-fs"
+      comment: |
+        See README for details of what this repository contains.
+  vulnerability-reporting:
+    reports-accepted: false
