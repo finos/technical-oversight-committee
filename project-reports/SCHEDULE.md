@@ -14,10 +14,10 @@
 | --- | --- | --- | --- | --- |
 | Common Architecture Language Model | 1st July 2026 | [date] | Completed & Archived | Some minor health checks that need to be updated |
 | Common Cloud Controls | 1st July 2026 | [date] | Completed & Archived | Some minor health checks that need to be updated |
-| Git Proxy | 29th July 2026 | [date] | Scheduled | |
-| FINOS Code Scanning | 29th July 2026 | [date] | Scheduled | |
-| Morphir | 12th August 2026 | [date] | Pending | |
-| Legend | 12th August 2026 | [date] | Pending | |
+| Git Proxy | 29th July 2026 | [date] | Completed & Archived | |
+| FINOS Code Scanning | 29th July 2026 | [date] | Completed & Archived | |
+| Morphir | 12th August 2026 | [date] | Completed & Archived | Raised they are having issues getting outside company participation |
+| Legend | 12th August 2026 | [date] | Completed & Archived | Struggling slightly with publicity of project |
 | FDC3 | 26th August 2026 | [date] | Pending | |
 | FDC3 Sail | 26th August 2026 | [date] | Pending | |
 | Backplane - FDC3 Desktop Agent Bridging | 26th August 2026 | [date] | Pending | |
