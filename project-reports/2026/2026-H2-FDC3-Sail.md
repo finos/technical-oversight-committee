@@ -40,6 +40,19 @@ Sail targets full FDC3 2.2 conformance today. v3 also lands the groundwork for F
 
 _GitHub API figures as at 25 August 2026; LFX figures over the trailing 12 months._
 
+## Contributor movement
+
+The maintainer group **tripled this period**, from one to three, and the project added three new contributors while retaining every contributor from the prior quarter.
+
+| Movement in the window | Count |
+|---|---|
+| New maintainers | **2** (Kris West, Rob Moffat) |
+| New contributors | **3** |
+| Retained from prior quarter | **3** (100% retention) |
+| Distinct human contributors, project lifetime | **14** |
+
+Bot and agent commits are excluded from these figures throughout.
+
 | Metric | Value |
 |---|---|
 | Quarterly-active contributors (LFX) | **7**, with 100% quarter-over-quarter retention |
