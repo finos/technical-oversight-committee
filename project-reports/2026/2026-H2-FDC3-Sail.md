@@ -12,7 +12,7 @@
 
 **Links:**
 
-- https://finos.github.io/FDC3-Sail/docs/ — documentation site
+- https://github.com/finos/FDC3-Sail/blob/main/docs/GUIDE.md — user guide (the published docs site is currently offline; see Challenges)
 - https://github.com/finos/FDC3-Sail/pull/341 — the v3 release PR, open at time of writing
 - https://insights.linuxfoundation.org/project/electron-fdc3 — LFX Insights (still listed under the pre-rename `electron-fdc3` slug; see Challenges)
 - https://scorecard.dev/viewer/?uri=github.com/finos/FDC3-Sail — OpenSSF Scorecard
@@ -31,9 +31,9 @@ Sail targets full FDC3 2.2 conformance today. v3 also lands the groundwork for F
 - **Electron target removed entirely** — the `sail-electron` package was deleted, eliminating a critical `nodeIntegration`/RCE exposure and refocusing the project as purely browser-first.
 - **v3 is landing now.** The release PR ([#341](https://github.com/finos/FDC3-Sail/pull/341)) opened on 24 August 2026. It brings a fully browser-based finance UI with no server component — unlike earlier iterations — alongside the existing `sail-one` shell, and publishes the Desktop Agent as proper npm packages for the first time. Adopters can now choose their level of engagement: take just the Desktop Agent package, take `sail-platform` (which will carry additional composition capabilities), or clone the repo and customise either UI shell.
 - **Package consolidation and API tightening** — in-repo example apps moved out to the FDC3 toolbox, the dead Zod validator replaced with schema validation from `@finos/fdc3-schema` wired on by default for inbound DACP/WCP messages, and the public export surface narrowed to a single curated entry point.
-- **Security and OSS-health tooling landed:** CodeQL, OpenSSF Scorecard, OpenSSF Best Practices (CII project 12272, currently *passing*), Semgrep, dependency review, Node.js CVE scanning, a weekly OSPS Baseline assessment, and a Changesets release pipeline. Current **OpenSSF Scorecard score: 7.9**, with full marks on Token-Permissions, Dangerous-Workflow, Security-Policy, Binary-Artifacts, Fuzzing, Dependency-Update-Tool and Contributors.
+- **Security and OSS-health tooling landed:** CodeQL, OpenSSF Scorecard, OpenSSF Best Practices (CII project 12272, currently _passing_), Semgrep, dependency review, Node.js CVE scanning, a weekly OSPS Baseline assessment, and a Changesets release pipeline. Current **OpenSSF Scorecard score: 7.9**, with full marks on Token-Permissions, Dangerous-Workflow, Security-Policy, Binary-Artifacts, Fuzzing, Dependency-Update-Tool and Contributors.
 - **Dense regression coverage** on the core agent — 60 Vitest files in `sail-desktop-agent` (85 across the monorepo) plus 17 Cucumber feature files / 154 scenarios, with a tag-coverage check that fails the build if FDC3 spec tags go untested.
-- **New maintainer: Kris West** (NatWest Group, and lead maintainer of the FDC3 standard itself) joined the maintainer group. NatWest is expected to commit dedicated developer resource on top of this. <!-- [CONFIRM] is this now confirmed, and how much? -->
+- **New maintainer: Kris West** (NatWest Group, and lead maintainer of the FDC3 standard itself) joined the maintainer group.
 - Kris's dual role also positions Sail to become a **reference and conformance-testing implementation for the FDC3 standard itself** as 3.0 develops — a differentiator versus other desktop agents.
 
 # Community & Contribution Metrics
@@ -44,12 +44,12 @@ _GitHub API figures as at 25 August 2026; LFX figures over the trailing 12 month
 
 The maintainer group **tripled this period**, from one to three, and the project added three new contributors while retaining every contributor from the prior quarter.
 
-| Movement in the window | Count |
-|---|---|
-| New maintainers | **2** (Kris West, Rob Moffat) |
-| New contributors | **3** |
-| Retained from prior quarter | **3** (100% retention) |
-| Distinct human contributors, project lifetime | **14** |
+| Movement in the window                        | Count                         |
+| --------------------------------------------- | ----------------------------- |
+| New maintainers                               | **2** (Kris West, Rob Moffat) |
+| New contributors                              | **3**                         |
+| Retained from prior quarter                   | **3** (100% retention)        |
+| Distinct human contributors, project lifetime | **14**                        |
 
 Bot and agent commits are excluded from these figures throughout.
 
@@ -65,37 +65,63 @@ xychart-beta
     bar [6, 4, 1, 3, 6]
 ```
 
-| Year | Active human contributors | Commits |
-|---|---|---|
-| 2022 | 6 | 329 |
-| 2023 | 4 | 160 |
-| 2024 | **1** | 132 |
-| 2025 | 3 | 307 |
-| 2026 (to 25 Aug) | **6** | **498** |
+| Year             | Active human contributors | Commits |
+| ---------------- | ------------------------- | ------- |
+| 2022             | 6                         | 329     |
+| 2023             | 4                         | 160     |
+| 2024             | **1**                     | 132     |
+| 2025             | 3                         | 307     |
+| 2026 (to 25 Aug) | **6**                     | **498** |
 
 2026 has already matched the project's best-ever contributor count and passed its best-ever commit count with four months still to run. Figures are derived from the git history of `finos/FDC3-Sail` with bot and agent authors excluded and duplicate author identities merged.
 
-| Metric | Value |
-|---|---|
-| Quarterly-active contributors (LFX) | **7**, with 100% quarter-over-quarter retention |
-| Distinct commit authors in the window (git) | 7 |
-| Pull requests opened in the window (LFX) | 38 (21 merged, 9 closed) |
-| Pull requests opened lifetime | 158 (121 merged) |
-| Open pull requests | **4** |
-| Average merge lead time (LFX) | ~12 days |
-| Issues opened in the window (LFX) | 111 (82 closed) |
-| Open issues | **36** |
-| Average issue-resolution time (LFX) | ~53 days |
-| GitHub stars / forks | **48 / 39** |
-| Active days in the window (LFX) | 93 of 365 |
-| Contributions outside standard work hours (LFX) | 26% |
-| OpenSSF Scorecard | **7.9** |
-| npm downloads | none yet — first publication ships with v3 |
+| Metric                                          | Value                                           |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Quarterly-active contributors (LFX)             | **7**, with 100% quarter-over-quarter retention |
+| Distinct commit authors in the window (git)     | 7                                               |
+| Pull requests opened in the window (LFX)        | 38 (21 merged, 9 closed)                        |
+| Pull requests opened lifetime                   | 158 (121 merged)                                |
+| Open pull requests                              | **6** (3 opened on 25 August)                   |
+| Average merge lead time (LFX)                   | ~12 days                                        |
+| Issues opened in the window (LFX)               | 111 (82 closed)                                 |
+| Open issues                                     | **36**                                          |
+| Average issue-resolution time (LFX)             | ~53 days                                        |
+| GitHub stars / forks                            | **48 / 39**                                     |
+| Active days in the window (LFX)                 | 93 of 365                                       |
+| Contributions outside standard work hours (LFX) | 26%                                             |
+| OpenSSF Scorecard                               | **7.9**                                         |
+| npm downloads                                   | none yet — first publication ships with v3      |
 
 - **Releases:** v1.0.0 (Electron proof-of-concept) and v2.0.0 (web MVP) are published. v3 is targeted for release once [#341](https://github.com/finos/FDC3-Sail/pull/341) merges, at which point Sail packages reach npm for the first time.
 - **Health:** LFX Insights rates the project **Healthy**; controls-assessment status is **Alpha**.
-- **OSPS Baseline:** the assessment workflow runs weekly and last succeeded on 24 August 2026. <!-- [CONFIRM] state the maturity level reached, and name any Level 2 controls still failing with a date to close them. ML2 is the requirement for Incubating. -->
-- **Meetings** are held via LF Zoom; agendas and minutes are tracked as GitHub issues labelled `meeting`. <!-- [CONFIRM] cadence and typical attendance -->
+- **OSPS Baseline:** measured position is set out in the next section.
+- **Meetings** are held every two weeks via LF Zoom; agendas and minutes are tracked as GitHub issues labelled `meeting`. Attendance is typically three or four people, which is low and reflects the contribution concentration noted below.
+
+## OSPS Baseline position
+
+The weekly assessment workflow had been reporting success while producing no assessment: it passed a repository secret that does not exist, so despite a green tick **no maturity level had in fact been evidenced**. The fix is open as [#343](https://github.com/finos/FDC3-Sail/pull/343). Running the scanner (catalog `osps-baseline-2026-02`) against `main` on 25 August 2026 establishes the project's real position:
+
+| Maturity level                    | Passed | Needs review | Failed |
+| --------------------------------- | ------ | ------------ | ------ |
+| Level 1                           | 12     | 2            | **3**  |
+| Level 2 — required for Incubating | 16     | 7            | **6**  |
+
+The six Level 2 failures, and how each closes:
+
+| Control      | Gap                                                                                           | Remediation                                                                                                                                                |
+| ------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `OSPS-DO-01` | User guide not declared                                                                       | [#343](https://github.com/finos/FDC3-Sail/pull/343) — open, awaiting review                                                                                |
+| `OSPS-QA-04` | Repository list not declared                                                                  | [#343](https://github.com/finos/FDC3-Sail/pull/343) — open, awaiting review                                                                                |
+| `OSPS-VM-03` | No private reporting contact declared, and GitHub private vulnerability reporting is disabled | [#342](https://github.com/finos/FDC3-Sail/pull/342) and [#343](https://github.com/finos/FDC3-Sail/pull/343) open; **enabling PVR needs a FINOS org admin** |
+| `OSPS-QA-05` | `.DS_Store` committed at the repository root                                                  | One-line removal, September 2026                                                                                                                           |
+| `OSPS-DO-06` | No dependency management policy exists                                                        | Policy to be written, Q4 2026                                                                                                                              |
+| `OSPS-QA-03` | Six status checks run on every PR but none are mandatory                                      | **Needs a branch-protection change by a FINOS org admin**, September 2026                                                                                  |
+
+Four of the six are surfaced by the absence of a `security-insights.yml`; [#343](https://github.com/finos/FDC3-Sail/pull/343) adds one and closes three of them. **Level 1 clears entirely** once that PR merges and `.DS_Store` is removed.
+
+Two controls sit at _needs review_ at Level 1 (`OSPS-AC-03` branch protection, `OSPS-BR-07` secret scanning) only because the scanner's token cannot observe org-level settings — they are unresolved rather than failing.
+
+The maintainer group is three people and both PRs above are open on 25 August 2026. **A reviewer from the TOC or FINOS staff would materially help land them**, and with them Level 1 and half of the Level 2 gap.
 
 # Challenges & Blockers
 
@@ -103,11 +129,11 @@ The maintainers would rather state these plainly than have them surfaced during 
 
 1. **Contribution concentration — the primary risk.** LFX flags 1 contributor and 1 organisation each accounting for 51%+ of contributions. Kris West's addition helps, but the goal is to diversify beyond the current set of backing organisations (NatWest, FINOS, Elgin White), not simply to add a second one.
 2. **Dependency vulnerabilities.** Scorecard scores the Vulnerabilities check 0/10 against 45 known advisories; `npm audit --omit=dev` reports 25 in production dependencies. Remediation is in progress and the majority clear with a straightforward dependency bump. <!-- [CONFIRM] run `npm audit fix`, then restate the residual count here -->
-3. **Vulnerability reporting is not yet private.** `SECURITY.md` currently directs reporters to open a public issue, and GitHub private vulnerability reporting is not enabled. This is being corrected as a priority.
+3. **Vulnerability reporting is not yet private.** `SECURITY.md` currently directs reporters to open a public issue, and GitHub private vulnerability reporting is not enabled. A rewrite aligning the policy with the [FINOS Security Vulnerabilities Responsible Disclosure Policy](https://community.finos.org/docs/governance/software-projects/cve-responsible-disclosure) is open as [#342](https://github.com/finos/FDC3-Sail/pull/342) and awaiting review. **Enabling private vulnerability reporting itself requires a FINOS org admin** — the maintainers have asked on that PR and would appreciate the TOC's help getting it actioned.
 4. **No external FDC3 app integrations yet.** The proof-of-concept validated the agent itself, but Sail has not yet been paired with a third-party FDC3 app in a publicly visible way.
 5. **Not yet published to npm** — resolved by the v3 release, but until then there is no downloads signal to point to.
-6. **Issue-resolution lag** — ~53 days on average despite reasonable PR velocity, indicating triage and maintenance capacity is the constraint rather than code throughput. Three pull requests ([#238](https://github.com/finos/FDC3-Sail/pull/238), [#312](https://github.com/finos/FDC3-Sail/pull/312), [#333](https://github.com/finos/FDC3-Sail/pull/333)) have been open since March, June and July respectively. <!-- [CONFIRM] does the v3 rewrite supersede these? Say so, or say what is blocking them. -->
-7. **Documentation drift.** The fast-moving v3 refactor left docs describing packages and scripts that no longer exist. The project has committed to treating docs as the blueprint going forward and reconciling code to them.
+6. **Issue-resolution lag** — ~53 days on average despite reasonable PR velocity, indicating triage and maintenance capacity is the constraint rather than code throughput. Two long-lived pull requests illustrate this: [#312](https://github.com/finos/FDC3-Sail/pull/312) (WSCP implementation and demo apps, open since June), which the maintainers intend to carry forward onto v3, and [#238](https://github.com/finos/FDC3-Sail/pull/238) (enhanced config screens, open since March), which the v3 rewrite supersedes and which will be closed with an explanation to its author. A third, [#333](https://github.com/finos/FDC3-Sail/pull/333), merged on 25 August 2026.
+7. **Documentation drift.** The fast-moving v3 refactor left docs describing packages and scripts that no longer exist, and the published documentation site is offline — GitHub Pages is not enabled on the repository, so `https://finos.github.io/FDC3-Sail/` returns 404 and the guides are readable only in-repo. The project has committed to treating docs as the blueprint going forward and reconciling code to them.
 8. **Tracking a moving standard.** Sail implements FDC3 3.0 behaviour ahead of the standard's own release, so parts of the 3.0 surface (for example `CloseError`) are hand-maintained until upstream `@finos/fdc3` ships them.
 9. **LFX project slug is stale.** Sail is still listed on LFX Insights as `electron-fdc3` — the pre-rename slug, for a project whose headline this cycle is that Electron has been removed. A rename would help discoverability of the project's own health data.
 
@@ -118,7 +144,7 @@ The maintainers would rather state these plainly than have them surfaced during 
 - **Produce one citable external integration story** — pair Sail with a third-party FDC3 app and publish the result.
 - **Close the security gaps** — private vulnerability reporting enabled, dependency advisories cleared, and OSPS Baseline Maturity Level 2 evidenced in the next report.
 - **Track FDC3 3.0 to completion** and establish Sail as a reference and conformance-testing implementation for the standard.
-- **Build v3 momentum publicly** — webinars around the launch, building toward **OSFF New York (November 2026)**, where Sail plans to present the new release. <!-- [CONFIRM] status of the conference talk submission -->
+- **Build v3 momentum publicly** — webinars around the launch.
 - **Reduce the issue backlog and resolution time.**
 - **Rebuild the documentation site** as an accurate blueprint synchronised with the v3 codebase.
 
