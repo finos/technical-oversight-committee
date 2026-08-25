@@ -53,6 +53,28 @@ The maintainer group **tripled this period**, from one to three, and the project
 
 Bot and agent commits are excluded from these figures throughout.
 
+### Five-year trajectory
+
+LFX Insights reports on a single quarter, which understates what has happened here. Measured over the project's whole life, 2024 was the low point — one active contributor — and the project has since been rebuilt:
+
+```mermaid
+xychart-beta
+    title "Active human contributors per year"
+    x-axis [2022, 2023, 2024, 2025, 2026]
+    y-axis "Contributors" 0 --> 8
+    bar [6, 4, 1, 3, 6]
+```
+
+| Year | Active human contributors | Commits |
+|---|---|---|
+| 2022 | 6 | 329 |
+| 2023 | 4 | 160 |
+| 2024 | **1** | 132 |
+| 2025 | 3 | 307 |
+| 2026 (to 25 Aug) | **6** | **498** |
+
+2026 has already matched the project's best-ever contributor count and passed its best-ever commit count with four months still to run. Figures are derived from the git history of `finos/FDC3-Sail` with bot and agent authors excluded and duplicate author identities merged.
+
 | Metric | Value |
 |---|---|
 | Quarterly-active contributors (LFX) | **7**, with 100% quarter-over-quarter retention |
