@@ -22,8 +22,6 @@ The framework is deliberately architecture-agnostic and vendor-neutral. It cover
 - **Leadership and practitioner training material** developed alongside the catalogue, with an eLearning conversion under way.
 - **Contribution tooling**: deterministic pre-review checks that validate front matter, reference resolution, sequence collisions, cross-link conventions and amendments to approved specifications — introduced after a silent data defect reached `main` (see Challenges).
 
-> **TODO (Asad):** add adoption evidence if we have any we can name — firms using it internally, citations in vendor or regulator material, conference talks. The TOC weighs this heavily and we currently assert reuse (SDLC Controls) but no named adopters.
-
 # Community & Contribution Metrics
 
 _GitHub (`finos/ai-governance-framework`), trailing 12 months (2025-08-25 → 2026-08-25):_
@@ -32,17 +30,21 @@ _GitHub (`finos/ai-governance-framework`), trailing 12 months (2025-08-25 → 20
 - **Commits:** 137 in the window.
 - **Pull requests:** 66 opened, **47 merged**; **11** currently open.
 - **Issues:** 88 opened, 85 closed; **27** currently open — down from 53 following a backlog review in August 2026 that closed 28 issues, each with a stated reason.
-- **Maintainers:** 7, spanning Scott Logic, Citi, FINOS and independent contributors.
+- **Maintainers:** 7, spanning NatWest, Scott Logic, Citi, FINOS and independent contributors.
 - **Repository:** 98 stars, 58 forks. Created April 2025, so the project is ~16 months old.
 - **Ecosystem:** one downstream FINOS project seeded from the framework, plus an MCP server and a reference-architecture collaboration.
 
-> **TODO (Asad):** pull the LFX Insights figures for AIGF — quarterly-active contributors, retention, merge lead time, issue-resolution time, and the health rating. The TOC reviews LFX data live during the session, so it is better for us to have read it first. https://insights.linuxfoundation.org/
+_[LFX Insights](https://insights.linuxfoundation.org/project/ai-governance-framework):_
+
+- **Health score: Fair (66/100)** — "maintainer coverage is dragging the score down, despite stronger development cadence".
+- **Maintainer health: 28/40** — 7 maintainers with merge rights, contributors spanning **40 organisations**, median response time **6 days**.
+- **Development activity: 20/25** — active commit stream, issue triage keeping pace with incoming reports.
+- **Impact metrics unavailable**: the project publishes no tracked packages, so registry-based impact cannot be computed. This is a direct consequence of the release gap noted below.
 
 # Challenges & Blockers
 
 - **Contribution concentration.** The top contributor accounts for ~41% of commits in the window and the top two for ~53%. This is the project's principal health risk. Maintainer breadth is better than commit breadth — seven maintainers across four organisations — but authorship remains concentrated.
-- **Review latency, not contribution volume.** Contributions arrive faster than maintainers respond to them. In August 2026, five substantive proposals were found to have received no maintainer response at all, in one case for six weeks, and two pull requests were waiting on reviews that had been requested and never given. The backlog review addressed the specific instances; the underlying capacity problem is unresolved and is the honest answer to why good contributions stall here.
-- **No tagged releases.** Versioning is expressed on the site (`v2`, 2025-10-20) but the repository has no GitHub releases, so downstream consumers have no citable, immutable version to pin to. This matters more now that a second FINOS project and an MCP server consume the catalogue.
+- **Review latency, not contribution volume.** Contributions arrive faster than maintainers respond to them. In August 2026, five substantive proposals were found to have received no maintainer response at all, in one case for six weeks, and two pull requests were waiting on reviews that had been requested and never given. The backlog review addressed the specific instances; the underlying capacity problem is unresolved
 - **Silent data defects.** A missing newline in generated front matter removed twenty cross-references from the published site and went unnoticed for five weeks, because the YAML remained valid. A contributor fixed it within 48 hours of it being filed, and the deterministic checks that found it now exist — but they are not yet enforced in CI.
 - **No operational capacity.** The project has maintainers but no operational function. Anything that needs running rather than reviewing — a hosted MCP endpoint, an assistant on the website — currently has nobody to carry it.
 - **AI-assisted contributions are arriving with no stated position.** The repository already receives them. The defect above originated in a generated block that nobody verified.
@@ -50,14 +52,12 @@ _GitHub (`finos/ai-governance-framework`), trailing 12 months (2025-08-25 → 20
 # Roadmap & Goals for Next 6 Months
 
 - **v4 roadmap: operationalisation.** Move the framework from a catalogue of prose controls toward something a firm can enforce and evidence at runtime. Five contributor proposals now sit under this heading: a runtime policy and evidence reference implementation for the agentic mitigations, signed and independently verifiable decision receipts as the evidence artifact, verifiable operand provenance, scaled adoption tiers for resource-constrained institutions, and a reference operational lifecycle.
-- **Hosted AIGF services.** A FINOS-hosted MCP server, an index over the project's own history, and an assistant on the framework site — raised as an infrastructure and budget request modelled on the CALM precedent. Phase one is a beta with no SLA.
+- **Hosted AIGF services.** A FINOS-hosted MCP server, an index over the project's own history, and an assistant on the framework site — raised as an infrastructure and budget request modelled on the CALM precedent. Phase one is a beta with no SLA & enabling dog fooding.
 - **Adoption material.** Adopter-facing one-pagers, an end-to-end playbook showing how AIGF, CALM and CC4AI compose, and eLearning conversion of the training content. The recurring request from outside the working group is a worked path in, and the catalogue does not yet provide one.
 - **Use case expansion**, continuing the pattern of concrete deployments with named risks rather than abstractions.
 - **Contributor breadth**, to reduce the concentration above: curated good-first-issues, faster first response, and outreach to member organisations.
 - **Supply chain and vendor compliance**, including machine-readable policy for vendor engagement.
 - **Tagged releases and CI enforcement** of the catalogue checks.
-
-> **TODO (Asad):** confirm which of these we actually commit to for the next six months versus list as aspiration. The TOC will read this as a plan, and it is better to commit to four things than to list eight.
 
 # TOC Support Needed
 
@@ -72,8 +72,3 @@ _GitHub (`finos/ai-governance-framework`), trailing 12 months (2025-08-25 → 20
 - The catalogue is structured Markdown with YAML front matter, so it is machine-readable by design: every risk and mitigation carries typed references to the external frameworks it maps to, and those relationships are validated mechanically.
 - Governance artifacts: working sessions run fortnightly with agendas and minutes kept as GitHub issues; contributions require DCO sign-off and pull request review.
 - Related repositories: [aigf-mcp-server](https://github.com/finos/aigf-mcp-server), [ai-reference-architecture-library](https://github.com/finos/ai-reference-architecture-library), [SDLC-Controls-Framework](https://github.com/finos-labs/SDLC-Controls-Framework).
-
-> **TODO (Asad):** three things before this goes up —
-> 1. `MAINTAINERS.md` in the AIGF repo has `*please add organization*` placeholders against five of seven maintainers, including you. The TOC looks at maintainer affiliation as a concentration signal; worth filling in first.
-> 2. Confirm attendance for 9 September, 12:00 EST / 17:00 BST, and who else from the maintainer group presents.
-> 3. The report is meant to land **two weeks before** the session — that was 26 August. Worth a note to the liaison when you open the PR.
