@@ -113,11 +113,11 @@ The six Level 2 failures, and how each closes:
 | `OSPS-DO-01` | User guide not declared                                                                       | [#343](https://github.com/finos/FDC3-Sail/pull/343) — open, awaiting review                                                                                |
 | `OSPS-QA-04` | Repository list not declared                                                                  | [#343](https://github.com/finos/FDC3-Sail/pull/343) — open, awaiting review                                                                                |
 | `OSPS-VM-03` | No private reporting contact declared, and GitHub private vulnerability reporting is disabled | [#342](https://github.com/finos/FDC3-Sail/pull/342) and [#343](https://github.com/finos/FDC3-Sail/pull/343) open; **enabling PVR needs a FINOS org admin** |
-| `OSPS-QA-05` | `.DS_Store` committed at the repository root                                                  | One-line removal, September 2026                                                                                                                           |
+| `OSPS-QA-05` | `.DS_Store` committed at the repository root                                                  | [#343](https://github.com/finos/FDC3-Sail/pull/343) — open, awaiting review                                                                                |
 | `OSPS-DO-06` | No dependency management policy exists                                                        | Policy to be written, Q4 2026                                                                                                                              |
 | `OSPS-QA-03` | Six status checks run on every PR but none are mandatory                                      | **Needs a branch-protection change by a FINOS org admin**, September 2026                                                                                  |
 
-Four of the six are surfaced by the absence of a `security-insights.yml`; [#343](https://github.com/finos/FDC3-Sail/pull/343) adds one and closes three of them. **Level 1 clears entirely** once that PR merges and `.DS_Store` is removed.
+Four of the six are surfaced by the absence of a `security-insights.yml`; [#343](https://github.com/finos/FDC3-Sail/pull/343) adds one and closes three of them. **Level 1 clears entirely** once that PR merges.
 
 Two controls sit at _needs review_ at Level 1 (`OSPS-AC-03` branch protection, `OSPS-BR-07` secret scanning) only because the scanner's token cannot observe org-level settings — they are unresolved rather than failing.
 
