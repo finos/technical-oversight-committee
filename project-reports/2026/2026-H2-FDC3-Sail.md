@@ -23,6 +23,12 @@
 
 FDC3 Sail is FINOS's open source implementation of the [FDC3](https://fdc3.finos.org) interoperability standard: a browser-first FDC3 2.2 **Desktop Agent** (`@finos/sail-desktop-agent`) that other packages compose into a broader interoperability platform (`@finos/sail-platform`), plus two example UI shells — `sail-finance`, a finance workspace dashboard, and `sail-one`, a domain-neutral tab-and-grid canvas.
 
+## How Sail got here
+
+Sail began in February 2022 as `electron-fdc3`, an Electron-based FDC3 container started and first presented by Nick Kolba. Kolba handed it to Rob Moffat over the course of 2023. **In 2024 Rob was the only contributor to the project — 130 commits, one person, no bus factor.** He rebuilt it for the web and shipped v2, FDC3 in the browser, through 2025. Chris Watson's first commit landed in May 2025; Kris West joined as a maintainer this period.
+
+The project now has **three maintainers and six active contributors, matching its 2022 peak**. The work of this reporting period has been to make it sturdy rather than to add features: the Electron target deleted, security and OSS-health tooling added, dependency advisories driven down, the repository structure hardened and the OSPS Baseline position measured for the first time. v3 finishes what the rename from `electron-fdc3` started — browser-first, no server component, published to npm. The goal is **production-ready software while remaining Incubating this cycle.**
+
 Sail targets full FDC3 2.2 conformance today. v3 also lands the groundwork for FDC3 3.0 — version negotiation and the 3.0 error surface, including `fdc3.close` — ahead of the standard's own 3.0 release.
 
 # Current Status
@@ -62,18 +68,20 @@ xychart-beta
     title "Active human contributors per year"
     x-axis [2022, 2023, 2024, 2025, 2026]
     y-axis "Contributors" 0 --> 8
-    bar [6, 4, 1, 3, 6]
+    bar [6, 5, 1, 3, 6]
 ```
 
-| Year             | Active human contributors | Commits |
-| ---------------- | ------------------------- | ------- |
-| 2022             | 6                         | 329     |
-| 2023             | 4                         | 160     |
-| 2024             | **1**                     | 132     |
-| 2025             | 3                         | 307     |
-| 2026 (to 25 Aug) | **6**                     | **498** |
+| Year             | Active human contributors | Commits to `main` |
+| ---------------- | ------------------------- | ----------------- |
+| 2022             | 6                         | 244               |
+| 2023             | 5                         | 133               |
+| 2024             | **1**                     | 130               |
+| 2025             | 3                         | 78                |
+| 2026 (to 25 Aug) | **6**                     | 18                |
 
-2026 has already matched the project's best-ever contributor count and passed its best-ever commit count with four months still to run. Figures are derived from the git history of `finos/FDC3-Sail` with bot and agent authors excluded and duplicate author identities merged.
+2026 has already matched the project's best-ever contributor count with four months still to run. The commit column understates this year and should not be read as a slowdown: the v3 rewrite arrives as a single pull request ([#341](https://github.com/finos/FDC3-Sail/pull/341)) carrying 819 changed files and roughly 513,000 added lines in two commits, none of which is on `main` yet.
+
+Figures are derived from the git history of `finos/FDC3-Sail` — commits on `main` only, excluding merge commits, bot and agent authors, with duplicate author identities merged.
 
 | Metric                                          | Value                                           |
 | ----------------------------------------------- | ----------------------------------------------- |
@@ -152,10 +160,18 @@ The maintainers would rather state these plainly than have them surfaced during 
 
 How can the TOC help FDC3 Sail achieve its upcoming goals?
 
+**Three of these can be actioned directly, and the maintainers cannot do them alone:**
+
+- **Reviewers for pull requests — the most useful thing anyone can give us.** The maintainer group is three people and review is the bottleneck behind the ~53-day issue-resolution figure above. Maintainer-level reviewers from other FINOS projects, or FINOS staff time, would move that number more than any other intervention. Two security PRs ([#342](https://github.com/finos/FDC3-Sail/pull/342), [#343](https://github.com/finos/FDC3-Sail/pull/343)) are open and waiting as this report is written.
+- **Enable GitHub private vulnerability reporting on `finos/FDC3-Sail`.** This requires `admin` on the repository; the maintainers hold `maintain` and cannot do it. It is the remaining half of `OSPS-VM-03`.
+- **Make the six existing status checks required on `main`.** They already run on every pull request but none are mandatory, which fails `OSPS-QA-03`. This is a branch-protection change and also needs a FINOS org admin.
+
+**And the longer-running asks:**
+
 - **Growing the contributor and user base — the primary ask.** Specifically: introductions to member firms evaluating FDC3 desktop agents, and help converting current inbound interest into the one new contributing organisation named above.
 - **Visibility** — amplifying the v3 launch and the NatWest maintainer addition, particularly around OSFF New York.
 - **Cross-project collaboration.** FDC3, FDC3 Sail and Backplane all present in the same session. Given Kris West's dual role as Sail maintainer and lead maintainer of the FDC3 standard, the maintainers would like to discuss a joint story: Sail as the reference and conformance-testing implementation for FDC3 3.0, with Backplane covering bridging.
-- **Lifecycle guidance.** Sail expects to remain **Incubating** this cycle. The maintainers' view is that the path to Graduated runs through the v3 npm release, named production adopters and OSPS Baseline Level 3 — and would welcome the TOC's view on what evidence a future graduation review would need.
+- **Lifecycle guidance.** To be explicit about the goal, because "production grade" is easy to misread as a lifecycle claim: the maintainers are aiming for **production-ready software while remaining Incubating** this cycle, with v3 as the marker. Their view is that the path to Graduated then runs through the v3 npm release, named production adopters and OSPS Baseline Level 3 — and they would welcome the TOC's view on what evidence a future graduation review would need.
 
 # Additional Information
 
