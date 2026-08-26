@@ -23,7 +23,7 @@
 
 FDC3 Sail is FINOS's open source implementation of the [FDC3](https://fdc3.finos.org) interoperability standard.
 
-**Today's released version is v2**, a web-based MVP that was never intended for production use. **v3 is the direction of travel** and is open now as [PR #341](https://github.com/finos/FDC3-Sail/pull/341): a browser-first FDC3 2.2 Desktop Agent (`@finos/sail-desktop-agent`), a composition layer (`@finos/sail-platform`), and two example UI shells, `sail-finance` and `sail-one`. v3 is the release that puts Sail on npm for the first time.
+**Today's released version is v2**, a web-based MVP that was never intended for production use. **v3 is the direction of travel** and is open now as [PR #341](https://github.com/finos/FDC3-Sail/pull/341): a browser-first FDC3 2.2 Desktop Agent (`@finos/sail-desktop-agent`), a composition layer (`@finos/sail-platform`), and two example UI shells, `sail-finance` and `sail-one`. v3 is the release that puts Sail on npm for the first time. It lands in stages: the alpha merges to `main` in September, a beta follows in October, and the project demos v3 publicly in November.
 
 The short version of this cycle: the project went from one contributor to three maintainers and six contributors, deleted its Electron attack surface, measured its security posture for the first time, and prepared v3. It now needs reviewers and real-world adopters.
 
@@ -99,18 +99,18 @@ LFX Insights scores Sail **77 out of 100, "healthy"**. The dimension breakdown i
 
 ## Throughput
 
-| Metric                                 | Value                                |
-| -------------------------------------- | ------------------------------------ |
-| Issues opened / closed, last 12 months | 112 / **92** (82% closed)            |
-| PRs opened / merged, last 12 months    | 44 / **25**                          |
-| Open issues / open PRs                 | 36 / **9**                           |
-| Median first response on a PR          | **~10 hours**                        |
-| Median time to merge a PR              | 7 days                               |
-| Median time to close an issue          | 35 days                              |
-| Distinct human contributors, lifetime  | 14                                   |
-| Stars / forks                          | 48 / 39                              |
-| OpenSSF Scorecard                      | **7.9**                              |
-| npm downloads                          | none yet; first publication ships v3 |
+| Metric                                 | Value                                    |
+| -------------------------------------- | ---------------------------------------- |
+| Issues opened / closed, last 12 months | 112 / **92** (82% closed)                |
+| PRs opened / merged, last 12 months    | 44 / **25**                              |
+| Open issues / open PRs                 | 36 / **9**                               |
+| Median first response on a PR          | **~10 hours**                            |
+| Median time to merge a PR              | 7 days                                   |
+| Median time to close an issue          | 35 days                                  |
+| Distinct human contributors, lifetime  | 14                                       |
+| Stars / forks                          | 48 / 39                                  |
+| OpenSSF Scorecard                      | **7.9**                                  |
+| npm downloads                          | none yet; first alpha publishes Sep 2026 |
 
 **Sail answers quickly and finishes most of what it starts.** A pull request gets a first response in about ten hours, and 82% of the issues raised get closed. What three people cannot do is review at volume, and that is where work stalls. Nine pull requests are open as this is written, including security fixes that cannot merge until another maintainer reviews them.
 
@@ -147,7 +147,7 @@ The maintainers would rather state these plainly than have them surfaced during 
 3. **Dependency vulnerabilities, now in hand.** `npm audit` against `main` on 25 August 2026 reported 11 advisories in production dependencies, down from 25 earlier that month. [#346](https://github.com/finos/FDC3-Sail/pull/346) clears every critical and high severity finding and is open for review. OpenSSF Scorecard still reads 0 out of 10 on Vulnerabilities, but that scan is dated 17 August and predates this work.
 4. **Vulnerability reporting is not yet private.** `SECURITY.md` directs reporters to open a public issue. A rewrite aligning with the [FINOS responsible disclosure policy](https://community.finos.org/docs/governance/software-projects/cve-responsible-disclosure) is open as [#342](https://github.com/finos/FDC3-Sail/pull/342), and private vulnerability reporting has been requested from FINOS.
 5. **No external FDC3 app integrations yet.** The proof-of-concept validated the agent itself. Sail has not been paired with a third-party FDC3 app in a publicly visible way.
-6. **Not yet published to npm.** Resolved by v3, but until then there is no downloads signal to point to.
+6. **Not yet published to npm.** The first alpha packages publish in September 2026, so there is no downloads signal to point to in this report.
 7. **Two long-lived pull requests.** [#312](https://github.com/finos/FDC3-Sail/pull/312), the WSCP implementation open since June, will be carried forward onto v3. [#238](https://github.com/finos/FDC3-Sail/pull/238), enhanced config screens open since March, is superseded by the v3 rewrite and will be closed with an explanation to its author.
 8. **The documentation site is not live yet.** The guides have been rewritten and a publishing workflow ships with v3, but GitHub Pages is not yet enabled, so `finos.github.io/FDC3-Sail/` still returns 404 and the guides are readable only in the repository. This resolves when v3 merges.
 9. **Tracking a moving standard.** Sail implements FDC3 3.0 behaviour ahead of the standard's own release, so parts of the 3.0 surface are hand-maintained until upstream `@finos/fdc3` ships them.
@@ -155,15 +155,17 @@ The maintainers would rather state these plainly than have them surfaced during 
 
 # Roadmap & Goals for Next 6 Months
 
-| When            | Goal                                                                   |
-| --------------- | ---------------------------------------------------------------------- |
-| **Sep 2026**    | **Ship v3** and publish npm packages for the first time                |
-| Sep 2026        | Land the open security PRs, clear dependency advisories, clear OSPS L1 |
-| Sep 2026        | Bring the documentation site live once Pages is enabled                |
-| Oct-Nov 2026    | Produce one citable external integration story                         |
-| Q4 2026         | Onboard one actively contributing organisation                         |
-| **Next report** | **Evidence OSPS Baseline Maturity Level 2**                            |
-| Ongoing         | Track FDC3 3.0 to completion; build v3 momentum with launch webinars   |
+| When            | Goal                                                                           |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Sep 2026**    | **Merge the v3 alpha into `main`** and publish the first alpha packages to npm |
+| Sep 2026        | Land the open security PRs, clear dependency advisories, clear OSPS Level 1    |
+| Sep 2026        | Bring the documentation site live once Pages is enabled                        |
+| **Oct 2026**    | **v3 beta release**                                                            |
+| **Nov 2026**    | **Public demo of Sail v3**                                                     |
+| Nov-Dec 2026    | Produce one citable external integration story, on the beta                    |
+| Q4 2026         | Onboard one actively contributing organisation                                 |
+| **Next report** | **Evidence OSPS Baseline Maturity Level 2**                                    |
+| Ongoing         | Track FDC3 3.0 to completion; build v3 momentum with launch webinars           |
 
 By "actively contributing organisation" the maintainers mean sustained enough participation in issues, pull requests and reviews to justify electing a maintainer from that organisation.
 
