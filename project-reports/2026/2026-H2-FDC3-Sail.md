@@ -47,7 +47,7 @@ The goal is **production-ready software while remaining Incubating this cycle.**
 
 - **First use outside the maintainer group.** Sail's Desktop Agent ran in a live proof-of-concept with a buy-side firm between April and June 2026 and performed as expected. The firm cannot be named publicly, but details can be shared privately with the TOC liaison.
 - **v3 makes adoption a-la-carte.** The release PR opened on 24 August 2026. Adopters can take just the Desktop Agent package, take `sail-platform`, or clone the repository and customise a UI shell.
-- **Demoed against third-party FDC3 apps.** Sail has been shown working with FDC3 apps it does not own, including AdapTable, which is carried in the app directory. These demos have not yet been written up publicly; see Challenges.
+- **Demoed against third-party FDC3 apps.** Sail has been shown working with FDC3 apps it does not own, including AdapTable, which is carried in the app directory. A published write-up of one of them is a goal for the next period.
 - **Sail and the FDC3 standard share their maintainers.** All three Sail maintainers are also maintainers of the FDC3 standard, and Kris West is its lead maintainer. That overlap positions Sail as a reference and conformance-testing implementation for FDC3 3.0.
 
 **Engineering**
@@ -147,12 +147,11 @@ The maintainers would rather state these plainly than have them surfaced during 
 2. **Contribution concentration.** One contributor accounts for **58% of all commits** to `main` over the project's lifetime, and LFX puts organisational concentration at a similar level with a bus factor of 3. The goal is to diversify beyond NatWest, FINOS and Elgin White rather than simply to add a fourth organisation.
 3. **Dependency vulnerabilities, now in hand.** `npm audit` against `main` on 25 August 2026 reported 11 advisories in production dependencies, down from 25 earlier that month. [#346](https://github.com/finos/FDC3-Sail/pull/346) clears every critical and high severity finding and is open for review. OpenSSF Scorecard still reads 0 out of 10 on Vulnerabilities, but that scan is dated 17 August and predates this work.
 4. **Vulnerability reporting is not yet private.** `SECURITY.md` directs reporters to open a public issue. A rewrite aligning with the [FINOS responsible disclosure policy](https://community.finos.org/docs/governance/software-projects/cve-responsible-disclosure) is open as [#342](https://github.com/finos/FDC3-Sail/pull/342), and private vulnerability reporting has been requested from FINOS.
-5. **External integrations are demoed but not written up.** Sail has been demoed against third-party FDC3 apps, including AdapTable, which is carried in the app directory. What the project lacks is a published, citable account of one of those integrations that a prospective adopter could read. Producing one is a roadmap goal for this period.
-6. **Not yet published to npm.** The first alpha packages publish in September 2026, so there is no downloads signal to point to in this report.
-7. **Two long-lived pull requests.** [#312](https://github.com/finos/FDC3-Sail/pull/312), the WSCP implementation open since June, will be carried forward onto v3. [#238](https://github.com/finos/FDC3-Sail/pull/238), enhanced config screens open since March, is superseded by the v3 rewrite and will be closed with an explanation to its author.
-8. **The documentation site is not live yet.** The guides have been rewritten and a publishing workflow ships with v3, but GitHub Pages is not yet enabled, so `finos.github.io/FDC3-Sail/` still returns 404 and the guides are readable only in the repository. This resolves when v3 merges.
-9. **Tracking a moving standard.** Sail implements FDC3 3.0 behaviour ahead of the standard's own release, so parts of the 3.0 surface are hand-maintained until upstream `@finos/fdc3` ships them.
-10. **Stale LFX slug and tags.** The display name is correct, but the URL slug is still `electron-fdc3` and the project is tagged `electron` and `fdc3`, for a project whose headline this cycle is that Electron has been removed.
+5. **Not yet published to npm.** The first alpha packages publish in September 2026, so there is no downloads signal to point to in this report.
+6. **Two long-lived pull requests.** [#312](https://github.com/finos/FDC3-Sail/pull/312), the WSCP implementation open since June, will be carried forward onto v3. [#238](https://github.com/finos/FDC3-Sail/pull/238), enhanced config screens open since March, is superseded by the v3 rewrite and will be closed with an explanation to its author.
+7. **The documentation site is not live yet.** The guides have been rewritten and a publishing workflow ships with v3, but GitHub Pages is not yet enabled, so `finos.github.io/FDC3-Sail/` still returns 404 and the guides are readable only in the repository. This resolves when v3 merges.
+8. **Tracking a moving standard.** Sail implements FDC3 3.0 behaviour ahead of the standard's own release, so parts of the 3.0 surface are hand-maintained until upstream `@finos/fdc3` ships them.
+9. **Stale LFX slug and tags.** The display name is correct, but the URL slug is still `electron-fdc3` and the project is tagged `electron` and `fdc3`, for a project whose headline this cycle is that Electron has been removed.
 
 # Roadmap & Goals for Next 6 Months
 
