@@ -23,7 +23,7 @@
 
 FDC3 Sail is FINOS's open source implementation of the [FDC3](https://fdc3.finos.org) interoperability standard.
 
-**Today's released version is v2**, a web-based MVP that was never intended for production use. **v3 is the direction of travel** and is open now as [PR #341](https://github.com/finos/FDC3-Sail/pull/341): a browser-first FDC3 2.2 Desktop Agent (`@finos/sail-desktop-agent`), a composition layer (`@finos/sail-platform`), and two example UI shells, `sail-finance` and `sail-one`. v3 is the release that puts Sail on npm for the first time. It lands in stages: the alpha merges to `main` in September, a beta follows in October, and the project demos v3 publicly in November.
+**Today's released version is v2**, a web-based MVP that was never intended for production use. **v3 is the direction of travel** and is open now as [PR #341](https://github.com/finos/FDC3-Sail/pull/341): a browser-first FDC3 2.2 Desktop Agent (`@finos/sail-desktop-agent`), a composition layer (`@finos/sail-platform`), and two example UI shells, `sail-finance` and `sail-one`. v3 is the release that puts Sail on npm for the first time. It lands in stages: the alpha merges to `main` in September, a beta follows in October, and v3 is demoed at OSFF New York in November.
 
 The short version of this cycle: the project went from one contributor to three maintainers and six contributors, deleted its Electron attack surface, measured its security posture for the first time, and prepared v3. It now needs reviewers and real-world adopters.
 
@@ -161,8 +161,9 @@ The maintainers would rather state these plainly than have them surfaced during 
 | Sep 2026        | Land the open security PRs, clear dependency advisories, clear OSPS Level 1    |
 | Sep 2026        | Bring the documentation site live once Pages is enabled                        |
 | **Oct 2026**    | **v3 beta release**                                                            |
-| **Nov 2026**    | **Public demo of Sail v3**                                                     |
+| **Nov 2026**    | **Demo Sail v3 at OSFF New York**                                              |
 | Nov-Dec 2026    | Produce one citable external integration story, on the beta                    |
+| Sep 2026        | Label a first tranche of `good first issue` and `help wanted` tickets          |
 | Q4 2026         | Onboard one actively contributing organisation                                 |
 | **Next report** | **Evidence OSPS Baseline Maturity Level 2**                                    |
 | Ongoing         | Track FDC3 3.0 to completion; build v3 momentum with launch webinars           |
@@ -178,9 +179,10 @@ By "actively contributing organisation" the maintainers mean sustained enough pa
 **And the longer-running asks:**
 
 1. **Help us get Sail running in real environments.** Introductions to member firms evaluating FDC3 desktop agents, and help converting current inbound interest into named evaluations. NatWest is the most likely first candidate given Kris West's involvement, and the maintainers would welcome help making that concrete.
-2. **Visibility.** Amplify the v3 launch and the NatWest maintainer addition, particularly around OSFF New York.
-3. **Cross-project collaboration.** FDC3, FDC3 Sail and Backplane present in the same session. Given that all three Sail maintainers also maintain the FDC3 standard, the maintainers would like to discuss a joint story: Sail as the reference and conformance-testing implementation for FDC3 3.0, with Backplane covering bridging.
-4. **Lifecycle guidance.** To be explicit, because "production grade" is easy to misread as a lifecycle claim: the maintainers are aiming for **production-ready software while remaining Incubating**, with v3 as the marker. Their view is that the path to Graduated then runs through the npm release, named production adopters and OSPS Baseline Level 3. They would welcome the TOC's view on what evidence a graduation review would need.
+2. **A call for contributors through FINOS channels and the newsletter**, plus community management support for growing meeting attendance beyond the current three or four. The project has regular meetings and a labelled on-ramp; what it lacks is reach.
+3. **Visibility, anchored on OSFF New York.** The maintainers plan to demo v3 there in November, and would welcome help amplifying that demo, the v3 launch and the NatWest maintainer addition around the event.
+4. **Cross-project collaboration.** FDC3, FDC3 Sail and Backplane present in the same session. Given that all three Sail maintainers also maintain the FDC3 standard, the maintainers would like to discuss a joint story: Sail as the reference and conformance-testing implementation for FDC3 3.0, with Backplane covering bridging.
+5. **Lifecycle guidance.** To be explicit, because "production grade" is easy to misread as a lifecycle claim: the maintainers are aiming for **production-ready software while remaining Incubating**, with v3 as the marker. Their view is that the path to Graduated then runs through the npm release, named production adopters and OSPS Baseline Level 3. They would welcome the TOC's view on what evidence a graduation review would need.
 
 # Additional Information
 
