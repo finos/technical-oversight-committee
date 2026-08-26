@@ -90,10 +90,12 @@ Figures are derived from the git history of `finos/FDC3-Sail` — commits on `ma
 | Pull requests opened in the window (LFX)        | 38 (21 merged, 9 closed)                        |
 | Pull requests opened lifetime                   | 158 (121 merged)                                |
 | Open pull requests                              | **6** (3 opened on 25 August)                   |
-| Average merge lead time (LFX)                   | ~12 days                                        |
+| Median time to first response on a PR (LFX)     | **~24 hours**                                   |
+| Median time to first response on an issue (LFX) | **~21 hours**                                   |
+| Median PR merge time (LFX)                      | **~7 days** (mean ~12 days)                     |
 | Issues opened in the window (LFX)               | 111 (82 closed)                                 |
 | Open issues                                     | **36**                                          |
-| Average issue-resolution time (LFX)             | ~53 days                                        |
+| Median issue-resolution time (LFX)              | **~30 days** (mean ~53 days)                    |
 | GitHub stars / forks                            | **48 / 39**                                     |
 | Active days in the window (LFX)                 | 93 of 365                                       |
 | Contributions outside standard work hours (LFX) | 26%                                             |
@@ -101,7 +103,29 @@ Figures are derived from the git history of `finos/FDC3-Sail` — commits on `ma
 | npm downloads                                   | none yet — first publication ships with v3      |
 
 - **Releases:** v1.0.0 (Electron proof-of-concept) and v2.0.0 (web MVP) are published. v3 is targeted for release once [#341](https://github.com/finos/FDC3-Sail/pull/341) merges, at which point Sail packages reach npm for the first time.
-- **Health:** LFX Insights rates the project **Healthy**; controls-assessment status is **Alpha**.
+- **Health:** LFX Insights scores the project **77/100, "healthy"** (live figures, read 26 August 2026); controls-assessment status is **Alpha**. The dimension breakdown is the clearest single picture of where Sail now stands:
+
+| LFX health dimension | Score  |
+| -------------------- | ------ |
+| Security             | **86** |
+| Development          | 72     |
+| Popularity           | 50     |
+| Contributor          | 40     |
+| **Maintainer**       | **37** |
+
+Security is the project's strongest dimension and maintainer capacity its weakest — which is precisely the shape of this reporting period. The hardening work has landed; the reviewer bandwidth to keep landing it has not. LFX also estimates the project's **bus factor at 3** and its replacement cost (COCOMO) at **$855,408**.
+
+- **Year-over-year growth (LFX):** the trailing 365 days against the 365 before them.
+
+| Measure              | Previous 365d | Last 365d |
+| -------------------- | ------------- | --------- |
+| Active organisations | 10            | **20**    |
+| Active contributors  | 21            | **35**    |
+| Stars gained         | 8             | 10        |
+| Forks gained         | 10            | 10        |
+
+LFX counts an "active contributor" more broadly than the git-based figure of 7 above — issues and reviews count, not only commits — so the two are not directly comparable. The trend is the point: participation roughly doubled while the project was being rebuilt.
+
 - **OSPS Baseline:** measured position is set out in the next section.
 - **Meetings** are held every two weeks via LF Zoom; agendas and minutes are tracked as GitHub issues labelled `meeting`. Attendance is typically three or four people, which is low and reflects the contribution concentration noted below.
 
@@ -129,21 +153,23 @@ Four of the six are surfaced by the absence of a `security-insights.yml`; [#343]
 
 Two controls sit at _needs review_ at Level 1 (`OSPS-AC-03` branch protection, `OSPS-BR-07` secret scanning) only because the scanner's token cannot observe org-level settings — they are unresolved rather than failing.
 
+This blind spot is not specific to one scanner. GitHub's branch-protection API requires `admin` on the repository; the maintainers hold `maintain`, so the endpoint returns `404` to them as well. LFX Insights hits the same wall and records `branchProtectionEnabled: null`. The public API confirms only that `main` is `protected: true`, with no detail. **Two independent assessment tools therefore report Sail's branch protection as unverifiable, when in fact it is configured.** One fix would resolve both: migrating `main` from classic branch protection to a **repository ruleset**, which is readable by anyone with read access on a public repository. `finos/FDC3-Sail` currently has no rulesets defined. The maintainers cannot make that change either — it also needs a FINOS org admin.
+
 The maintainer group is three people and both PRs above are open on 25 August 2026. **A reviewer from the TOC or FINOS staff would materially help land them**, and with them Level 1 and half of the Level 2 gap.
 
 # Challenges & Blockers
 
 The maintainers would rather state these plainly than have them surfaced during the review.
 
-1. **Contribution concentration — the primary risk.** LFX flags 1 contributor and 1 organisation each accounting for 51%+ of contributions. Kris West's addition helps, but the goal is to diversify beyond the current set of backing organisations (NatWest, FINOS, Elgin White), not simply to add a second one.
+1. **Contribution concentration — the primary risk.** LFX flags 1 contributor accounting for **56%** of contributions and 1 organisation for **58%**, and puts the project's **bus factor at 3**. Kris West's addition helps, but the goal is to diversify beyond the current set of backing organisations (NatWest, FINOS, Elgin White), not simply to add a second one.
 2. **Dependency vulnerabilities.** `npm audit` against `main` on 25 August 2026 reports **11 advisories in production dependencies** (3 high, 7 moderate, 1 low; **no critical**) — down from 25 earlier in August. **Every one has a non-breaking fix available and none requires a major-version bump.** Eight are the `express`/`socket.io` family and clear with `npm audit fix`; the remaining three clear with a single bump to `@finos/fdc3@2.2.3`. Across all dependencies including build and test tooling there are 36, and the single critical (`protobufjs`, reached only through the Cucumber test harness) does not ship to users. These are targeted to close with the v3 release. The OpenSSF Scorecard Vulnerabilities check still reads 0/10 against 45 advisories, but that scan is dated **17 August 2026** and predates this remediation.
 3. **Vulnerability reporting is not yet private.** `SECURITY.md` currently directs reporters to open a public issue, and GitHub private vulnerability reporting is not enabled. A rewrite aligning the policy with the [FINOS Security Vulnerabilities Responsible Disclosure Policy](https://community.finos.org/docs/governance/software-projects/cve-responsible-disclosure) is open as [#342](https://github.com/finos/FDC3-Sail/pull/342) and awaiting review. **Enabling private vulnerability reporting itself requires a FINOS org admin** — the maintainers have asked on that PR and would appreciate the TOC's help getting it actioned.
 4. **No external FDC3 app integrations yet.** The proof-of-concept validated the agent itself, but Sail has not yet been paired with a third-party FDC3 app in a publicly visible way.
 5. **Not yet published to npm** — resolved by the v3 release, but until then there is no downloads signal to point to.
-6. **Issue-resolution lag** — ~53 days on average despite reasonable PR velocity, indicating triage and maintenance capacity is the constraint rather than code throughput. Two long-lived pull requests illustrate this: [#312](https://github.com/finos/FDC3-Sail/pull/312) (WSCP implementation and demo apps, open since June), which the maintainers intend to carry forward onto v3, and [#238](https://github.com/finos/FDC3-Sail/pull/238) (enhanced config screens, open since March), which the v3 rewrite supersedes and which will be closed with an explanation to its author. A third, [#333](https://github.com/finos/FDC3-Sail/pull/333), merged on 25 August 2026.
+6. **Work is triaged quickly but finished slowly.** LFX puts the median first response at **~24 hours on a pull request and ~21 hours on an issue** — triage is not the constraint. The lag is downstream of it: median **~7 days to merge a PR** and **~30 days to close an issue**, against 36 issues opened in the last 12 months versus 18 closed. The bottleneck is review and follow-through capacity, not responsiveness. Two long-lived pull requests illustrate this: [#312](https://github.com/finos/FDC3-Sail/pull/312) (WSCP implementation and demo apps, open since June), which the maintainers intend to carry forward onto v3, and [#238](https://github.com/finos/FDC3-Sail/pull/238) (enhanced config screens, open since March), which the v3 rewrite supersedes and which will be closed with an explanation to its author. A third, [#333](https://github.com/finos/FDC3-Sail/pull/333), merged on 25 August 2026.
 7. **Documentation drift.** The fast-moving v3 refactor left docs describing packages and scripts that no longer exist, and the published documentation site is offline — GitHub Pages is not enabled on the repository, so `https://finos.github.io/FDC3-Sail/` returns 404 and the guides are readable only in-repo. The project has committed to treating docs as the blueprint going forward and reconciling code to them.
 8. **Tracking a moving standard.** Sail implements FDC3 3.0 behaviour ahead of the standard's own release, so parts of the 3.0 surface (for example `CloseError`) are hand-maintained until upstream `@finos/fdc3` ships them.
-9. **LFX project slug is stale.** Sail is still listed on LFX Insights as `electron-fdc3` — the pre-rename slug, for a project whose headline this cycle is that Electron has been removed. A rename would help discoverability of the project's own health data.
+9. **LFX project slug and tags are stale.** The display name on LFX Insights is correct ("FDC3 Sail"), but the URL slug is still `electron-fdc3` and the project is tagged `electron`, `fdc3` — for a project whose headline this cycle is that Electron has been removed. Correcting the slug and tags would help discoverability of the project's own health data.
 
 # Roadmap & Goals for Next 6 Months
 
@@ -164,7 +190,7 @@ How can the TOC help FDC3 Sail achieve its upcoming goals?
 
 - **Reviewers for pull requests — the most useful thing anyone can give us.** The maintainer group is three people and review is the bottleneck behind the ~53-day issue-resolution figure above. Maintainer-level reviewers from other FINOS projects, or FINOS staff time, would move that number more than any other intervention. Two security PRs ([#342](https://github.com/finos/FDC3-Sail/pull/342), [#343](https://github.com/finos/FDC3-Sail/pull/343)) are open and waiting as this report is written.
 - **Enable GitHub private vulnerability reporting on `finos/FDC3-Sail`.** This requires `admin` on the repository; the maintainers hold `maintain` and cannot do it. It is the remaining half of `OSPS-VM-03`.
-- **Make the six existing status checks required on `main`.** They already run on every pull request but none are mandatory, which fails `OSPS-QA-03`. This is a branch-protection change and also needs a FINOS org admin.
+- **Make the six existing status checks required on `main`.** They already run on every pull request but none are mandatory, which fails `OSPS-QA-03`. This is a branch-protection change and also needs a FINOS org admin. If it is done as a **repository ruleset** rather than classic branch protection, it would also make the configuration machine-readable to OSPS, LFX and OpenSSF Scorecard at the same time, closing `OSPS-AC-03` in the process.
 
 **And the longer-running asks:**
 
