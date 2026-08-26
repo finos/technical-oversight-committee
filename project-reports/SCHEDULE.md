@@ -17,13 +17,13 @@
 | Git Proxy | 29th July 2026 | [date] | Completed & Archived | |
 | FINOS Code Scanning | 29th July 2026 | [date] | Completed & Archived | |
 | Morphir | 12th August 2026 | [date] | Completed & Archived | Raised they are having issues getting outside company participation |
+| Open Reg Tech US LCR | 12th August 2026 | [date] | Completed & Archived | Project used as a Morphir Demo |
 | Legend | 12th August 2026 | [date] | Completed & Archived | Struggling slightly with publicity of project |
 | FDC3 | 26th August 2026 | [date] | Pending | |
 | FDC3 Sail | 26th August 2026 | [date] | Pending | |
 | Backplane - FDC3 Desktop Agent Bridging | 26th August 2026 | [date] | Pending | |
 | AI Governance Framework | 9th September 2026 | [date] | Pending | |
 | FIN-OCR | 23rd September 2026 | [date] | Pending | |
-| Open Reg Tech US LCR | 23rd September 2026 | [date] | Pending | |
 | Waltz | 7th October 2026 | [date] | Pending | |
 | Open Resource Broker | 7th October 2026 | [date] | Pending | |
 | High Throughput Compute Grid | 21st October 2026 | [date] | Pending | |
