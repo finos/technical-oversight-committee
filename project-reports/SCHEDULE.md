@@ -23,7 +23,6 @@
 | FDC3 Sail | 26th August 2026 | [date] | Completed | | [Link](2026/2026-H2-FDC3-Sail.md) |
 | Backplane - FDC3 Desktop Agent Bridging | 26th August 2026 | [date] | Completed | | [Link](2026/2026-H2-FDC3.md) |
 | AI Governance Framework | 9th September 2026 | [date] | Pending | | |
-| FIN-OCR | 23rd September 2026 | [date] | Pending | | |
 | Waltz | 7th October 2026 | [date] | Pending | | |
 | Open Resource Broker | 7th October 2026 | [date] | Pending | | |
 | High Throughput Compute Grid | 21st October 2026 | [date] | Pending | | |
@@ -44,6 +43,7 @@
 | JupyterLab Templates | 10th February 2027 | [date] | Pending | | |
 | Regular Table | 24th February 2027 | [date] | Pending | | |
 | VUU | 24th February 2027 | [date] | Pending | | |
+| FIN-OCR | 10th March 2027 | [date] | Pending | | |
 | Accessibility Theme Builder | 10th March 2027 | [date] | Pending | | |
 | REST API Specification | 10th March 2027 | [date] | Pending | | |
 | Symphony BDK Java | 24th March 2027 | [date] | Pending | | |
