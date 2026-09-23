@@ -8,7 +8,7 @@ The following are the current TOC members:
 
 - Gabor Liptak, @gliptak, Capital One (TOC vote, until October 30th 2028)
 - Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Chair, until February 25th 2027)**
-- Eddie Knight, @eddie-knight, Sonatype (Board vote, until July 21st 2028) 
+- Eddie Knight, @eddie-knight, Revanite (Board vote, until July 21st 2028) 
 - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until July 21st 2028)
 - Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2026)
 - John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
@@ -32,7 +32,7 @@ To support ongoing work, we use the following communication channels:
  - Our overall backlog of work is organised via a [GitHub project board](https://github.com/orgs/finos/projects/39).
  - We use [GitHub discussions](https://github.com/finos/technical-oversight-committee/discussions) as our primary mechanism for discussing and collaboration.
  - We use the email distribution list (toc@lists.finos.org) for announcements (e.g. announcing a meeting).
- - We record governance and technical decisions with lasting effect as [Architecture Decision Records](adrs/README.md).
+ - We record governance and technical decisions with lasting effect as [Architecture Decision Records](adrs/README.md).
  - We use our private Tuesday meetings primarily for TOC planning.
  - We use our public Wednesday meetings primarily for FINOS project and SIG presentations as well as for other community updates.
  - We have ad-hoc meetings as and when they are needed. These will not be minuted.
