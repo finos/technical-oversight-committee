@@ -1,0 +1,40 @@
+header:
+  schema-version: 2.1.0 # Security Insights v2.1.0 - https://github.com/ossf/security-insights
+  last-updated: '2026-10-02'
+  last-reviewed: '2026-10-02'
+  comment: |
+    This data is being collected as part of the graduation of the Architecture as Code (CALM) project
+    from Incubating to Graduated. Graduation request: https://github.com/finos/community/issues/455
+
+project:
+  name: "Architecture as Code (CALM)"
+  homepage: "https://calm.finos.org"
+  administrators:
+    - name: "Matthew Bain"
+      affiliation: "Morgan Stanley"
+      social: "rocketstack-matt"
+      primary: true
+    - name: "James Gough"
+      affiliation: "Morgan Stanley"
+      social: "jpgough-ms"
+    - name: "Mark Scott"
+      affiliation: "Morgan Stanley"
+      social: "markscott-ms"
+  documentation:
+    quickstart-guide: "https://calm.finos.org/tutorials/"
+    detailed-guide: "https://calm.finos.org/"
+  repositories:
+    - name: "architecture-as-code"
+      url: "https://github.com/finos/architecture-as-code"
+      comment: |
+        CALM tooling: CLI, CALM Hub, CALM Server, VS Code extension and documentation.
+    - name: "calm-schema"
+      url: "https://github.com/finos/calm-schema"
+      comment: |
+        The CALM specification, published to npm as @finos/calm-schema.
+    - name: "calm-governance"
+      url: "https://github.com/finos/calm-governance"
+      comment: |
+        Project-wide governance, maintainer roster and contribution guidelines.
+  vulnerability-reporting:
+    reports-accepted: true
