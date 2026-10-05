@@ -27,8 +27,8 @@
 | Open Resource Broker | 7th October 2026 | [date] | Pending | | |
 | High Throughput Compute Grid | 21st October 2026 | [date] | Pending | | |
 | OpenGRIS | 21st October 2026 | [date] | Pending | | |
-| 5-Spot Machine Scheduler | 4th November 2026 | [date] | Pending | | |
-| Fluxnova | 4th November 2026 | [date] | Pending | | |
+| Fluxnova | 11th November 2026 | [date] | Pending | | |
+| 5-Spot Machine Scheduler | 18th November 2026 | [date] | Pending | | |
 | Common Domain Model | 18th November 2026 | [date] | Pending | | |
 | Currency Reference Data | 18th November 2026 | [date] | Pending | | |
 | kdb+ | 2nd December 2026 | [date] | Pending | | |
