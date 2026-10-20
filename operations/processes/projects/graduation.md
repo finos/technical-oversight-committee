@@ -13,12 +13,12 @@ Graduated projects represent the highest level of project maturity. To achieve G
 - **Two** or more end-user adoption stories or case studies that can be publicly shared
 - The project must publish and adhere to FINOS-approved security policy
 - Root-level README.md must contain links to accurate and up-to-date usage and maintenance documentation
-- The project has worked with FINOS Staff to create a community sustainability plan which includes a go-to-market strategy
 - Project documentation starts with a clear, unique financial services value proposition
 
 ## Ongoing Maintenance Requirements
 
 The following must remain true for _Graduated_ projects at all times. A Health Review from the TOC will be executed every six months. Project support will be offered in the event that a project is found to be out of compliance. If a project remains out of compliance for three consecutive Health Reviews, it will qualify for archival.
+- A community sustainability plan is co-maintained with FINOS Staff, including a go-to-market strategy
 - All _Graduated, _Incubation_, _Labs_ acceptance requirements as well as _Incubation_ and _Labs_ maintenance requirements```
 - All feature work adheres to a public roadmap
 - Demonstrated progress against the Community Development Plan milestones
