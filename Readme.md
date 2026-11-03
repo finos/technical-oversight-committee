@@ -10,13 +10,13 @@ The following are the current TOC members:
 - Peter Smulovics, @psmulovics, Morgan Stanley (Board vote, until October 30th 2028) **(Chair, until February 25th 2027)**
 - Eddie Knight, @eddie-knight, Revanite (Board vote, until July 21st 2028) 
 - Matthew Bain, @rocketstack-matt, Morgan Stanley (Board vote, until July 21st 2028)
-- Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2026)
-- John Arroyo, @arroyo, Citi (TOC vote, until October 30th 2026)
-- Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2026)
-- Andrew Aitken, @awaiken, Individual Contributor (TOC vote, until October 30th 2026)
+- Elspeth Minty, @eminty69, Royal Bank of Canada (TOC vote, until October 30th 2028)
+- James Gough, @jpgough-ms, Morgan Stanley (TOC vote, until October 30th 2028)
+- Flamur Gogolli, @fgogolli, AWS (TOC vote, until October 30th 2028)
+- Paul Horton, @madpah, Sonatype (TOC vote, until October 30th 2028)
 - Maria McParland, @maria-mcparland, JPMC (TOC vote, until June 11th 2027) **(Vice Chair, until February 25th, 2027)**
 - Ganesh Harke, @harkeganesh, Citi (Board vote, until June 11th 2027)
-- Erick Bourgois, @ebourgeois, RBC (Board vote, until July 21st 2028)
+- Erick Bourgois, @ebourgeois, Royal Bank of Canada (Board vote, until July 21st 2028)
 - Boris Litvin, @blitvinyarmy, AWS (Board vote, until July 21st 2028)
 
 The voting process is [described on this page](operations/processes/elections/elections.md).
