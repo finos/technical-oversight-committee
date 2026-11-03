@@ -6,8 +6,8 @@ This file lists the maintainers of this repository.
 
 | GitHub Username | Name | Organization | Email |
 |----------------|------|--------------|-------|
-| @arroyo | John Arroyo | @arroyo | *please add email* |
-| @awaiken | Andrew Aitken | The Builder Bureau | *please add email* |
+| @jpgough-ms | James Gough | Morgan Stanley | *please add email* |
+| @madpah | Paul Horton | Sonatype | *please add email* |
 | @eddie-knight | Eddie Knight | *please add organization* | *please add email* |
 | @eminty69 | Elspeth Minty | *please add organization* | *please add email* |
 | @fgogolli | Flamur Gogolli | Amazon Web Services (AWS) | *please add email* |
