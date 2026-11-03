@@ -26,13 +26,13 @@
 | Waltz | 7th October 2026 | [date] | Pending | | |
 | Open Resource Broker | 7th October 2026 | [date] | Pending | | |
 | OpenGRIS | 21st October 2026 | [date] | Pending | | |
-| Fluxnova | 11th November 2026 | [date] | Pending | | |
 | High Throughput Compute Grid | 11th November 2026 | [date] | Pending | | |
 | 5-Spot Machine Scheduler | 18th November 2026 | [date] | Pending | | |
 | Common Domain Model | 18th November 2026 | [date] | Pending | | |
 | Currency Reference Data | 18th November 2026 | [date] | Pending | | |
 | kdb+ | 2nd December 2026 | [date] | Pending | | |
 | TimeBase CE | 2nd December 2026 | [date] | Pending | | |
+| Fluxnova | 16th December 2026 | [date] | Pending | | |
 | OpenMAMA | 16th December 2026 | [date] | Pending | | |
 | Product Control Common Template | 16th December 2026 | [date] | Pending | | |
 | Commodities Payout | 13th January 2027 | [date] | Pending | | |
