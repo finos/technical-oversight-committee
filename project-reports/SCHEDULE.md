@@ -22,10 +22,10 @@
 | FDC3 | 26th August 2026 | [date] | Completed | | [Link](2026/2026-H2-FDC3.md) |
 | FDC3 Sail | 26th August 2026 | [date] | Completed | | [Link](2026/2026-H2-FDC3-Sail.md) |
 | Backplane - FDC3 Desktop Agent Bridging | 26th August 2026 | [date] | Completed | | [Link](2026/2026-H2-FDC3.md) |
-| AI Governance Framework | 9th September 2026 | [date] | Pending | | |
-| Waltz | 7th October 2026 | [date] | Pending | | |
-| Open Resource Broker | 7th October 2026 | [date] | Pending | | |
-| OpenGRIS | 21st October 2026 | [date] | Pending | | |
+| AI Governance Framework | 9th September 2026 | [date] | Pending | | [Link](2026/2026-H2-AI-Governance-Framework.md) |
+| Waltz | 7th October 2026 | [date] | Pending | | [Link](2026/2026-H2-Waltz.md) |
+| Open Resource Broker | 7th October 2026 | [date] | Pending | | [Link](2026/2026-H2-Open-Resource-Broker.md) |
+| OpenGRIS | 21st October 2026 | [date] | Pending | | [Link](2026/2026-H2-OpenGRIS.md) |
 | High Throughput Compute Grid | 11th November 2026 | [date] | Pending | | |
 | 5-Spot Machine Scheduler | 18th November 2026 | [date] | Pending | | |
 | Common Domain Model | 18th November 2026 | [date] | Pending | | |
@@ -53,10 +53,6 @@
 | Symphony Electron | 21st April 2027 | [date] | Pending | | |
 | MessageML Utilities | 21st April 2027 | [date] | Pending | | |
 | Spring Bot | 5th May 2027 | [date] | Pending | | |
-
-
-
-
 
 
 
