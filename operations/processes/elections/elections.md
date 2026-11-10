@@ -5,7 +5,7 @@ The TOC would have 12 seats, each having a two year term
 - 6 elected by the existing TOC members
 
 ### TOC Candidates qualifications
-Nominations are encouraged from both the community and the Governing Board. Nominees must either be active contributors or an employee of a member organisation.
+Nominations are encouraged from both the community and the Governing Board. Nominees must either be employees of a FINOS member organisation or have actively contributed to a FINOS project for at least the three months immediately before submitting their nomination.
 
 ### TOC Candidates expectations
 Candidates are expected to be:
