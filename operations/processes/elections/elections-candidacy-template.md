@@ -10,7 +10,7 @@ The FINOS Technical Oversight Committee is opening a new round of elections. The
 
 Today we’re announcing the opening for candidacies, starting on `insert candidacy open date` and closing on `insert candidacy open date`. 
 
-Per [candidacy rules](https://github.com/finos/technical-oversight-committee/blob/main/operations/processes/elections/elections.md), you are eligible to stand if you are either an employee of a FINOS member organization or have actively contributed to a FINOS project for at least the three months immediately before submitting your candidacy. Candidates relying on the project-contribution route should identify the project(s) and describe their contributions during that period.
+Per [candidacy rules](https://github.com/finos/technical-oversight-committee/blob/main/operations/processes/elections/elections.md), you are eligible to stand if you are either an employee of a FINOS member organization or have actively made substantive contributions to a FINOS project for at least the three months immediately before submitting your candidacy. Candidates relying on the project-contribution route should identify the project(s) and describe their contributions during that period.
 
 To submit your candidacy:
 
