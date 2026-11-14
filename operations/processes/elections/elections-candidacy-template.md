@@ -18,7 +18,7 @@ To submit your candidacy:
 - Open a [TOC Github issue](https://github.com/finos/technical-oversight-committee/issues/new?labels=toc-candidacy&title=%5BTOC%20Candidacy%5D%20CANDIDATE%20NAME) with the following information:
     - Title: [TOC Candidacy] <full name of the candidate>
     - Affiliation: <name of the company you work for - if not applicable, type “Independent”>
-    - Qualifications for candidacy: <name of FINOS member organization, or FINOS project(s) and a description of your active contributions over the three months before submitting your candidacy>
+    - Qualifications for candidacy: <name of FINOS member organization, or FINOS project(s) and a description of your substantive contributions over the three months before submitting your candidacy>
     - Bio
     - What impact do you hope to have on the ecosystem during your tenure as TOC member: <describe impact>
     - Are there any FINOS Strategic Initiatives you would be interested in working on?
