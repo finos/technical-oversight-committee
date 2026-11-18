@@ -27,7 +27,7 @@
 | Open Resource Broker | 7th October 2026 | [date] | Pending | | [Link](2026/2026-H2-Open-Resource-Broker.md) |
 | OpenGRIS | 21st October 2026 | [date] | Pending | | [Link](2026/2026-H2-OpenGRIS.md) |
 | High Throughput Compute Grid | 11th November 2026 | [date] | Pending | | |
-| 5-Spot Machine Scheduler | 18th November 2026 | [date] | Pending | | |
+| 5-Spot Machine Scheduler | 18th November 2026 | [date] | Pending | | [Link](2026/2026-H2-5-Spot.md) |
 | Common Domain Model | 18th November 2026 | [date] | Pending | | |
 | Currency Reference Data | 18th November 2026 | [date] | Pending | | |
 | kdb+ | 2nd December 2026 | [date] | Pending | | |
